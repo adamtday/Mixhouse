@@ -16,7 +16,7 @@ related:
 
 ## Purpose
 
-Define how images, video, and audio behave across MixHouse surfaces — formats, sizes, lazy-loading, autoplay rules, accessibility, and performance budgets.
+Define how images, video, and audio behave across MixHouse surfaces, formats, sizes, lazy-loading, autoplay rules, accessibility, and performance budgets.
 
 ## Key Takeaways
 
@@ -33,7 +33,7 @@ Define how images, video, and audio behave across MixHouse surfaces — formats,
 - **Sizing:** `srcset` and `sizes` correctly defined per breakpoint.
 - **Lazy-loading:** `loading="lazy"` for all below-the-fold images.
 - **Decoding:** `decoding="async"`.
-- **Alt text:** mandatory; descriptive, not decorative ("Aerial shot of the residency at dusk" — not "image").
+- **Alt text:** mandatory; descriptive, not decorative ("Aerial shot of the residency at dusk", not "image").
 - **Hero images:** preloaded; LCP candidate clearly defined.
 
 ### Video Behaviour
@@ -131,4 +131,4 @@ Concrete steps:
 
 ## Change Log
 
-- 2026-05-20 — Initial media behaviour spec drafted.
+- 2026-05-20, Initial media behaviour spec drafted.

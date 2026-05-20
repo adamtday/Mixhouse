@@ -17,7 +17,7 @@ related:
 
 ## Purpose
 
-State the hard constraints that keep MixHouse credible to the electronic-music scene — the talent, the audiences, the press, the labels — and the governance mechanisms that hold those constraints in place.
+State the hard constraints that keep MixHouse credible to the electronic-music scene, the talent, the audiences, the press, the labels, and the governance mechanisms that hold those constraints in place.
 
 ## Key Takeaways
 
@@ -62,7 +62,7 @@ State the hard constraints that keep MixHouse credible to the electronic-music s
 
 ### Press and Scene Press Relationships
 
-- Pre-launch briefings with key scene press (Resident Advisor, Mixmag, DJ Mag, Pitchfork) — substantive, not promotional.
+- Pre-launch briefings with key scene press (Resident Advisor, Mixmag, DJ Mag, Pitchfork), substantive, not promotional.
 - Open access to set / studios for scene press during pilot.
 - Editorial respect: press are not gated from honest reporting.
 
@@ -96,7 +96,7 @@ When MixHouse adapts internationally:
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Scene rejection patterns of inauthentic music formats | Resident Advisor / DJ Mag retrospectives (target) | — | B (target) |
+| 1 | Scene rejection patterns of inauthentic music formats | Resident Advisor / DJ Mag retrospectives (target) | n/a | B (target) |
 
 ## Objections Answered
 
@@ -120,4 +120,4 @@ When MixHouse adapts internationally:
 
 ## Change Log
 
-- 2026-05-20 — Initial cultural authenticity constraints drafted.
+- 2026-05-20, Initial cultural authenticity constraints drafted.

@@ -100,7 +100,7 @@ Examples:
 ### Branches and Pull Requests
 
 - Branches: `claude/{slug}` for agent work, `feature/{slug}` for human work, `fix/{slug}` for corrections.
-- Slugs are `lower-kebab-case` for git branch names only (git convention) — they are the one exception to the snake_case rule.
+- Slugs are `lower-kebab-case` for git branch names only (git convention), they are the one exception to the snake_case rule.
 
 ### IDs and Slugs
 
@@ -108,7 +108,7 @@ When a document needs a stable identifier for cross-system reference (e.g. CMS),
 
 ## Evidence / Sources
 
-Not applicable — internal convention.
+Not applicable. Internal convention.
 
 ## Objections Answered
 
@@ -127,4 +127,4 @@ Not applicable — internal convention.
 
 ## Change Log
 
-- 2026-05-20 — Initial conventions written at repo creation.
+- 2026-05-20, Initial conventions written at repo creation.

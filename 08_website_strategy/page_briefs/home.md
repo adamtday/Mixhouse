@@ -18,7 +18,7 @@ related:
 
 ## Purpose
 
-Define the structure, content, and atmosphere of the MixHouse home page — the surface that decides, in five seconds, whether a visitor stays.
+Define the structure, content, and atmosphere of the MixHouse home page, the surface that decides, in five seconds, whether a visitor stays.
 
 ## Key Takeaways
 
@@ -51,13 +51,13 @@ L1 (Atmosphere). Light L2 signal as you scroll.
 
 ### Below-the-Fold Structure
 
-1. **The Premise (light)** — one paragraph synopsis + a still or short clip. Links to The Show.
-2. **The World (light)** — a media carousel — residency, venue, faces. Links to The World.
-3. **The Numbers (quiet)** — three single-stat lines about the scene (e.g. "[X] festivals sold out in 2026", "[Y] producers active globally", "[Z] tracks streamed daily"). Each cites an A/B source. Links to Business.
-4. **The Voices (advisor strip)** — small tile row, advisor portraits + names + scene affiliations. Links to Advisors.
-5. **For Producers** — one short line + casting CTA.
-6. **For Partners** — one short line + Materials gate link.
-7. **Newsletter capture** — quiet, editorial, no hype.
+1. **The Premise (light)**: one paragraph synopsis + a still or short clip. Links to The Show.
+2. **The World (light)**: a media carousel, residency, venue, faces. Links to The World.
+3. **The Numbers (quiet)**: three single-stat lines about the scene (e.g. "[X] festivals sold out in 2026", "[Y] producers active globally", "[Z] tracks streamed daily"). Each cites an A/B source. Links to Business.
+4. **The Voices (advisor strip)**: small tile row, advisor portraits + names + scene affiliations. Links to Advisors.
+5. **For Producers**: one short line + casting CTA.
+6. **For Partners**: one short line + Materials gate link.
+7. **Newsletter capture**: quiet, editorial, no hype.
 
 ### Tone
 
@@ -94,15 +94,15 @@ See `08_website_strategy/component_requirements.md`. Specifically:
 
 ### Open Questions Specific to This Page
 
-- Final hero line — to lock with copy review.
-- Initial advisor strip — depends on advisor confirmation.
-- Pre-launch CTA — newsletter vs trailer placeholder vs casting depending on phase.
+- Final hero line, to lock with copy review.
+- Initial advisor strip, depends on advisor confirmation.
+- Pre-launch CTA, newsletter vs trailer placeholder vs casting depending on phase.
 
 ## Evidence / Sources
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Above-the-fold attention thresholds | Nielsen Norman Group (target) | — | B (target) |
+| 1 | Above-the-fold attention thresholds | Nielsen Norman Group (target) | n/a | B (target) |
 | 2 | Core Web Vitals targets | Google web.dev | 2026-05-20 | A |
 
 ## Objections Answered
@@ -110,7 +110,7 @@ See `08_website_strategy/component_requirements.md`. Specifically:
 | Objection | Response |
 | --- | --- |
 | "Home should explain the show on first scroll." | Home should magnetise, not explain. Explanation lives on The Show. |
-| "We need pricing or business info on home." | No — confidentially gated. Substance is L3 / L4. |
+| "We need pricing or business info on home." | No, confidentially gated. Substance is L3 / L4. |
 
 ## Website Implications
 
@@ -125,4 +125,4 @@ See `08_website_strategy/component_requirements.md`. Specifically:
 
 ## Change Log
 
-- 2026-05-20 — Initial home page brief drafted.
+- 2026-05-20, Initial home page brief drafted.

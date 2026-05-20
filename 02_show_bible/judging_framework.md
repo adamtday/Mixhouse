@@ -16,12 +16,12 @@ related:
 
 ## Purpose
 
-Define how MixHouse judges produce credible, useful, on-camera evaluation of contestants' work — the criteria, the panel composition, and the relationship between judging and other elimination inputs.
+Define how MixHouse judges produce credible, useful, on-camera evaluation of contestants' work, the criteria, the panel composition, and the relationship between judging and other elimination inputs.
 
 ## Key Takeaways
 
 - The panel is composed of 2–3 resident judges plus rotating Mentor Drops.
-- Judging is anchored to four explicit, scene-respected criteria — not vibes.
+- Judging is anchored to four explicit, scene-respected criteria, not vibes.
 - Judges' weight in elimination is significant but never sole; the composite `Audience Index` decides.
 - Judges are picked for scene credibility *first*. TV experience is a bonus, not a requirement.
 - No fake bad-cop / good-cop dynamics. Disagreement comes from actual aesthetic differences.
@@ -32,8 +32,8 @@ Define how MixHouse judges produce credible, useful, on-camera evaluation of con
 
 A typical season runs with:
 
-- **2–3 Resident Judges** — present every week. Together cover production, performance, and A&R perspectives.
-- **Weekly Mentor Drop** — a guest artist who works with contestants and joins panel discussion. Not a vote-holder.
+- **2–3 Resident Judges**: present every week. Together cover production, performance, and A&R perspectives.
+- **Weekly Mentor Drop**: a guest artist who works with contestants and joins panel discussion. Not a vote-holder.
 
 Casting principles for judges:
 
@@ -49,9 +49,9 @@ Every track is evaluated on:
 | Criterion | Definition |
 | --- | --- |
 | **Voice** | Is there a clear, identifiable creative point of view? Could you tell who made this in a blind test by the end of the season? |
-| **Craft** | Are the production fundamentals — arrangement, mix, sound design — at a releasable standard? |
-| **Floor** | Will this track work in its intended live context? (Different briefs invoke different floors — peak-time club vs sunset.) |
-| **Risk** | Did this attempt to do something the contestant — or the scene — hasn't heard yet? |
+| **Craft** | Are the production fundamentals, arrangement, mix, sound design, at a releasable standard? |
+| **Floor** | Will this track work in its intended live context? (Different briefs invoke different floors, peak-time club vs sunset.) |
+| **Risk** | Did this attempt to do something the contestant, or the scene, hasn't heard yet? |
 
 These criteria are public, on-screen, and consistent across the season. They are the format's contract with the scene.
 
@@ -59,7 +59,7 @@ These criteria are public, on-screen, and consistent across the season. They are
 
 - Judges score qualitatively, with at least one named line per criterion per contestant per week.
 - No numerical 1-10 paddles. Scoring is verbal and reasoned.
-- The producer's reaction to judging is part of the edit — never edited to make a judge look mean.
+- The producer's reaction to judging is part of the edit, never edited to make a judge look mean.
 
 ### Weight in Elimination
 
@@ -78,7 +78,7 @@ Final weights to be calibrated in pilot.
 
 Judges talk like the scene, not like reality-TV personalities. Notes are specific, technical, and human. Examples:
 
-- ✅ "Your 8-bar break before the drop killed the momentum — try cutting it to 4."
+- ✅ "Your 8-bar break before the drop killed the momentum, try cutting it to 4."
 - ✅ "The kick is fighting the bass at 60Hz."
 - ❌ "It just didn't move me."
 - ❌ "I'm sorry, that was a no from me."
@@ -106,7 +106,7 @@ Judges talk like the scene, not like reality-TV personalities. Notes are specifi
 | Objection | Response |
 | --- | --- |
 | "Audience won't tolerate technical judging language." | Specificity is *more* watchable than vague approval. Contestants and audiences both reward respect. |
-| "Multiple inputs dilute the judges' authority." | The composite makes the judges' role more interesting, not less — they argue for their take against the crowd and streams. |
+| "Multiple inputs dilute the judges' authority." | The composite makes the judges' role more interesting, not less, they argue for their take against the crowd and streams. |
 
 ## Website Implications
 
@@ -121,4 +121,4 @@ Judges talk like the scene, not like reality-TV personalities. Notes are specifi
 
 ## Change Log
 
-- 2026-05-20 — Initial judging framework drafted.
+- 2026-05-20, Initial judging framework drafted.

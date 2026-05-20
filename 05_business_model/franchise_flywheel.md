@@ -16,14 +16,14 @@ related:
 
 ## Purpose
 
-Describe — in mechanism, not metaphor — how each MixHouse season makes the next season cheaper to make, more valuable to commission, and more profitable to operate. This is the central investment thesis.
+Describe, in mechanism, not metaphor, how each MixHouse season makes the next season cheaper to make, more valuable to commission, and more profitable to operate. This is the central investment thesis.
 
 ## Key Takeaways
 
 - Each season produces seven re-usable assets: catalogue, alumni, format playbook, brand IP, casting funnel, audience CRM, advisor network.
 - These assets are durable across seasons and territories.
 - The flywheel converts one-off production economics into compounding format-company economics.
-- The franchise reaches steady-state value when format sales begin closing in year 2–3.
+- **Working assumption.** Steady-state value emerges as format sales close in subsequent territories. The specific year is not committed; it depends on pilot performance and broadcaster cadence.
 
 ## Core Content
 
@@ -44,8 +44,8 @@ Describe — in mechanism, not metaphor — how each MixHouse season makes the n
 Each season:
 1. **Spends** on production, music releases, live events.
 2. **Captures** seven asset increments (above).
-3. **Releases** in market — music, episodes, live events.
-4. **Feeds** the next season — cheaper casting, deeper catalogue, broader audience, stronger advisor network, format-sale readiness.
+3. **Releases** in market, music, episodes, live events.
+4. **Feeds** the next season, cheaper casting, deeper catalogue, broader audience, stronger advisor network, format-sale readiness.
 
 This is a literal flywheel: input → asset stock → leverage on next input.
 
@@ -57,15 +57,17 @@ This is a literal flywheel: input → asset stock → leverage on next input.
 - **Casting Funnel:** known reputation pulls top-tier applicants who would not have applied to season 1.
 - **Format Sales:** territory adaptations create per-territory versions of all seven assets.
 
-### Steady State
+### Steady State (Illustrative Assumptions)
 
-When the franchise hits year 3–4 with:
-- 3+ active territories.
-- Catalogue of 200+ tracks.
-- A live touring stack with annual cadence.
-- Sponsorship contracts across 3+ categories at category-exclusive rates.
+The numbers and timing below are **illustrative working assumptions**, not commitments. They exist to communicate the shape of compounding, not to anchor a financial model.
 
-...the format-company looks closer to a music publisher or live promoter in valuation than a one-off TV production company.
+When the franchise reaches a multi-territory, multi-season state with:
+- Multiple active territories.
+- A meaningful catalogue of released tracks accumulating royalties.
+- A live touring stack with at least annual cadence.
+- Multi-category sponsorship contracts.
+
+...the format-company begins to behave economically more like a multi-line music and live IP company than a single-season TV production company. The specific valuation comparison (publisher vs promoter vs other) is deliberately not stated here; that framing belongs in `05_business_model/investor_case.md` once a financial model exists.
 
 ### What Breaks the Flywheel
 
@@ -84,16 +86,16 @@ The flywheel diagram should show seven assets in a loop with arrows indicating "
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Format-sale long-tail economics (Voice, Idol, Love Island) | ITV Studios / Talpa filings (target) | — | A/B (target) |
-| 2 | Music catalogue royalty compounding patterns | MIDiA Research (target) | — | A/B (target) |
-| 3 | Live touring as a franchise extension (Disney on Ice, F1 Live, Drag Race tours) | Pollstar (target) | — | B (target) |
+| 1 | Format-sale long-tail economics (Voice, Idol, Love Island) | ITV Studios / Talpa filings (target) | n/a | A/B (target) |
+| 2 | Music catalogue royalty compounding patterns | MIDiA Research (target) | n/a | A/B (target) |
+| 3 | Live touring as a franchise extension (Disney on Ice, F1 Live, Drag Race tours) | Pollstar (target) | n/a | B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
-| "Flywheels are easy to draw, hard to spin." | We name the inputs (seven assets), the mechanism, and the steady-state — and we tie each to a specific operational file. |
-| "Music IP value depends on hits." | Catalogue depth de-risks. Even modest per-track performance across 60+ tracks per season per territory accumulates meaningfully. |
+| "Flywheels are easy to draw, hard to spin." | We name the inputs (seven assets), the mechanism, and the steady-state, and we tie each to a specific operational file. |
+| "Music IP value depends on hits." | Catalogue depth de-risks. Modest per-track performance, multiplied across a season's released catalogue and across territories, accumulates meaningfully. Specific volumes per season are proposed in `02_show_bible/season_arc.md` and remain working assumptions until pilot. |
 
 ## Website Implications
 
@@ -102,10 +104,11 @@ The flywheel diagram should show seven assets in a loop with arrows indicating "
 
 ## Open Questions
 
-- Concrete asset-by-asset NPV model — to populate in `05_business_model/investor_case.md`.
+- Concrete asset-by-asset NPV model, to populate in `05_business_model/investor_case.md`.
 - Timing of steady state (year 3 vs year 4 vs year 5).
 - Which territory adaptations seed the second-generation flywheel.
 
 ## Change Log
 
-- 2026-05-20 — Initial flywheel mechanism drafted.
+- 2026-05-20, Initial flywheel mechanism drafted.
+- 2026-05-20, Softened the Steady State section to label specific territory counts, track-count thresholds, and timing as illustrative assumptions. Removed the "music publisher or live promoter in valuation" comparison pending a real financial model. Replaced "60+ tracks per season per territory" in the Objections row with a non-numeric formulation that defers to `02_show_bible/season_arc.md`.

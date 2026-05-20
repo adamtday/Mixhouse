@@ -14,7 +14,7 @@ related:
 
 ## Purpose
 
-Hold the raw, undigested inputs that fuel the analytical and creative work elsewhere in the KB — transcripts, notes, pitch deck exports, reference images, and screenshots. Nothing in here is canonical; everything in here is the trace evidence behind canonical files.
+Hold the raw, undigested inputs that fuel the analytical and creative work elsewhere in the KB, transcripts, notes, pitch deck exports, reference images, and screenshots. Nothing in here is canonical; everything in here is the trace evidence behind canonical files.
 
 ## Key Takeaways
 
@@ -37,7 +37,7 @@ Hold the raw, undigested inputs that fuel the analytical and creative work elsew
 
 ### Naming Convention
 
-`YYYYMMDD_short_topic.ext` — example: `20260412_advisor_call_p_gou.md`.
+`YYYYMMDD_short_topic.ext`: example: `20260412_advisor_call_p_gou.md`.
 
 ### Frontmatter for Source Files
 
@@ -66,12 +66,12 @@ related: [paths to analytical files that cite this]
 ### What Doesn't Go Here
 
 - Final, polished assets used on the public site (those live in the web project's `public/media/`).
-- LLM output dumps — those should be digested into the right analytical folder.
+- LLM output dumps, those should be digested into the right analytical folder.
 - Confidential documents not appropriate for the team-shared repo (those live in restricted-access storage).
 
 ## Evidence / Sources
 
-Not applicable — this is an index file.
+Not applicable. This is an index file.
 
 ## Objections Answered
 
@@ -82,12 +82,12 @@ Not applicable — this is an index file.
 
 ## Website Implications
 
-Indirect — references here feed `Evidence / Sources` rows on every analytical file the site eventually surfaces.
+Indirect, references here feed `Evidence / Sources` rows on every analytical file the site eventually surfaces.
 
 ## Open Questions
 
-- Storage strategy for large binary references (PDFs, images) — possibly LFS or external storage with a pointer.
+- Storage strategy for large binary references (PDFs, images), possibly LFS or external storage with a pointer.
 
 ## Change Log
 
-- 2026-05-20 — Initial source-material folder index created.
+- 2026-05-20, Initial source-material folder index created.

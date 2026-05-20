@@ -17,7 +17,7 @@ related:
 
 ## Purpose
 
-List every UI component the MixHouse website depends on, the behaviour it must implement, and where it's used across pages — so design and engineering can build a reusable component library rather than per-page bespoke work.
+List every UI component the MixHouse website depends on, the behaviour it must implement, and where it's used across pages, so design and engineering can build a reusable component library rather than per-page bespoke work.
 
 ## Key Takeaways
 
@@ -32,55 +32,55 @@ List every UI component the MixHouse website depends on, the behaviour it must i
 
 #### Layout
 
-- **Container** — width-aware horizontal wrapper.
-- **Section** — vertical-rhythm block with optional bleed.
-- **Grid** — responsive grid primitive.
+- **Container**: width-aware horizontal wrapper.
+- **Section**: vertical-rhythm block with optional bleed.
+- **Grid**: responsive grid primitive.
 
 #### Hero / Editorial
 
-- **CinematicHero** — looping video / image backdrop with type and CTA.
-- **EditorialSpread** — image left / right with editorial copy.
-- **Pullquote** — single large quote or stat.
-- **Manifesto** — paragraph-length editorial block.
+- **CinematicHero**: looping video / image backdrop with type and CTA.
+- **EditorialSpread**: image left / right with editorial copy.
+- **Pullquote**: single large quote or stat.
+- **Manifesto**: paragraph-length editorial block.
 
 #### Media
 
-- **VideoPlayer** — autoplay-muted by default, accessible controls, captions.
-- **VideoTeaser** — looping muted clip with play-to-full handoff.
-- **AudioPlayer** — track preview, waveform optional, DSP-link CTAs.
-- **MediaCarousel** — sequenced image/video container.
+- **VideoPlayer**: autoplay-muted by default, accessible controls, captions.
+- **VideoTeaser**: looping muted clip with play-to-full handoff.
+- **AudioPlayer**: track preview, waveform optional, DSP-link CTAs.
+- **MediaCarousel**: sequenced image/video container.
 
 #### Navigation
 
-- **GlobalNav** — top navigation; sticky on scroll; collapses on mobile.
-- **Footer** — links + legal + social.
-- **CTABanner** — full-width call-to-action band.
+- **GlobalNav**: top navigation; sticky on scroll; collapses on mobile.
+- **Footer**: links + legal + social.
+- **CTABanner**: full-width call-to-action band.
 
 #### Data / Argument
 
-- **FlywheelDiagram** — interactive franchise flywheel (Business page).
-- **CompetitiveMatrix** — multi-row capability comparison table.
-- **TimelineRail** — horizontal scrolling timeline (season arc, milestones).
-- **EvidenceCard** — citation block with reliability tier.
+- **FlywheelDiagram**: interactive franchise flywheel (Business page).
+- **CompetitiveMatrix**: multi-row capability comparison table.
+- **TimelineRail**: horizontal scrolling timeline (season arc, milestones).
+- **EvidenceCard**: citation block with reliability tier.
 
 #### Forms / Conversion
 
-- **NewsletterForm** — email capture.
-- **CastingForm** — multi-step talent application (only on casting CTA flow).
-- **MaterialsGate** — gated request form for investor / broadcaster / sponsor.
-- **ContactForm** — segmented inbound routing.
+- **NewsletterForm**: email capture.
+- **CastingForm**: multi-step talent application (only on casting CTA flow).
+- **MaterialsGate**: gated request form for investor / broadcaster / sponsor.
+- **ContactForm**: segmented inbound routing.
 
 #### Content
 
-- **AdvisorTile** — advisor portrait + name + bio.
-- **ContestantTile** — contestant portrait + name + city + sub-genre.
-- **ReleaseCard** — track artwork + DSP links + metadata.
-- **EventCard** — date / venue / city / ticket link.
+- **AdvisorTile**: advisor portrait + name + bio.
+- **ContestantTile**: contestant portrait + name + city + sub-genre.
+- **ReleaseCard**: track artwork + DSP links + metadata.
+- **EventCard**: date / venue / city / ticket link.
 
 #### Microcopy
 
-- **InlineCitation** — superscript or marker linking to evidence row.
-- **TermTooltip** — definition surface for terms from `01_master_context/glossary.md`.
+- **InlineCitation**: superscript or marker linking to evidence row.
+- **TermTooltip**: definition surface for terms from `01_master_context/glossary.md`.
 
 ### Cross-Component Behaviour
 
@@ -140,7 +140,7 @@ List every UI component the MixHouse website depends on, the behaviour it must i
 | Objection | Response |
 | --- | --- |
 | "Why no design system before content?" | The design system grows with the components in this list; we don't pre-design abstractions. |
-| "20 components is small." | The site is intentionally narrow. Custom one-off blocks are anti-pattern — see `07_brand_world/anti_patterns.md`. |
+| "20 components is small." | The site is intentionally narrow. Custom one-off blocks are anti-pattern, see `07_brand_world/anti_patterns.md`. |
 
 ## Website Implications
 
@@ -155,4 +155,4 @@ List every UI component the MixHouse website depends on, the behaviour it must i
 
 ## Change Log
 
-- 2026-05-20 — Initial component inventory drafted.
+- 2026-05-20, Initial component inventory drafted.

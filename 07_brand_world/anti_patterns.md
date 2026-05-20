@@ -16,13 +16,13 @@ related:
 
 ## Purpose
 
-State explicitly what MixHouse will not be, will not look like, will not sound like, and will not do — so contributors, partners, and agents can spot drift before it ships.
+State explicitly what MixHouse will not be, will not look like, will not sound like, and will not do, so contributors, partners, and agents can spot drift before it ships.
 
 ## Key Takeaways
 
 - Anti-patterns are binding. If a proposed asset, copy line, or production choice maps to one of these patterns, it is rejected without further debate.
 - The list covers brand, voice, music, cast, format, and commercial behaviour.
-- The list will grow over time as new failure modes emerge — appended via Change Log.
+- The list will grow over time as new failure modes emerge, appended via Change Log.
 
 ## Core Content
 
@@ -113,13 +113,13 @@ See full banned-phrase list in `00_system/research_prompt_template.md`. Specific
 
 ## Evidence / Sources
 
-Not applicable — this is the codified brand discipline; its authority is internal.
+Not applicable. This is the codified brand discipline; its authority is internal.
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
-| "Some of these are too restrictive." | Restriction is the design constraint that makes the brand legible. We can move a constraint via Change Log — never silently. |
+| "Some of these are too restrictive." | Restriction is the design constraint that makes the brand legible. We can move a constraint via Change Log, never silently. |
 | "What if a brand partner insists on a banned pattern?" | They walk. The category exclusivity is sold on integration depth; banner reads aren't on offer. |
 
 ## Website Implications
@@ -130,8 +130,8 @@ Not applicable — this is the codified brand discipline; its authority is inter
 ## Open Questions
 
 - Do we publish a public version of the anti-pattern list as a brand "principles" page? (Possible, with care.)
-- Anti-pattern audit cadence — proposed quarterly.
+- Anti-pattern audit cadence, proposed quarterly.
 
 ## Change Log
 
-- 2026-05-20 — Initial anti-pattern list drafted across 8 categories.
+- 2026-05-20, Initial anti-pattern list drafted across 8 categories.

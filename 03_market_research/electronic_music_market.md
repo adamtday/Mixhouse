@@ -17,7 +17,7 @@ assumption: true
 
 ## Purpose
 
-Size the global electronic-music market — recorded, live, sync, creator economy — at a level adequate to underwrite the franchise's commercial assumptions and answer "why electronic" questions in investor and broadcaster conversations.
+Size the global electronic-music market, recorded, live, sync, creator economy, at a level adequate to underwrite the franchise's commercial assumptions and answer "why electronic" questions in investor and broadcaster conversations.
 
 ## Key Takeaways
 
@@ -42,7 +42,7 @@ For a defensible investor narrative, we need numbers in each of:
 | **Sync / licensing market for electronic** | Music IP upside. | MIDiA / Sync Summit. |
 | **Producer / DJ population** | Total addressable talent pool for casting. | Splice / Native Instruments / DJ TechTools surveys. |
 
-### Working Hypotheses (placeholder values — to verify)
+### Working Hypotheses (placeholder values: to verify)
 
 These are *assumptions* until cited:
 
@@ -98,11 +98,11 @@ For the format to be commercially defensible, the data must support that:
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Global recorded music revenue (latest year) | IFPI Global Music Report (target) | — | A (target) |
-| 2 | Electronic share of recorded music | IFPI / MIDiA (target) | — | A/B (target) |
-| 3 | Global live music revenue (latest year) | PwC Global E&M Outlook (target) | — | A (target) |
-| 4 | Top-100 electronic festival GMV | Pollstar / Festicket (target) | — | B (target) |
-| 5 | Active electronic producer population | Splice / Native Instruments user data (target) | — | B (target) |
+| 1 | Global recorded music revenue (latest year) | IFPI Global Music Report (target) | n/a | A (target) |
+| 2 | Electronic share of recorded music | IFPI / MIDiA (target) | n/a | A/B (target) |
+| 3 | Global live music revenue (latest year) | PwC Global E&M Outlook (target) | n/a | A (target) |
+| 4 | Top-100 electronic festival GMV | Pollstar / Festicket (target) | n/a | B (target) |
+| 5 | Active electronic producer population | Splice / Native Instruments user data (target) | n/a | B (target) |
 
 ## Objections Answered
 
@@ -119,8 +119,8 @@ For the format to be commercially defensible, the data must support that:
 ## Open Questions
 
 - Confirm IFPI / MIDiA / Luminate access for primary data.
-- Define a stable set of headline numbers ("the 6 numbers we always cite") — owner: `05_business_model/investor_case.md`.
+- Define a stable set of headline numbers ("the 6 numbers we always cite"), owner: `05_business_model/investor_case.md`.
 
 ## Change Log
 
-- 2026-05-20 — Initial market structure outlined; all numbers flagged as assumptions awaiting sources.
+- 2026-05-20, Initial market structure outlined; all numbers flagged as assumptions awaiting sources.

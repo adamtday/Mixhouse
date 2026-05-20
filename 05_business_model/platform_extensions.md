@@ -16,7 +16,7 @@ related:
 
 ## Purpose
 
-Define the platform layer that sits underneath the franchise — app, site, CRM, short-form distribution — and explain how it converts viewers into a directly addressable audience that monetises through music, live, and merchandise.
+Define the platform layer that sits underneath the franchise, app, site, CRM, short-form distribution, and explain how it converts viewers into a directly addressable audience that monetises through music, live, and merchandise.
 
 ## Key Takeaways
 
@@ -72,10 +72,10 @@ A direct audience layer means we can:
 
 ### Phasing
 
-- **Pre-pilot** — public site + CRM + short-form pipeline.
-- **Pilot** — pre-save flows + ticketing partner integration.
-- **Post-S1** — app launch with watch + follow + save.
-- **S2+** — virtual `Drop Night`, alumni tour priority, merchandise store.
+- **Pre-pilot**: public site + CRM + short-form pipeline.
+- **Pilot**: pre-save flows + ticketing partner integration.
+- **Post-S1**: app launch with watch + follow + save.
+- **S2+**: virtual `Drop Night`, alumni tour priority, merchandise store.
 
 ### Data Strategy
 
@@ -107,14 +107,14 @@ Indirect revenue impact (the bigger number):
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Direct-to-fan economics for music IP | MIDiA Research / IFPI (target) | — | A/B (target) |
-| 2 | App-driven engagement uplift for entertainment franchises | App Annie / data.ai (target) | — | B (target) |
+| 1 | Direct-to-fan economics for music IP | MIDiA Research / IFPI (target) | n/a | A/B (target) |
+| 2 | App-driven engagement uplift for entertainment franchises | App Annie / data.ai (target) | n/a | B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
-| "Why build a platform at all?" | Because the alternative is leaking the entire franchise audience to streamers, DSPs, and platforms — and re-acquiring them every season at full marketing cost. |
+| "Why build a platform at all?" | Because the alternative is leaking the entire franchise audience to streamers, DSPs, and platforms, and re-acquiring them every season at full marketing cost. |
 | "Apps are expensive to build." | Phasing keeps the investment proportional: web + CRM first, then app once S1 demand justifies. |
 
 ## Website Implications
@@ -124,10 +124,10 @@ Indirect revenue impact (the bigger number):
 
 ## Open Questions
 
-- App build partner vs in-house — owner: founder.
-- Ticketing partner choice — owner: live events.
-- Pre-save and link partner choice — owner: music supervision.
+- App build partner vs in-house, owner: founder.
+- Ticketing partner choice, owner: live events.
+- Pre-save and link partner choice, owner: music supervision.
 
 ## Change Log
 
-- 2026-05-20 — Initial platform extensions drafted.
+- 2026-05-20, Initial platform extensions drafted.

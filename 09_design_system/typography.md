@@ -15,14 +15,14 @@ related:
 
 ## Purpose
 
-Define the type system for MixHouse — families, scale, leading, tracking, and usage rules — so every surface reads as a single editorial voice.
+Define the type system for MixHouse, families, scale, leading, tracking, and usage rules, so every surface reads as a single editorial voice.
 
 ## Key Takeaways
 
 - Two families: one editorial display (heads, hero, pull quotes); one working sans (body, UI).
 - Scale follows a deliberate, irregular step (not a uniform multiplier) to encourage editorial pacing.
 - Tight tracking on display, generous tracking on small caps and microcopy.
-- Type does the heavy lifting visually — colour and motion follow.
+- Type does the heavy lifting visually, colour and motion follow.
 
 ## Core Content
 
@@ -115,7 +115,7 @@ Fluid sizing via `clamp()` recommended.
 | Objection | Response |
 | --- | --- |
 | "Why two families?" | One does display; one does work. Single-family systems lose editorial gravity. |
-| "Mono is dated." | Used sparingly, mono signals craft and data — exactly the show's voice. |
+| "Mono is dated." | Used sparingly, mono signals craft and data, exactly the show's voice. |
 
 ## Website Implications
 
@@ -124,10 +124,10 @@ Fluid sizing via `clamp()` recommended.
 
 ## Open Questions
 
-- Final display family choice — design partner.
+- Final display family choice, design partner.
 - Final working sans choice.
 - Licensing scope (web only vs print, social, on-screen).
 
 ## Change Log
 
-- 2026-05-20 — Initial type system scaffolded.
+- 2026-05-20, Initial type system scaffolded.

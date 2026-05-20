@@ -22,7 +22,7 @@ Define the gated surface through which investors, broadcasters, and sponsors req
 - L4 (Gated).
 - Single, well-designed form. Audience-segmented routing under the hood.
 - Materials are delivered after manual approval, not auto-issued.
-- The page itself remains on-brand — gating does not break the editorial atmosphere.
+- The page itself remains on-brand, gating does not break the editorial atmosphere.
 
 ## Core Content
 
@@ -126,4 +126,4 @@ Recommended: option 2 for investor and broadcaster; option 1 for press and spons
 
 ## Change Log
 
-- 2026-05-20 — Initial Materials page brief drafted.
+- 2026-05-20, Initial Materials page brief drafted.

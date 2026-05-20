@@ -22,7 +22,7 @@ Identify what Boiler Room proves about scene-credible electronic-music content, 
 ## Key Takeaways
 
 - Boiler Room is the global benchmark for scene-credible electronic-music video content.
-- Its model — intimate set, single-camera-heavy, real-room crowd — is an aesthetic and credibility reference, not a format competitor.
+- Its model, intimate set, single-camera-heavy, real-room crowd, is an aesthetic and credibility reference, not a format competitor.
 - For MixHouse, it sets the bar on cultural authenticity and audience-trust handling.
 - It also demonstrates the limits: long-running, scene-loved content brand, but not a franchised reality format with format-sale economics.
 
@@ -38,7 +38,7 @@ Identify what Boiler Room proves about scene-credible electronic-music content, 
 ### What MixHouse Adopts
 
 - Cultural respect as a hard constraint.
-- Crowd as character — not as wallpaper.
+- Crowd as character, not as wallpaper.
 - Talent-first commercial posture.
 - Curation transparency (DJ lineups feel chosen, not algorithmic).
 
@@ -47,7 +47,7 @@ Identify what Boiler Room proves about scene-credible electronic-music content, 
 - Adds character residency that Boiler Room sets don't have.
 - Adds week-to-week storytelling.
 - Adds elimination mechanic and competition stakes.
-- Adds music-creation cadence — Boiler Room captures existing music, MixHouse generates new music.
+- Adds music-creation cadence, Boiler Room captures existing music, MixHouse generates new music.
 
 ### Why It Is Not a Franchise Format
 
@@ -59,15 +59,15 @@ Identify what Boiler Room proves about scene-credible electronic-music content, 
 ### Lessons We Lift Directly
 
 - Sound design: club-realistic, not TV-realistic. Real sub frequencies, real room reverb.
-- Camera language: focus on hands, gear, eyes — not stage-wide hero shots only.
+- Camera language: focus on hands, gear, eyes, not stage-wide hero shots only.
 - Talent posture: artists are participants, not contestants on display.
 
 ## Evidence / Sources
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Catalogue volume and view counts | Boiler Room public stats / Resident Advisor reporting (target) | — | B (target) |
-| 2 | Scene-credibility positioning | Mixmag / DJ Mag / Resident Advisor coverage (target) | — | B (target) |
+| 1 | Catalogue volume and view counts | Boiler Room public stats / Resident Advisor reporting (target) | n/a | B (target) |
+| 2 | Scene-credibility positioning | Mixmag / DJ Mag / Resident Advisor coverage (target) | n/a | B (target) |
 
 ## Objections Answered
 
@@ -86,4 +86,4 @@ Identify what Boiler Room proves about scene-credible electronic-music content, 
 
 ## Change Log
 
-- 2026-05-20 — Initial comp doc seeded.
+- 2026-05-20, Initial comp doc seeded.

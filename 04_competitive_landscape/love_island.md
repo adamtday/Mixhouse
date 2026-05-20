@@ -21,7 +21,7 @@ Identify what `Love Island` proves about residency-based unscripted franchises a
 ## Key Takeaways
 
 - `Love Island` is the gold standard for character residency, daily appointment viewing, and multi-territory franchise economics in dating reality.
-- Its mechanics — residency setting, daily filming cadence, cliffhanger structure, fan participation — are technical references for MixHouse.
+- Its mechanics, residency setting, daily filming cadence, cliffhanger structure, fan participation, are technical references for MixHouse.
 - We borrow the *grammar* (residency + character + cadence) and reject the *substance* (dating premise, manufactured drama).
 
 ## Core Content
@@ -59,16 +59,16 @@ Identify what `Love Island` proves about residency-based unscripted franchises a
 ### Lessons for the Franchise
 
 - Brand discipline (visual identity, host, music package) sustains decade-long runs.
-- Casting investment compounds — every season's cast bumps the next casting funnel.
+- Casting investment compounds, every season's cast bumps the next casting funnel.
 - Multi-territory adaptation needs a clean rulebook; we are deliberately writing one.
 
 ## Evidence / Sources
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Multi-territory franchise count | ITV Studios filings (target) | — | A/B (target) |
-| 2 | Demo skew of audience | BARB / Nielsen (target) | — | A (target) |
-| 3 | Fan-participation app engagement data | ITVX / Hayu reporting (target) | — | B (target) |
+| 1 | Multi-territory franchise count | ITV Studios filings (target) | n/a | A/B (target) |
+| 2 | Demo skew of audience | BARB / Nielsen (target) | n/a | A (target) |
+| 3 | Fan-participation app engagement data | ITVX / Hayu reporting (target) | n/a | B (target) |
 
 ## Objections Answered
 
@@ -88,4 +88,4 @@ Identify what `Love Island` proves about residency-based unscripted franchises a
 
 ## Change Log
 
-- 2026-05-20 — Initial comp doc seeded.
+- 2026-05-20, Initial comp doc seeded.

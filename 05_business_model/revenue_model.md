@@ -18,7 +18,7 @@ assumption: true
 
 ## Purpose
 
-State, at the level of named line items and the order of magnitude of each, the revenue stack MixHouse is designed to capture across its lifecycle — and the dependencies between those lines.
+State, at the level of named line items and the order of magnitude of each, the revenue stack MixHouse is designed to capture across its lifecycle, and the dependencies between those lines.
 
 ## Key Takeaways
 
@@ -40,7 +40,7 @@ State, at the level of named line items and the order of magnitude of each, the 
 | **Sponsorship / Brand Partnerships** | Category-exclusive sponsor inventory across show, live, and platform. | Multi-year | `05_business_model/sponsorship_inventory.md` |
 | **Format Sales / Territory Adaptation** | Licensing the format to local broadcasters/producers internationally. | Multi-year compound | `05_business_model/franchise_flywheel.md` |
 
-### Revenue Stack Shape (illustrative — not yet sourced)
+### Revenue Stack Shape (illustrative: not yet sourced)
 
 | Year | Production Fee | Music IP | Live | Sponsorship | Format Sales | Total mix |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ Specific percentages and figures to be modelled in `05_business_model/investor_c
 ### Dependencies Between Lines
 
 - Music IP depends on the release pipeline being operational from S1.
-- Live events depend on a credible festival anchor for the `Final Set` — booked before the season airs.
+- Live events depend on a credible festival anchor for the `Final Set`: booked before the season airs.
 - Sponsorship depends on the demo profile being validated, which depends on the pilot landing.
 - Format sales depend on the flagship season delivering a numeric benchmark that local territories can underwrite.
 
@@ -82,22 +82,22 @@ The cost picture is owned by `06_production_strategy/production_model.md`. Headl
 ### Why a Diversified Stack
 
 - One-line revenue (production fee only) is the standard format-company death trap.
-- A diversified stack with multi-year compounding lines is closer to a music-publishing company's economics — significantly more valuable per dollar of revenue.
+- A diversified stack with multi-year compounding lines is closer to a music-publishing company's economics, significantly more valuable per dollar of revenue.
 
 ## Evidence / Sources
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Prestige unscripted CPH benchmarks | Variety / THR / Bloomberg (target) | — | B (target) |
-| 2 | Music IP catalogue valuation multiples | MIDiA / Music Business Worldwide (target) | — | A/B (target) |
-| 3 | Festival sponsorship benchmarks | IQ Magazine / Pollstar (target) | — | B (target) |
+| 1 | Prestige unscripted CPH benchmarks | Variety / THR / Bloomberg (target) | n/a | B (target) |
+| 2 | Music IP catalogue valuation multiples | MIDiA / Music Business Worldwide (target) | n/a | A/B (target) |
+| 3 | Festival sponsorship benchmarks | IQ Magazine / Pollstar (target) | n/a | B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
-| "Music IP from a TV show is small change." | Sixty tracks per season released through a credible label structure, accruing over years across territories — this is closer to a publishing catalogue than a soundtrack album. |
-| "Format sales lag the flagship by years." | Yes — and the model assumes that. The flywheel compounds across years 3–5, not from year 1. |
+| "Music IP from a TV show is small change." | Sixty tracks per season released through a credible label structure, accruing over years across territories, this is closer to a publishing catalogue than a soundtrack album. |
+| "Format sales lag the flagship by years." | Yes, and the model assumes that. The flywheel compounds across years 3–5, not from year 1. |
 | "Sponsorship saturation in music is real." | We sell category exclusivity and integration, not banner ads. The unit price is higher and the inventory smaller. |
 
 ## Website Implications
@@ -108,9 +108,9 @@ The cost picture is owned by `06_production_strategy/production_model.md`. Headl
 ## Open Questions
 
 - Pilot economics needed to anchor concrete percentages.
-- Music rights deal templates with first-tier producers — owner: music supervision team.
+- Music rights deal templates with first-tier producers, owner: music supervision team.
 - Capacity model for format sales (how many territories can we close in years 2–4).
 
 ## Change Log
 
-- 2026-05-20 — Initial five-line revenue stack drafted.
+- 2026-05-20, Initial five-line revenue stack drafted.

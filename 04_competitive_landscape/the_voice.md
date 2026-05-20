@@ -22,7 +22,7 @@ Identify what `The Voice` proves about music-led franchise economics, where its 
 
 - `The Voice` is the canonical music-franchise success story for format sales and territory adaptation.
 - Its core format is a singing audition with rotating-chair mechanic; the music it produces is overwhelmingly cover-led, not original.
-- Its long-term winner economics are weak — winners rarely sustain careers.
+- Its long-term winner economics are weak, winners rarely sustain careers.
 - The format-sale playbook (territory adaptation, local judges) is directly applicable to MixHouse; the audition-and-cover model is not.
 
 ## Core Content
@@ -72,9 +72,9 @@ Identify what `The Voice` proves about music-led franchise economics, where its 
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Format-sale territory count | Talpa / ITV Studios filings (target) | — | A/B (target) |
-| 2 | Average winner career durability | Music Business Worldwide / Billboard retrospectives (target) | — | B (target) |
-| 3 | Demo skew of audience | Nielsen / BARB (target) | — | A (target) |
+| 1 | Format-sale territory count | Talpa / ITV Studios filings (target) | n/a | A/B (target) |
+| 2 | Average winner career durability | Music Business Worldwide / Billboard retrospectives (target) | n/a | B (target) |
+| 3 | Demo skew of audience | Nielsen / BARB (target) | n/a | A (target) |
 
 ## Objections Answered
 
@@ -92,4 +92,4 @@ Identify what `The Voice` proves about music-led franchise economics, where its 
 
 ## Change Log
 
-- 2026-05-20 — Initial comp doc seeded.
+- 2026-05-20, Initial comp doc seeded.

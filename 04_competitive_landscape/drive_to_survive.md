@@ -21,7 +21,7 @@ Identify what Netflix's `Drive to Survive` proves about the prestige cinematic u
 ## Key Takeaways
 
 - `Drive to Survive` proved a streamer-led docuseries can re-define an entire culture's audience composition and economics.
-- The format is character-led, season-arced, and cinematic — not competition-led.
+- The format is character-led, season-arced, and cinematic, not competition-led.
 - For MixHouse, it is the prestige and demo-expansion benchmark, not a format comp.
 - Specific lessons: character casting matters more than the sport; cinematic identity is a moat; younger audiences will follow craft if it's filmed beautifully.
 
@@ -39,7 +39,7 @@ Identify what Netflix's `Drive to Survive` proves about the prestige cinematic u
 - Cinematic identity as a non-negotiable.
 - Character-led storytelling inside a craft world.
 - Season arc that respects narrative shape over weekly variety.
-- Beautiful, unhurried craft moments — gear, hands, faces.
+- Beautiful, unhurried craft moments, gear, hands, faces.
 
 ### Where MixHouse Differs
 
@@ -75,14 +75,14 @@ These are the additional axes MixHouse runs on.
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | F1 US growth post-DTS | Variety / Bloomberg / F1 financial filings (target) | — | A/B (target) |
-| 2 | Streamer CPH for prestige unscripted | Variety / THR reporting (target) | — | B (target) |
+| 1 | F1 US growth post-DTS | Variety / Bloomberg / F1 financial filings (target) | n/a | A/B (target) |
+| 2 | Streamer CPH for prestige unscripted | Variety / THR reporting (target) | n/a | B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
-| "MixHouse isn't a sport — DTS isn't a comp." | DTS is a prestige and demo-expansion benchmark, not a format twin. We use it to anchor commissioning expectations. |
+| "MixHouse isn't a sport, DTS isn't a comp." | DTS is a prestige and demo-expansion benchmark, not a format twin. We use it to anchor commissioning expectations. |
 
 ## Website Implications
 
@@ -94,4 +94,4 @@ These are the additional axes MixHouse runs on.
 
 ## Change Log
 
-- 2026-05-20 — Initial comp doc seeded.
+- 2026-05-20, Initial comp doc seeded.

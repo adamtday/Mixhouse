@@ -15,7 +15,7 @@ related:
 
 ## Purpose
 
-Specify exactly how a contestant is eliminated each week — the inputs, the weighting, the safeguards, and how the mechanic is filmed.
+Specify exactly how a contestant is eliminated each week, the inputs, the weighting, the safeguards, and how the mechanic is filmed.
 
 ## Key Takeaways
 
@@ -57,7 +57,7 @@ The lowest audience_index in the cohort is eliminated.
 Ties broken by judge_score, then by streaming_score.
 ```
 
-The math is deliberately legible on screen — viewers must be able to follow it.
+The math is deliberately legible on screen, viewers must be able to follow it.
 
 ### Reveal Mechanic
 
@@ -90,27 +90,27 @@ The math is deliberately legible on screen — viewers must be able to follow it
 
 ### Fan Participation Interaction
 
-Fan participation (`02_show_bible/fan_participation.md`) does not directly enter the Index. Instead, official fan polls and curated playlists *influence* the short-form input organically — they don't get a separate vote.
+Fan participation (`02_show_bible/fan_participation.md`) does not directly enter the Index. Instead, official fan polls and curated playlists *influence* the short-form input organically, they don't get a separate vote.
 
 ## Evidence / Sources
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Composite-index precedent in reality formats | `Eurovision` jury+televote split as a reference | — | B |
-| 2 | Audience-reaction sensor technology | To populate from venue tech partners | — | B (target) |
+| 1 | Composite-index precedent in reality formats | `Eurovision` jury+televote split as a reference | n/a | B |
+| 2 | Audience-reaction sensor technology | To populate from venue tech partners | n/a | B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
-| "Streaming windows favour early releases — unfair." | Normalised per release window. Late-week tracks aren't penalised for shorter exposure. |
-| "Algorithmic eliminations are cold." | They're filmed warm — reverent, ceremonial, with full context. The math is honest; the moment is human. |
+| "Streaming windows favour early releases, unfair." | Normalised per release window. Late-week tracks aren't penalised for shorter exposure. |
+| "Algorithmic eliminations are cold." | They're filmed warm, reverent, ceremonial, with full context. The math is honest; the moment is human. |
 | "Crowd manipulation risk." | Sensors are not show-of-hands. Manipulation requires coordinated physical movement, not online brigading. |
 
 ## Website Implications
 
 - "How elimination works" component on `the_show.md` shows the four inputs visually.
-- Press kit explains the algorithm — investors and journalists love this kind of transparency.
+- Press kit explains the algorithm, investors and journalists love this kind of transparency.
 
 ## Open Questions
 
@@ -120,4 +120,4 @@ Fan participation (`02_show_bible/fan_participation.md`) does not directly enter
 
 ## Change Log
 
-- 2026-05-20 — Initial composite-index logic drafted.
+- 2026-05-20, Initial composite-index logic drafted.

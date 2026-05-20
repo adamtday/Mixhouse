@@ -33,7 +33,7 @@ State the investment thesis at the level of a memo: opportunity, business, found
 
 See `01_master_context/mixhouse_master_thesis.md`. In one paragraph:
 
-> Electronic music is now globally mainstream by audience size, festival economy, and producer-as-celebrity profile — but no music format has been built to serve it. The slot at the intersection of prestige cinematic unscripted, music creation, and live-event franchise has remained empty because no operator has combined scene credibility with format engineering. MixHouse is that operator.
+> Electronic music is now globally mainstream by audience size, festival economy, and producer-as-celebrity profile, but no music format has been built to serve it. The slot at the intersection of prestige cinematic unscripted, music creation, and live-event franchise has remained empty because no operator has combined scene credibility with format engineering. MixHouse is that operator.
 
 ### Business
 
@@ -103,15 +103,15 @@ See `06_production_strategy/production_risks.md` and the franchise-flywheel brea
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Streamer M&A precedents for unscripted IP | Variety / Bloomberg / THR (target) | — | A/B (target) |
-| 2 | Music-publishing catalogue valuation multiples | MIDiA Research / Music Business Worldwide (target) | — | A/B (target) |
-| 3 | Live-touring company valuations | Pollstar / IQ Magazine / Bloomberg (target) | — | A/B (target) |
+| 1 | Streamer M&A precedents for unscripted IP | Variety / Bloomberg / THR (target) | n/a | A/B (target) |
+| 2 | Music-publishing catalogue valuation multiples | MIDiA Research / Music Business Worldwide (target) | n/a | A/B (target) |
+| 3 | Live-touring company valuations | Pollstar / IQ Magazine / Bloomberg (target) | n/a | A/B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
-| "TV formats aren't venture-scale." | Single-line format companies aren't. Multi-line format + music + live + platform companies are — see comparable music-tech valuations. |
+| "TV formats aren't venture-scale." | Single-line format companies aren't. Multi-line format + music + live + platform companies are, see comparable music-tech valuations. |
 | "You need a hit to make this work." | We need at least one durable hit per season. The format engine increases the surface area for a hit; the catalogue de-risks the dependency on a single track. |
 | "Music releases aren't an investor's expertise." | We don't ask investors to A&R. We ask them to back the franchise; A&R is run by named partners. |
 
@@ -128,4 +128,4 @@ See `06_production_strategy/production_risks.md` and the franchise-flywheel brea
 
 ## Change Log
 
-- 2026-05-20 — Initial investor case drafted; all figures placeholders.
+- 2026-05-20, Initial investor case drafted; all figures placeholders.

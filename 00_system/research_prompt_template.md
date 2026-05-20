@@ -73,6 +73,18 @@ ANTI-GENERIC RULES
 Do not use any of the banned phrases listed in this file's "Banned Phrase
 List". Replace with concrete, dated, or sourced claims.
 
+PUNCTUATION RULES
+No em dashes (`—`) anywhere in the output. Use periods, commas, colons,
+or parentheses instead. This is binding.
+
+CLAIM CLASSIFICATION
+For every load-bearing claim, classify it as one of:
+  - established fact (cited at A or B tier)
+  - strategic hypothesis (team position, no citation yet)
+  - proposed show / business mechanic (working design to test)
+Use these labels in prose where the distinction matters. Do not let a
+hypothesis or proposal pass as established fact.
+
 UNCERTAINTY
 If you cannot find an A or B source for a claim required by the task,
 move that claim to `Open Questions` and continue. Do not fabricate.
@@ -111,6 +123,8 @@ Avoid these phrases entirely. They signal generic AI output and dilute investor 
 - "Bridging the gap"
 - "Future of [X]" headlines
 
+Note: this list governs public-facing prose and analytical writing. The phrases may still appear inside *quoted* internal vocabulary (e.g. when a strategy doc references "multi-format franchise IP" as a working term), provided the quote is clearly internal-shorthand and not export to the public site.
+
 If a phrase is genuinely the right word, justify it in a comment in the file. Otherwise replace it.
 
 ### Required Specificity
@@ -144,7 +158,7 @@ generated_from: [list of upstream files]
 
 ## Evidence / Sources
 
-Not applicable — template.
+Not applicable. Template.
 
 ## Objections Answered
 
@@ -164,4 +178,5 @@ Every research file feeding the website's `business_model`, `the_world`, or `the
 
 ## Change Log
 
-- 2026-05-20 — Initial template and banned-phrase list written.
+- 2026-05-20, Initial template and banned-phrase list written.
+- 2026-05-20, Added Punctuation Rules (no em dashes), Claim Classification (fact / hypothesis / proposal), and clarified that the banned-phrase list applies to public and analytical prose, not internal vocabulary quoted as such.

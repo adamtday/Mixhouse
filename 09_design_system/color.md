@@ -15,7 +15,7 @@ related:
 
 ## Purpose
 
-Define the colour system for MixHouse — neutrals, accents, semantic states — and the rules that keep it disciplined across surfaces and seasons.
+Define the colour system for MixHouse, neutrals, accents, semantic states, and the rules that keep it disciplined across surfaces and seasons.
 
 ## Key Takeaways
 
@@ -30,8 +30,8 @@ Define the colour system for MixHouse — neutrals, accents, semantic states —
 
 Two layers:
 
-1. **Foundation** — fixed across seasons. Neutrals, ink, signal states.
-2. **Season Accent** — limited palette swapped per season to reflect the residency location.
+1. **Foundation**: fixed across seasons. Neutrals, ink, signal states.
+2. **Season Accent**: limited palette swapped per season to reflect the residency location.
 
 ### Foundation Tokens
 
@@ -80,7 +80,7 @@ A parallel surface / ink palette inverted from dark. Light mode is supported (ac
 - Acid greens, hot pinks, oranges-on-black neon stack.
 - Multi-accent gradients.
 - Glowing text effects.
-- Pure black (`#000`) and pure white (`#fff`) as default ink — use near-black / near-white for warmth and reading comfort.
+- Pure black (`#000`) and pure white (`#fff`) as default ink, use near-black / near-white for warmth and reading comfort.
 
 ### Usage Patterns
 
@@ -112,7 +112,7 @@ A parallel surface / ink palette inverted from dark. Light mode is supported (ac
 | Objection | Response |
 | --- | --- |
 | "Dark mode default reads moody." | Dark default is cinematic. Light mode exists for accessibility and print contexts. |
-| "Accent should be fixed across seasons for brand recognition." | Brand recognition lives in type, layout, and tone — not accent. Variable accent connects the brand to the season's place. |
+| "Accent should be fixed across seasons for brand recognition." | Brand recognition lives in type, layout, and tone, not accent. Variable accent connects the brand to the season's place. |
 
 ## Website Implications
 
@@ -121,10 +121,10 @@ A parallel surface / ink palette inverted from dark. Light mode is supported (ac
 
 ## Open Questions
 
-- Pilot season accent — depends on location lock.
+- Pilot season accent, depends on location lock.
 - Print palette equivalence (for press kit).
 - Brand wordmark lockup colour usage rules.
 
 ## Change Log
 
-- 2026-05-20 — Initial colour system scaffolded.
+- 2026-05-20, Initial colour system scaffolded.

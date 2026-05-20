@@ -15,15 +15,15 @@ related:
 
 ## Purpose
 
-Define the binding rules every contributor — human or agent — must follow when reading, creating, or modifying files in this repository. These rules optimise the KB for semantic retrieval, downstream artifact generation, and long-term auditability.
+Define the binding rules every contributor, human or agent, must follow when reading, creating, or modifying files in this repository. These rules optimise the KB for semantic retrieval, downstream artifact generation, and long-term auditability.
 
 ## Key Takeaways
 
-- Every file uses the YAML frontmatter and section structure from `00_system/document_template.md`. No exceptions.
+- Every analytical file uses the YAML frontmatter and section structure from `00_system/document_template.md`. Folder index files (`README.md` at a folder root, `.gitkeep` placeholders) follow a lighter convention documented below.
 - Files are atomic: one concept per file. If a file covers two concepts, split it.
 - Every quantitative claim cites a source or is flagged as an assumption.
 - Cross-link aggressively. Relative markdown links are the primary connective tissue.
-- Outputs in `11_outputs/` are derivatives — never edit them directly when the upstream source is wrong; fix the source.
+- Outputs in `11_outputs/` are derivatives, never edit them directly when the upstream source is wrong; fix the source.
 - Anti-generic writing is enforced. See banned-phrase list in `00_system/research_prompt_template.md`.
 
 ## Core Content
@@ -67,17 +67,28 @@ supersedes: {optional relative path to the file this replaces}
 - Define jargon on first use, or link to `01_master_context/glossary.md`.
 - Avoid filler openings ("In recent years…", "It is well known that…").
 - Avoid the banned list in `00_system/research_prompt_template.md`.
+- **No em dashes (`—`).** Anywhere in the KB or in any artifact derived from it. Use periods, commas, colons, or parentheses. Binding rule; checked on review.
+
+### Distinguishing Fact, Hypothesis, and Proposal
+
+Any analytical document must classify load-bearing claims into one of three categories. Failing to classify is treated as overreach.
+
+- **Established fact**: verifiable, cited at A or B tier, dated.
+- **Strategic hypothesis**: a position the team holds with stated reasoning but no external citation yet. Flag in prose ("we expect…", "hypothesis:").
+- **Proposed show / business mechanic**: a working design intended to be tested in pilot or financing. Flag in prose ("proposed:", "working assumption:") and surface in Open Questions.
+
+The scaffold is not gospel. Anything in `status: draft` that survives without explicit re-classification at `status: validated` time is treated as a proposal, not a fact.
 
 ### Section Conventions
 
-- **Purpose** — what this doc enables. Not what the topic is.
-- **Key Takeaways** — extractable bullets; will be lifted into briefs.
-- **Core Content** — the substance.
-- **Evidence / Sources** — every external claim, with a reliability tier.
-- **Objections Answered** — the toughest investor / broadcaster / fan pushbacks and our responses.
-- **Website Implications** — how this doc shows up on the live site.
-- **Open Questions** — gaps the next contributor should close.
-- **Change Log** — dated entries; append-only.
+- **Purpose**: what this doc enables. Not what the topic is.
+- **Key Takeaways**: extractable bullets; will be lifted into briefs.
+- **Core Content**: the substance.
+- **Evidence / Sources**: every external claim, with a reliability tier.
+- **Objections Answered**: the toughest investor / broadcaster / fan pushbacks and our responses.
+- **Website Implications**: how this doc shows up on the live site.
+- **Open Questions**: gaps the next contributor should close.
+- **Change Log**: dated entries; append-only.
 
 ### Linking Rules
 
@@ -93,7 +104,7 @@ If a single file accumulates more than ~800 lines or covers more than one decisi
 
 - `10_source_material/` contains raw inputs: transcripts, screenshots, decks, notes. These files may be informal but still need frontmatter.
 - All digested, analytical content lives in `01_–09_*` folders.
-- Never inline a long transcript into an analytical doc — link to the source file instead.
+- Never inline a long transcript into an analytical doc, link to the source file instead.
 
 ### Outputs
 
@@ -107,7 +118,7 @@ If a single file accumulates more than ~800 lines or covers more than one decisi
 
 ## Evidence / Sources
 
-Not applicable — this is a system rules file. Its authority derives from project owners, not external sources.
+Not applicable. This is a system rules file. Its authority derives from project owners, not external sources.
 
 ## Objections Answered
 
@@ -129,4 +140,5 @@ Indirect: a well-structured KB is what allows the website to be generated from a
 
 ## Change Log
 
-- 2026-05-20 — Initial rules drafted at repository creation.
+- 2026-05-20, Initial rules drafted at repository creation.
+- 2026-05-20, Added binding "no em dashes" rule. Added "Distinguishing Fact, Hypothesis, and Proposal" section. Softened the "no exceptions" frontmatter rule to acknowledge folder-index README and `.gitkeep` files.

@@ -47,7 +47,7 @@ Hold superseded files so the project preserves an auditable history of how decis
 
 - Raw source material (that's `10_source_material/`).
 - Active outputs (those stay in `11_outputs/` until superseded).
-- Files that were never canonical — those are deleted, not archived.
+- Files that were never canonical, those are deleted, not archived.
 
 ## Evidence / Sources
 
@@ -65,8 +65,8 @@ None directly. The archive is internal.
 
 ## Open Questions
 
-- Annual archive review — should we remove files past a certain age?
+- Annual archive review, should we remove files past a certain age?
 
 ## Change Log
 
-- 2026-05-20 — Archive folder index created.
+- 2026-05-20, Archive folder index created.

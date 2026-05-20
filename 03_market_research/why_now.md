@@ -18,7 +18,7 @@ assumption: true
 
 ## Purpose
 
-Make the case that the cultural, commercial, and technological conditions for MixHouse to launch are best-in-decade right now — and document the specific signals an investor or broadcaster will accept as proof.
+Make the case that the cultural, commercial, and technological conditions for MixHouse to launch are best-in-decade right now, and document the specific signals an investor or broadcaster will accept as proof.
 
 ## Key Takeaways
 
@@ -28,7 +28,7 @@ Make the case that the cultural, commercial, and technological conditions for Mi
 
 ## Core Content
 
-### Condition 1 — Festival Economy at Peak
+### Condition 1: Festival Economy at Peak
 
 - Live music revenue has rebounded above pre-COVID levels globally; the top festivals report repeated sellouts.
 - Electronic-anchored events (Tomorrowland, Ultra, Coachella's electronic stages, EDC, Awakenings, Movement) are demand-constrained, not supply-constrained.
@@ -36,19 +36,19 @@ Make the case that the cultural, commercial, and technological conditions for Mi
 
 Owner data to populate: see `03_market_research/festival_live_experience_market.md`.
 
-### Condition 2 — Producer-as-Celebrity
+### Condition 2: Producer-as-Celebrity
 
 - Streaming-era producers (Fred again.., Peggy Gou, Charlotte de Witte, John Summit, Skrillex's return, Bicep) have crossed from underground-only recognition to mainstream fame without traditional TV.
 - Their visual identities (e.g. boiler-room performance grammar) are now familiar to non-scene viewers via short-form clips.
 - Implication: viewers know what an electronic-music star looks like *now* in a way they didn't pre-2020.
 
-### Condition 3 — Format Fatigue in Legacy Reality
+### Condition 3: Format Fatigue in Legacy Reality
 
 - Singing competitions and dating competitions are in measurable decline in ratings and cultural penetration.
 - Streamers are commissioning prestige unscripted (`Drive to Survive`, `Cheer`, `Last Dance`, `Quarterback`) where music formats are conspicuously absent at the same prestige tier.
-- Implication: there is a slot-shape — prestige unscripted, music-led — that no incumbent currently fills.
+- Implication: there is a slot-shape, prestige unscripted, music-led, that no incumbent currently fills.
 
-### Condition 4 — Short-Form Discovery Amplifies Music Releases
+### Condition 4: Short-Form Discovery Amplifies Music Releases
 
 - TikTok / Reels / Shorts are now the primary music discovery channel for under-30 audiences.
 - Songs from on-screen contexts (films, scripted TV, viral creators) routinely become streaming hits within days.
@@ -82,11 +82,11 @@ Each signal becomes a row in the Evidence / Sources table once populated.
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Festival sell-out rates 2022–2026 | Pollstar / festival operators' annual reports | — | A (target) |
-| 2 | Electronic share of global streaming | IFPI Global Music Report | — | A (target) |
-| 3 | Producer touring boxscores (Fred again.., Peggy Gou) | Billboard Boxscore, Pollstar | — | A (target) |
-| 4 | Streamer commissioning of prestige unscripted | Parrot Analytics, Variety, THR | — | B (target) |
-| 5 | TikTok-driven streaming uplift case studies | Luminate, Chartmetric | — | A/B (target) |
+| 1 | Festival sell-out rates 2022–2026 | Pollstar / festival operators' annual reports | n/a | A (target) |
+| 2 | Electronic share of global streaming | IFPI Global Music Report | n/a | A (target) |
+| 3 | Producer touring boxscores (Fred again.., Peggy Gou) | Billboard Boxscore, Pollstar | n/a | A (target) |
+| 4 | Streamer commissioning of prestige unscripted | Parrot Analytics, Variety, THR | n/a | B (target) |
+| 5 | TikTok-driven streaming uplift case studies | Luminate, Chartmetric | n/a | A/B (target) |
 
 All Evidence rows are currently targets; this file is flagged `assumption: true`.
 
@@ -94,13 +94,13 @@ All Evidence rows are currently targets; this file is flagged `assumption: true`
 
 | Objection | Response |
 | --- | --- |
-| "Festival economy peaks decay — what if 2027 is the top?" | Even a normalisation leaves electronic-music live at its highest sustained level on record. The thesis doesn't require continued growth, only the present scale. |
+| "Festival economy peaks decay, what if 2027 is the top?" | Even a normalisation leaves electronic-music live at its highest sustained level on record. The thesis doesn't require continued growth, only the present scale. |
 | "Producer-as-celebrity is over-rotated on a handful of names." | The cohort of recognisable producers has expanded each year since 2020; we list 12+ active names in this scale. |
 | "Format fatigue is hard to prove." | Year-on-year ratings of named competition formats are publicly trackable. The trend is consistent. |
 
 ## Website Implications
 
-- Home page hero benefits from a "why now" beat — 3 numbered conditions with one supporting stat each.
+- Home page hero benefits from a "why now" beat, 3 numbered conditions with one supporting stat each.
 - Investor materials open with a tightened "Why now" page derived from this file.
 
 ## Open Questions
@@ -110,4 +110,4 @@ All Evidence rows are currently targets; this file is flagged `assumption: true`
 
 ## Change Log
 
-- 2026-05-20 — Initial argument structure drafted; evidence targets defined.
+- 2026-05-20, Initial argument structure drafted; evidence targets defined.

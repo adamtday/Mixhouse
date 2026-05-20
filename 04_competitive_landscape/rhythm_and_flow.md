@@ -20,7 +20,7 @@ Identify what Netflix's `Rhythm + Flow` proved about streamer-scale music compet
 ## Key Takeaways
 
 - `Rhythm + Flow` proved that streamers can commission and rate a music competition at prestige tier when paired with credible judges.
-- It is the closest streamer comparable to MixHouse — same buyer category, same prestige tier, music-led.
+- It is the closest streamer comparable to MixHouse, same buyer category, same prestige tier, music-led.
 - It is hip-hop-only, audition-led, and shy of true franchise economics across multiple seasons.
 - MixHouse is its genre-and-format-engine successor, not a duplicate.
 
@@ -41,7 +41,7 @@ Identify what Netflix's `Rhythm + Flow` proved about streamer-scale music compet
 
 ### What MixHouse Improves On
 
-- Replaces audition-and-cypher with residency-and-creation — a continuous creative engine, not episodic auditions.
+- Replaces audition-and-cypher with residency-and-creation, a continuous creative engine, not episodic auditions.
 - Adds real music releases per episode, not just freestyles.
 - Adds a recurring `Drop Night` and `Final Set` payoff.
 - Designs explicitly for territory adaptation; Netflix-only is a strategic ceiling.
@@ -54,15 +54,15 @@ Identify what Netflix's `Rhythm + Flow` proved about streamer-scale music compet
 
 ### Lessons for the Slot Shape
 
-- Streamers are buying music-led prestige unscripted — the slot is real.
-- They are not buying generic singing competitions — they are buying scene credibility + cinematic execution.
+- Streamers are buying music-led prestige unscripted, the slot is real.
+- They are not buying generic singing competitions, they are buying scene credibility + cinematic execution.
 
 ## Evidence / Sources
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Season order pattern on Netflix | Parrot Analytics / Variety (target) | — | B (target) |
-| 2 | Streaming performance of finalists | Chartmetric (target) | — | B (target) |
+| 1 | Season order pattern on Netflix | Parrot Analytics / Variety (target) | n/a | B (target) |
+| 2 | Streaming performance of finalists | Chartmetric (target) | n/a | B (target) |
 
 ## Objections Answered
 
@@ -81,4 +81,4 @@ Identify what Netflix's `Rhythm + Flow` proved about streamer-scale music compet
 
 ## Change Log
 
-- 2026-05-20 — Initial comp doc seeded.
+- 2026-05-20, Initial comp doc seeded.

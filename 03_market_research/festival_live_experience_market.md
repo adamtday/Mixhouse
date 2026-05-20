@@ -52,12 +52,12 @@ For MixHouse, the relevant partner types are:
 
 ### Cities to Consider for Residency
 
-- **Ibiza** — tier-1 brand, peak summer demand, infrastructure mature.
-- **Berlin** — credibility, year-round scene, lower production cost.
-- **Mexico City / Tulum** — emerging tentpole, scene momentum, cost-effective.
-- **Amsterdam** — ADE ecosystem, scene depth.
-- **Lisbon** — emerging, lower cost, strong producer community.
-- **Athens / Mykonos** — visual identity, premium positioning.
+- **Ibiza**: tier-1 brand, peak summer demand, infrastructure mature.
+- **Berlin**: credibility, year-round scene, lower production cost.
+- **Mexico City / Tulum**: emerging tentpole, scene momentum, cost-effective.
+- **Amsterdam**: ADE ecosystem, scene depth.
+- **Lisbon**: emerging, lower cost, strong producer community.
+- **Athens / Mykonos**: visual identity, premium positioning.
 
 See `06_production_strategy/location_strategy.md` for the full evaluation.
 
@@ -70,7 +70,7 @@ See `06_production_strategy/location_strategy.md` for the full evaluation.
 
 ### Strategic Implications for the Format
 
-- Headline festival partnership locked before season ordering — anchors the `Final Set` as a real, dated, marketable event.
+- Headline festival partnership locked before season ordering, anchors the `Final Set` as a real, dated, marketable event.
 - Multiple club partners across the season provide rotating `Drop Night` venues and a brand-safe variety pack.
 - Livestream platform partner gives the cinematic-live execution muscle from day one.
 
@@ -87,10 +87,10 @@ See `05_business_model/live_event_extensions.md`.
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Global live music revenue scale | IFPI / PwC GE&M (target) | — | A (target) |
-| 2 | Top-50 festival attendance | Festival operator disclosures / IQ Magazine (target) | — | B (target) |
-| 3 | Cercle viewership and venue case studies | Cercle public reporting (target) | — | B (target) |
-| 4 | Demand-supply festival sell-out velocity | Pollstar / Billboard (target) | — | A/B (target) |
+| 1 | Global live music revenue scale | IFPI / PwC GE&M (target) | n/a | A (target) |
+| 2 | Top-50 festival attendance | Festival operator disclosures / IQ Magazine (target) | n/a | B (target) |
+| 3 | Cercle viewership and venue case studies | Cercle public reporting (target) | n/a | B (target) |
+| 4 | Demand-supply festival sell-out velocity | Pollstar / Billboard (target) | n/a | A/B (target) |
 
 ## Objections Answered
 
@@ -112,4 +112,4 @@ See `05_business_model/live_event_extensions.md`.
 
 ## Change Log
 
-- 2026-05-20 — Initial festival market structure drafted.
+- 2026-05-20, Initial festival market structure drafted.

@@ -17,7 +17,7 @@ related:
 
 ## Purpose
 
-Anchor the cinematic and visual references that define MixHouse's look. The moodboard is not aspirational mood — it's a binding list of references that production, design, and marketing align against.
+Anchor the cinematic and visual references that define MixHouse's look. The moodboard is not aspirational mood, it's a binding list of references that production, design, and marketing align against.
 
 ## Key Takeaways
 
@@ -117,7 +117,7 @@ See `07_brand_world/anti_patterns.md` for the deliberate counter-list (what we a
 
 | Objection | Response |
 | --- | --- |
-| "Too many references — pick three." | Restraint is the design principle; breadth is the *reference* base. The output reads tight precisely because the inputs are diverse. |
+| "Too many references, pick three." | Restraint is the design principle; breadth is the *reference* base. The output reads tight precisely because the inputs are diverse. |
 | "Some references are too prestige for music TV." | Prestige references are exactly what we aim for. |
 
 ## Website Implications
@@ -132,4 +132,4 @@ See `07_brand_world/anti_patterns.md` for the deliberate counter-list (what we a
 
 ## Change Log
 
-- 2026-05-20 — Initial reference list seeded.
+- 2026-05-20, Initial reference list seeded.

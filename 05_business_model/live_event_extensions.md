@@ -20,7 +20,7 @@ Define the year-round live-event surface that extends MixHouse beyond the season
 
 ## Key Takeaways
 
-- Live events are not promotional add-ons — they are a primary revenue line and the most reliable on-ramp from viewer to fan.
+- Live events are not promotional add-ons, they are a primary revenue line and the most reliable on-ramp from viewer to fan.
 - Four live extensions: `Final Set` festival headline, finalists' post-season tour, alumni live activations, branded MixHouse live experiences.
 - Live ticketing economics are well-understood; the franchise margins benefit from owning the IP that fills the venue.
 - Each live extension feeds the next season's casting and audience funnel.
@@ -29,7 +29,7 @@ Define the year-round live-event surface that extends MixHouse beyond the season
 
 ### The Four Live Extensions
 
-#### 1. Final Set — Festival Headline
+#### 1. Final Set: Festival Headline
 
 - The season finale's headline performance.
 - Hosted at a real partner festival in front of a real festival audience.
@@ -89,15 +89,15 @@ Operational owner: `03_market_research/festival_live_experience_market.md`, `06_
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Touring economics for breakout reality artists | Pollstar / Billboard Boxscore (target) | — | A/B (target) |
-| 2 | Brand-sponsored live activation pricing | IQ Magazine / IEG (target) | — | B (target) |
+| 1 | Touring economics for breakout reality artists | Pollstar / Billboard Boxscore (target) | n/a | A/B (target) |
+| 2 | Brand-sponsored live activation pricing | IQ Magazine / IEG (target) | n/a | B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
 | "Live is operationally heavy." | MixHouse Live is a separate operational stack with promoter partners. The format company doesn't operate every room. |
-| "Reality-TV alumni tours often flop." | Singers do. Electronic producers/DJs have built-in performance careers — the tour is upgraded scale, not invented economics. |
+| "Reality-TV alumni tours often flop." | Singers do. Electronic producers/DJs have built-in performance careers, the tour is upgraded scale, not invented economics. |
 
 ## Website Implications
 
@@ -112,4 +112,4 @@ Operational owner: `03_market_research/festival_live_experience_market.md`, `06_
 
 ## Change Log
 
-- 2026-05-20 — Initial live extensions outlined.
+- 2026-05-20, Initial live extensions outlined.

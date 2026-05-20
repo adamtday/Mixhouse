@@ -19,7 +19,7 @@ related:
 
 ## Purpose
 
-Define the page that explains MixHouse — what it is, how it works, who's in it, how a season plays out — without losing the brand's cinematic atmosphere.
+Define the page that explains MixHouse, what it is, how it works, who's in it, how a season plays out, without losing the brand's cinematic atmosphere.
 
 ## Key Takeaways
 
@@ -36,28 +36,28 @@ L2 (Story).
 
 ### Page Outline
 
-1. **Hero — The premise in one editorial line.**
+1. **Hero, The premise in one editorial line.**
    - Backdrop: looping cinematic clip of the residency.
    - Headline: one line from `02_show_bible/show_premise.md` (Logline).
-2. **What it is — One-paragraph synopsis.**
+2. **What it is, One-paragraph synopsis.**
    - Source: `02_show_bible/show_premise.md` (One-Paragraph Pitch).
-3. **How it works — The weekly loop.**
+3. **How it works, The weekly loop.**
    - Interactive component visualising Mon → Sun cadence from `02_show_bible/format_engine.md`.
-4. **An episode — Five-act anatomy.**
+4. **An episode, Five-act anatomy.**
    - Visual map of the five acts from `02_show_bible/episode_anatomy.md`.
-5. **A season — Arc and escalation.**
+5. **A season, Arc and escalation.**
    - TimelineRail covering the 8-ep arc from `02_show_bible/season_arc.md`.
-6. **The judges — Scene-credible by selection.**
+6. **The judges, Scene-credible by selection.**
    - Names if confirmed; principle-level if not yet. Source: `02_show_bible/judging_framework.md`.
-7. **How it's judged — The four criteria.**
+7. **How it's judged, The four criteria.**
    - Voice / Craft / Floor / Risk visualised. Source: `02_show_bible/judging_framework.md`.
-8. **How elimination works — The composite index.**
+8. **How elimination works, The composite index.**
    - Animated visual of the four inputs. Source: `02_show_bible/elimination_logic.md`.
-9. **The music — Real releases.**
+9. **The music, Real releases.**
    - Cadence + label structure preview. Links to releases hub during season mode.
-10. **The cast — Real producers.**
+10. **The cast, Real producers.**
     - In season mode: contestants tiles. Pre-pilot: archetype preview from `02_show_bible/contestant_archetypes.md`.
-11. **Be in it — Casting CTA.**
+11. **Be in it, Casting CTA.**
     - Direct application path. Source: `06_production_strategy/casting_pipeline.md`.
 
 ### Audience Priority
@@ -131,10 +131,10 @@ L2 (Story).
 
 ## Open Questions
 
-- Final hero clip — needs cinematic capture or directed mock-up.
-- Confirmed judges — gating element for full credibility.
+- Final hero clip, needs cinematic capture or directed mock-up.
+- Confirmed judges, gating element for full credibility.
 - Whether to show advisor names here vs only on Advisors page.
 
 ## Change Log
 
-- 2026-05-20 — Initial The Show page brief drafted.
+- 2026-05-20, Initial The Show page brief drafted.

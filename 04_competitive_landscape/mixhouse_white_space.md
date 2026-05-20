@@ -16,11 +16,11 @@ related:
 
 ## Purpose
 
-State precisely the gap in the market MixHouse occupies — phrased as a single, defensible position that survives both investor scrutiny and scene credibility tests.
+State precisely the gap in the market MixHouse occupies, phrased as a single, defensible position that survives both investor scrutiny and scene credibility tests.
 
 ## Key Takeaways
 
-- MixHouse sits at the intersection of three established categories — none of which contains a comparable entrant.
+- MixHouse sits at the intersection of three established categories, none of which contains a comparable entrant.
 - The gap is not a tonal one ("a cooler music show") but a structural one ("a music *creation* franchise with prestige cinema + character residency + real release pipeline").
 - The position is defensible because each adjacent category has tried and failed to occupy it for category-specific reasons.
 
@@ -58,16 +58,16 @@ The X intersection has been theoretically possible since the late 2010s. The mar
 
 ### The MixHouse White Space Statement
 
-> **MixHouse is the first prestige cinematic unscripted franchise built around the creation of electronic music — combining residency-driven character storytelling, scene-credible competition, and a real-world music release pipeline that turns every episode into a tradeable cultural product.**
+> **MixHouse is the first prestige cinematic unscripted franchise built around the creation of electronic music, combining residency-driven character storytelling, scene-credible competition, and a real-world music release pipeline that turns every episode into a tradeable cultural product.**
 
 This statement is the parent of all positioning copy.
 
 ### What Defends the Position
 
-- **Format engine** — repeatable, territory-portable mechanic that none of the adjacent categories can match without rebuilding from scratch.
-- **Music release pipeline** — a multi-year operational moat once built.
-- **Scene credibility** — earned through judges, advisors, casting, and brand-world discipline; not buyable late.
-- **Cinematic identity** — designed-in, not bolted-on.
+- **Format engine**: repeatable, territory-portable mechanic that none of the adjacent categories can match without rebuilding from scratch.
+- **Music release pipeline**: a multi-year operational moat once built.
+- **Scene credibility**: earned through judges, advisors, casting, and brand-world discipline; not buyable late.
+- **Cinematic identity**: designed-in, not bolted-on.
 
 ### Where Competitors Could Come From
 
@@ -98,7 +98,7 @@ These risks justify pace, not delay.
 | Objection | Response |
 | --- | --- |
 | "Three-category intersections often fail because they please none." | Each category lends one strength; we don't dilute any one. Cinematic prestige is uncompromised, scene credibility is uncompromised, and the format engine is purpose-built. |
-| "First-mover advantage is overstated in TV." | First-mover plus operational moat (release pipeline) plus advisor list is a defensible combination — not first-mover alone. |
+| "First-mover advantage is overstated in TV." | First-mover plus operational moat (release pipeline) plus advisor list is a defensible combination, not first-mover alone. |
 
 ## Website Implications
 
@@ -113,4 +113,4 @@ These risks justify pace, not delay.
 
 ## Change Log
 
-- 2026-05-20 — Initial white-space statement drafted.
+- 2026-05-20, Initial white-space statement drafted.

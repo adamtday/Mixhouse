@@ -16,13 +16,13 @@ assumption: true
 
 ## Purpose
 
-Quantify the supply side of MixHouse — the global population and economics of independent electronic-music producers and DJs — to demonstrate that talent supply is structurally deep enough to cast multiple seasons and international adaptations.
+Quantify the supply side of MixHouse, the global population and economics of independent electronic-music producers and DJs, to demonstrate that talent supply is structurally deep enough to cast multiple seasons and international adaptations.
 
 ## Key Takeaways
 
 - The number of producers actively making and releasing electronic music has grown 5–10x in the streaming era.
 - Tools (DAWs, sample libraries, distribution) have collapsed the cost of entering the industry.
-- A producer's path to "real money" still requires releases, live bookings, and audiences — exactly what MixHouse offers.
+- A producer's path to "real money" still requires releases, live bookings, and audiences, exactly what MixHouse offers.
 - Casting supply is not a constraint. Casting *quality* is the constraint, and the format's reputation will determine whether the best apply.
 
 ## Core Content
@@ -40,7 +40,7 @@ Quantify the supply side of MixHouse — the global population and economics of 
 
 ### Economics of Being an Independent Producer
 
-Typical revenue stack for a mid-tier electronic producer (annual, illustrative — to verify):
+Typical revenue stack for a mid-tier electronic producer (annual, illustrative, to verify):
 
 | Source | Approx contribution |
 | --- | --- |
@@ -54,11 +54,11 @@ A successful MixHouse season can compress 3–5 years of independent grind into 
 
 ### Skill / Distribution Gaps MixHouse Closes
 
-- Finishing problem — many producers don't ship.
-- Performance gap — DJs without a club platform don't grow.
-- Audience gap — releases without listeners don't compound.
-- Industry-access gap — A&R relationships are gated.
-- Storytelling gap — producers undersell their own narratives.
+- Finishing problem, many producers don't ship.
+- Performance gap, DJs without a club platform don't grow.
+- Audience gap, releases without listeners don't compound.
+- Industry-access gap, A&R relationships are gated.
+- Storytelling gap, producers undersell their own narratives.
 
 MixHouse closes all five inside a single season cycle.
 
@@ -81,10 +81,10 @@ MixHouse closes all five inside a single season cycle.
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Splice active producer count | Splice corporate disclosures (target) | — | B (target) |
-| 2 | DistroKid annual release volume | DistroKid annual report (target) | — | B (target) |
-| 3 | Independent producer income mix | MIDiA Indie Artist Reports (target) | — | A/B (target) |
-| 4 | Beatport / Traxsource active label count | Public catalogue data (target) | — | B (target) |
+| 1 | Splice active producer count | Splice corporate disclosures (target) | n/a | B (target) |
+| 2 | DistroKid annual release volume | DistroKid annual report (target) | n/a | B (target) |
+| 3 | Independent producer income mix | MIDiA Indie Artist Reports (target) | n/a | A/B (target) |
+| 4 | Beatport / Traxsource active label count | Public catalogue data (target) | n/a | B (target) |
 
 ## Objections Answered
 
@@ -100,9 +100,9 @@ MixHouse closes all five inside a single season cycle.
 
 ## Open Questions
 
-- Quantify what "scene credible" means in casting terms — owner: `06_production_strategy/casting_pipeline.md`.
-- Build the global scene partner map (cities, labels, promoters) — owner: production.
+- Quantify what "scene credible" means in casting terms, owner: `06_production_strategy/casting_pipeline.md`.
+- Build the global scene partner map (cities, labels, promoters), owner: production.
 
 ## Change Log
 
-- 2026-05-20 — Initial creator-economy structure drafted.
+- 2026-05-20, Initial creator-economy structure drafted.

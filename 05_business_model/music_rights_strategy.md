@@ -17,7 +17,7 @@ assumption: true
 
 ## Purpose
 
-Set the rights structure governing the music created on MixHouse — who owns what, how royalties flow, what's released through whom — so that the format is commercially defensible and talent feels fairly treated.
+Set the rights structure governing the music created on MixHouse, who owns what, how royalties flow, what's released through whom, so that the format is commercially defensible and talent feels fairly treated.
 
 ## Key Takeaways
 
@@ -84,9 +84,9 @@ Music rights are a load-bearing piece of cultural authenticity. A bad rights dea
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Industry-standard producer royalty splits | Music Business Worldwide / IFPI (target) | — | A/B (target) |
-| 2 | Master ownership norms in indie / major deals | MIDiA Research (target) | — | A/B (target) |
-| 3 | Sync revenue norms for show-derived music | Sync Summit / Music Reports (target) | — | B (target) |
+| 1 | Industry-standard producer royalty splits | Music Business Worldwide / IFPI (target) | n/a | A/B (target) |
+| 2 | Master ownership norms in indie / major deals | MIDiA Research (target) | n/a | A/B (target) |
+| 3 | Sync revenue norms for show-derived music | Sync Summit / Music Reports (target) | n/a | B (target) |
 
 ## Objections Answered
 
@@ -102,10 +102,10 @@ Music rights are a load-bearing piece of cultural authenticity. A bad rights dea
 
 ## Open Questions
 
-- Specific producer royalty split percentages — to lock with legal + music industry advisors.
+- Specific producer royalty split percentages, to lock with legal + music industry advisors.
 - Choice of label partner for S1.
 - Sync deal templates and gatekeeping process.
 
 ## Change Log
 
-- 2026-05-20 — Initial rights strategy drafted.
+- 2026-05-20, Initial rights strategy drafted.

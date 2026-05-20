@@ -14,7 +14,7 @@ related:
 
 ## Purpose
 
-Define the public inbound surface — a single page that routes every kind of inquiry to the right MixHouse owner.
+Define the public inbound surface, a single page that routes every kind of inquiry to the right MixHouse owner.
 
 ## Key Takeaways
 
@@ -85,7 +85,7 @@ L2 (Story).
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Contact-form best practice | Nielsen Norman Group / Baymard (target) | — | B (target) |
+| 1 | Contact-form best practice | Nielsen Norman Group / Baymard (target) | n/a | B (target) |
 
 ## Objections Answered
 
@@ -106,4 +106,4 @@ L2 (Story).
 
 ## Change Log
 
-- 2026-05-20 — Initial Contact page brief drafted.
+- 2026-05-20, Initial Contact page brief drafted.

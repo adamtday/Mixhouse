@@ -15,14 +15,14 @@ related:
 
 ## Purpose
 
-Enumerate the sponsorable surfaces inside the MixHouse franchise — across show, live events, and platform — define category exclusivity rules, and set the principles that protect cultural authenticity.
+Enumerate the sponsorable surfaces inside the MixHouse franchise, across show, live events, and platform, define category exclusivity rules, and set the principles that protect cultural authenticity.
 
 ## Key Takeaways
 
 - Sponsorship is sold as **category-exclusive integration**, not banner inventory.
 - Six core categories: audio tech, beverage, fashion, gaming, telco, automotive (luxury / EV).
 - Inventory is split across show integration, live events, platform, and franchise (multi-season).
-- Cultural authenticity gates every deal — see `07_brand_world/cultural_authenticity.md`.
+- Cultural authenticity gates every deal, see `07_brand_world/cultural_authenticity.md`.
 - Pricing benchmarks pull from festival sponsorship, not TV ad-spot rates.
 
 ## Core Content
@@ -52,7 +52,7 @@ Enumerate the sponsorable surfaces inside the MixHouse franchise — across show
 
 | Category | Treatment |
 | --- | --- |
-| **Audio tech** | Deepest integration potential — studio gear, headphones, monitors. Likely category 1. |
+| **Audio tech** | Deepest integration potential, studio gear, headphones, monitors. Likely category 1. |
 | **Beverage** | High fit, must be scene-credible. Energy / RTD / spirits all in scope. |
 | **Fashion** | Wardrobe partner with co-designed capsule per season. |
 | **Gaming** | Crossover potential via in-game music drops and creator collab seasons. |
@@ -92,9 +92,9 @@ A franchise anchor sponsor (paid annually, multi-territory) is the high-margin t
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Festival presenting-sponsor pricing | IQ Magazine / Billboard Touring (target) | — | B (target) |
-| 2 | Streamer branded-content rates | Variety / THR / WARC (target) | — | B (target) |
-| 3 | Sports-docu integration patterns | Sponsorship.com / industry trade press (target) | — | B (target) |
+| 1 | Festival presenting-sponsor pricing | IQ Magazine / Billboard Touring (target) | n/a | B (target) |
+| 2 | Streamer branded-content rates | Variety / THR / WARC (target) | n/a | B (target) |
+| 3 | Sports-docu integration patterns | Sponsorship.com / industry trade press (target) | n/a | B (target) |
 
 ## Objections Answered
 
@@ -116,4 +116,4 @@ A franchise anchor sponsor (paid annually, multi-territory) is the high-margin t
 
 ## Change Log
 
-- 2026-05-20 — Initial sponsorship inventory drafted.
+- 2026-05-20, Initial sponsorship inventory drafted.

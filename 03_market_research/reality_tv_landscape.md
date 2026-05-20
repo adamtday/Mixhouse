@@ -18,7 +18,7 @@ assumption: true
 
 ## Purpose
 
-Map the current state of unscripted/reality formats — performance trends, commissioning behaviour, and the prestige-unscripted slot MixHouse targets — so the format positions itself accurately against the buyers and audiences that exist *today*.
+Map the current state of unscripted/reality formats, performance trends, commissioning behaviour, and the prestige-unscripted slot MixHouse targets, so the format positions itself accurately against the buyers and audiences that exist *today*.
 
 ## Key Takeaways
 
@@ -39,14 +39,14 @@ Map the current state of unscripted/reality formats — performance trends, comm
 | **Prestige cinematic unscripted** | Drive to Survive, Last Dance, Cheer, Quarterback, Beckham | Streamers | Rapidly growing commissioning category. |
 | **Music documentary (one-off)** | Hulu/Apple/Netflix one-off artist docs | Streamers | High demand, single-shot IP. |
 
-MixHouse targets the prestige cinematic unscripted tier — but as a *recurring format*, not a one-off. That combination is the open slot.
+MixHouse targets the prestige cinematic unscripted tier, but as a *recurring format*, not a one-off. That combination is the open slot.
 
 ### Commissioning Signals to Track
 
-- **Cost-per-hour (CPH)** — prestige unscripted has converged toward scripted CPHs at top streamers.
-- **Audience attribution** — prestige unscripted has been credited with subscriber retention and acquisition (especially sports docs).
-- **Season ordering patterns** — multi-season pickups before season 1 airing.
-- **Demo skew** — under-35 demo as a stated commissioning priority across major streamers.
+- **Cost-per-hour (CPH)**: prestige unscripted has converged toward scripted CPHs at top streamers.
+- **Audience attribution**: prestige unscripted has been credited with subscriber retention and acquisition (especially sports docs).
+- **Season ordering patterns**: multi-season pickups before season 1 airing.
+- **Demo skew**: under-35 demo as a stated commissioning priority across major streamers.
 
 ### The Prestige Unscripted "Slot Shape"
 
@@ -62,12 +62,12 @@ MixHouse satisfies every pattern.
 
 ### What Music-Led Formats Have Tried
 
-- **Singing competitions** — saturated, declining.
-- **Music documentary specials** — high prestige, no franchise.
-- **DJ talent shows** (historical, e.g. Spin Off) — failed; competition-only, no cinematic layer.
-- **Live performance docu-series** (e.g. Cercle livestreams) — high cultural credit, no format engine.
+- **Singing competitions**: saturated, declining.
+- **Music documentary specials**: high prestige, no franchise.
+- **DJ talent shows** (historical, e.g. Spin Off), failed; competition-only, no cinematic layer.
+- **Live performance docu-series** (e.g. Cercle livestreams), high cultural credit, no format engine.
 
-The combination MixHouse proposes — prestige cinematic + music creation + franchise format — has not been credibly attempted at this tier.
+The combination MixHouse proposes, prestige cinematic + music creation + franchise format, has not been credibly attempted at this tier.
 
 ### Demo Economics
 
@@ -76,14 +76,14 @@ The 18–34 demo is over-represented in:
 - Streamer subscription churn risk.
 - Short-form video usage.
 
-A format that delivers this demo to a streamer is structurally valuable — and shareholders of streamers reward demo-aligned content.
+A format that delivers this demo to a streamer is structurally valuable, and shareholders of streamers reward demo-aligned content.
 
 ### Distribution Channels
 
-- **Linear broadcasters** — for territory deals, format adaptations.
-- **Streamers** — flagship home for season 1 and territory tentpoles.
-- **Short-form platforms** — derivative content, fan engagement.
-- **Live events** — the finale and post-season touring as a distribution channel in their own right.
+- **Linear broadcasters**: for territory deals, format adaptations.
+- **Streamers**: flagship home for season 1 and territory tentpoles.
+- **Short-form platforms**: derivative content, fan engagement.
+- **Live events**: the finale and post-season touring as a distribution channel in their own right.
 
 ### Risks in This Landscape
 
@@ -97,10 +97,10 @@ These risks reinforce, not undermine, the franchise case: durable IP outlasts co
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Singing competition rating declines | Parrot Analytics / Nielsen / Variety | — | A/B (target) |
-| 2 | Prestige unscripted CPH convergence | Variety / Bloomberg / THR | — | B (target) |
-| 3 | Sports docu subscriber-attribution case studies | Bloomberg / Streamer earnings calls | — | A/B (target) |
-| 4 | Streamer demo strategy statements | Earnings calls, exec interviews | — | A/B (target) |
+| 1 | Singing competition rating declines | Parrot Analytics / Nielsen / Variety | n/a | A/B (target) |
+| 2 | Prestige unscripted CPH convergence | Variety / Bloomberg / THR | n/a | B (target) |
+| 3 | Sports docu subscriber-attribution case studies | Bloomberg / Streamer earnings calls | n/a | A/B (target) |
+| 4 | Streamer demo strategy statements | Earnings calls, exec interviews | n/a | A/B (target) |
 
 ## Objections Answered
 
@@ -108,7 +108,7 @@ These risks reinforce, not undermine, the franchise case: durable IP outlasts co
 | --- | --- |
 | "Reality TV is a declining market." | Legacy reality is declining; prestige unscripted is growing. The mix shift, not the headline, matters. |
 | "Music shows always die." | Singing-competition formats have. The prestige + creation + franchise combo hasn't been tested at this level. |
-| "Streamers are pulling back." | They're reallocating, not pulling back, especially toward demo-aligned IP — which is exactly where MixHouse sits. |
+| "Streamers are pulling back." | They're reallocating, not pulling back, especially toward demo-aligned IP, which is exactly where MixHouse sits. |
 
 ## Website Implications
 
@@ -122,4 +122,4 @@ These risks reinforce, not undermine, the franchise case: durable IP outlasts co
 
 ## Change Log
 
-- 2026-05-20 — Initial landscape structure drafted.
+- 2026-05-20, Initial landscape structure drafted.

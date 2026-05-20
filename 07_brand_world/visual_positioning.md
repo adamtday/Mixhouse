@@ -17,7 +17,7 @@ related:
 
 ## Purpose
 
-Define the visual identity of MixHouse — across show, website, marketing, social, and live — at the level of principles, not pixels. The design system in `09_design_system/` operationalises these principles.
+Define the visual identity of MixHouse, across show, website, marketing, social, and live, at the level of principles, not pixels. The design system in `09_design_system/` operationalises these principles.
 
 ## Key Takeaways
 
@@ -32,7 +32,7 @@ Define the visual identity of MixHouse — across show, website, marketing, soci
 
 1. **Cinematic before graphic.** Type, layout, and motion serve the imagery, not the other way around.
 2. **Place is identity.** The residency, venues, and finale locations are the brand's primary visual vocabulary.
-3. **Generous space.** Whitespace and slow pacing — the opposite of EDM-poster compression.
+3. **Generous space.** Whitespace and slow pacing, the opposite of EDM-poster compression.
 4. **Editorial type.** Serif headlines or technical sans, set with confidence. No "energy drink" display fonts.
 5. **Real moments, real bodies.** Photography prioritises real performance / craft / atmosphere over staged composition.
 6. **Sound is part of the visual.** Every primary surface has a sound layer; silence is also an option.
@@ -57,8 +57,8 @@ Define the visual identity of MixHouse — across show, website, marketing, soci
 
 ### Colour Posture
 
-- Anchored in **deep neutrals** — black, near-black, off-white, warm grey.
-- Accent palette derived from the residency location (sand, ocean, neon-blue night, sunset orange — chosen per season).
+- Anchored in **deep neutrals**: black, near-black, off-white, warm grey.
+- Accent palette derived from the residency location (sand, ocean, neon-blue night, sunset orange, chosen per season).
 - No fixed EDM-flavour neon palette.
 - Detail in `09_design_system/color.md`.
 
@@ -121,10 +121,10 @@ All four must answer yes.
 
 ## Open Questions
 
-- Type family final choice — owner: design partner.
+- Type family final choice, owner: design partner.
 - Logo design + lockup.
 - Season-by-season accent palette logic.
 
 ## Change Log
 
-- 2026-05-20 — Initial visual positioning drafted.
+- 2026-05-20, Initial visual positioning drafted.

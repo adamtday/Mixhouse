@@ -27,7 +27,7 @@ HOW TO USE THIS TEMPLATE
 
 ## Purpose
 
-State in 1–3 sentences what this document is for and what decision or artifact it should enable. Begin with a verb. Do not describe the topic — describe the document's job.
+State in 1–3 sentences what this document is for and what decision or artifact it should enable. Begin with a verb. Do not describe the topic, describe the document's job.
 
 ## Key Takeaways
 
@@ -67,9 +67,9 @@ How does the content of this document affect what appears on the public site? Re
 
 ## Open Questions
 
-- {Question 1 — phrased as a question, with the file or person who can answer it.}
+- {Question 1, phrased as a question, with the file or person who can answer it.}
 - {Question 2}
 
 ## Change Log
 
-- YYYY-MM-DD — {author or agent name} — {summary of change}
+- YYYY-MM-DD, {author or agent name}, {summary of change}

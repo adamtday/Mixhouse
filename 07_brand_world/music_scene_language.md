@@ -30,11 +30,11 @@ Document the scene-native vocabulary, phrasing, and tonal cues MixHouse uses cor
 
 | Term | Use it for | Common misuse |
 | --- | --- | --- |
-| **Electronic music** | The broad genre. Preferred default. | "EDM" — narrow, festival-marketing term; not a synonym for the scene. |
+| **Electronic music** | The broad genre. Preferred default. | "EDM", narrow, festival-marketing term; not a synonym for the scene. |
 | **House / tech house / deep house** | Specific sub-genres. Don't blend. | Lumping all four-on-the-floor under "house". |
 | **Techno** | Specific sub-genre. | "EDM" or "house" substitution. |
 | **Drum and bass / D&B / DnB** | Specific UK sub-genre. | Confusion with "jungle" without acknowledging the lineage. |
-| **UK garage / 2-step** | Distinct historical and present sub-genre. | "Garage rock" — different genre entirely. |
+| **UK garage / 2-step** | Distinct historical and present sub-genre. | "Garage rock", different genre entirely. |
 | **Trance** | Specific genre with distinct sub-strands (uplifting, psy, progressive). | Used as a generic "high-energy" adjective. |
 | **Afro house** | Distinct sub-genre with deep regional roots. | Treating as a sub-style of house without acknowledging origin. |
 | **Amapiano** | South African sub-genre. | "African house". |
@@ -78,11 +78,11 @@ Document the scene-native vocabulary, phrasing, and tonal cues MixHouse uses cor
 
 ### Phrases to Use
 
-- "Played the room" — successful set, well-read crowd.
-- "Reads the room" — DJ tuning a set to the audience in real time.
-- "Held the floor" — kept the dance floor engaged.
-- "Has a sound" — has a recognisable production identity.
-- "Plays out his/her/their own productions" — performs original work.
+- "Played the room", successful set, well-read crowd.
+- "Reads the room", DJ tuning a set to the audience in real time.
+- "Held the floor", kept the dance floor engaged.
+- "Has a sound", has a recognisable production identity.
+- "Plays out his/her/their own productions", performs original work.
 
 ### Phrases to Avoid
 
@@ -95,7 +95,7 @@ Document the scene-native vocabulary, phrasing, and tonal cues MixHouse uses cor
 
 ### Capitalisation and Spelling
 
-- "Drum and bass" or "D&B" — both acceptable. "Drum 'n' bass" is acceptable but inconsistent; pick one and use it consistently in any single piece.
+- "Drum and bass" or "D&B", both acceptable. "Drum 'n' bass" is acceptable but inconsistent; pick one and use it consistently in any single piece.
 - "Tech house" not "tech-house".
 - "Boiler Room" the brand (capital) vs "boiler room" the format type (lower).
 - Producer aliases respect their original capitalisation and punctuation ("Fred again..", "Peggy Gou").
@@ -111,14 +111,14 @@ When a sub-genre carries cultural-origin importance (afro house, amapiano, gqom,
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Sub-genre taxonomy | Resident Advisor / DJ Mag / Beatport (target) | — | B (target) |
-| 2 | Cultural-origin context for afro house / amapiano / etc. | Scene press / academic music writing (target) | — | B (target) |
+| 1 | Sub-genre taxonomy | Resident Advisor / DJ Mag / Beatport (target) | n/a | B (target) |
+| 2 | Cultural-origin context for afro house / amapiano / etc. | Scene press / academic music writing (target) | n/a | B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
-| "Audiences don't know these distinctions." | Audiences feel them — they just don't name them. Copy that respects distinctions reads more confident regardless. |
+| "Audiences don't know these distinctions." | Audiences feel them, they just don't name them. Copy that respects distinctions reads more confident regardless. |
 | "This is too much vocabulary." | It's a reference, not a quiz. Use what's useful; defer to advisors when uncertain. |
 
 ## Website Implications
@@ -129,8 +129,8 @@ When a sub-genre carries cultural-origin importance (afro house, amapiano, gqom,
 ## Open Questions
 
 - Region-specific vocabulary additions per territory adaptation.
-- A "what to call ourselves" decision for the format (do we ever say "EDM" in any context? — current answer: rarely, only festival-circuit segment).
+- A "what to call ourselves" decision for the format (do we ever say "EDM" in any context?, current answer: rarely, only festival-circuit segment).
 
 ## Change Log
 
-- 2026-05-20 — Initial scene language reference drafted.
+- 2026-05-20, Initial scene language reference drafted.

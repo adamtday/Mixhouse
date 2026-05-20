@@ -21,7 +21,7 @@ Provide a working taxonomy of contestant archetypes so casting can build a balan
 ## Key Takeaways
 
 - A balanced cast has at least one of each archetype below, and never two of the same dominant type.
-- Casting is for character first, craft second, scene credibility third — and every contestant must clear all three bars.
+- Casting is for character first, craft second, scene credibility third, and every contestant must clear all three bars.
 - "Reality stereotypes" are explicitly off-limits. Diversity here is genre, region, sound, and personality, not contrived characters.
 
 ## Core Content
@@ -52,9 +52,9 @@ For a cast of 12–16:
 
 Every contestant must clear three bars:
 
-1. **Character** — magnetic on camera; can carry a confessional scene; has a real opinion.
-2. **Craft** — can finish a releasable track to scene-credible quality.
-3. **Scene credibility** — has played a real gig, released real music, or been validated by named scene actors.
+1. **Character**: magnetic on camera; can carry a confessional scene; has a real opinion.
+2. **Craft**: can finish a releasable track to scene-credible quality.
+3. **Scene credibility**: has played a real gig, released real music, or been validated by named scene actors.
 
 Failing any one disqualifies. We will not cast "characters" who can't produce, "producers" who can't carry a scene, or "TV-ready" applicants with no scene grounding.
 
@@ -74,7 +74,7 @@ Failing any one disqualifies. We will not cast "characters" who can't produce, "
 > "You walk into a club and the energy turns. You're a DJ before you're a producer, but you want to be both. We'll teach you to finish what you start."
 
 #### The Outsider
-> "Your scene is two cities and an internet community. Nobody in the global mainstream knows it yet. We'll bring it to a global audience — and you with it."
+> "Your scene is two cities and an internet community. Nobody in the global mainstream knows it yet. We'll bring it to a global audience, and you with it."
 
 These briefs are direct sources for casting calls (`06_production_strategy/casting_pipeline.md`).
 
@@ -82,7 +82,7 @@ These briefs are direct sources for casting calls (`06_production_strategy/casti
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Cast-archetype balance precedents from prestige reality | `Love Island`, `Drag Race` casting reference | — | B (target) |
+| 1 | Cast-archetype balance precedents from prestige reality | `Love Island`, `Drag Race` casting reference | n/a | B (target) |
 
 ## Objections Answered
 
@@ -103,4 +103,4 @@ These briefs are direct sources for casting calls (`06_production_strategy/casti
 
 ## Change Log
 
-- 2026-05-20 — Initial archetype taxonomy drafted.
+- 2026-05-20, Initial archetype taxonomy drafted.

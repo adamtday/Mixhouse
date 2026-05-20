@@ -21,8 +21,8 @@ State the show premise at the level needed for a one-page pitch: hook, world, st
 ## Key Takeaways
 
 - A residency of emerging electronic producers lives together and must create finished, releasable tracks each week.
-- Each episode pays off with a live `Drop Night` — a curated club event where the week's tracks are debuted and reacted to in real time.
-- Eliminations combine expert judging, live-audience reaction, and post-release streaming performance — a multi-source `Audience Index`.
+- Each episode pays off with a live `Drop Night`: a curated club event where the week's tracks are debuted and reacted to in real time.
+- Eliminations combine expert judging, live-audience reaction, and post-release streaming performance, a multi-source `Audience Index`.
 - The season finale is a headline `Final Set` at a tentpole festival, with a real label deal and ongoing tour for the winner.
 - Cinematic execution and character residency are the difference between MixHouse and prior DJ formats that failed.
 
@@ -30,7 +30,7 @@ State the show premise at the level needed for a one-page pitch: hook, world, st
 
 ### Logline
 
-> A residency of emerging electronic-music producers lives, creates, and competes to release the records that will define a generation — judged by the scene that made them, the crowd that will headline them, and the streams that prove it.
+> A residency of emerging electronic-music producers lives, creates, and competes to release the records that will define a generation, judged by the scene that made them, the crowd that will headline them, and the streams that prove it.
 
 ### World
 
@@ -42,7 +42,7 @@ Inside the residency are:
 - A flexible performance space rigged for nightly live recording.
 - A control room that doubles as the editing/A&R hub.
 
-Outside the residency, episode arcs take contestants to local clubs, mentor sessions, label meetings, and — in finale weeks — global festival stages.
+Outside the residency, episode arcs take contestants to local clubs, mentor sessions, label meetings, and, in finale weeks, global festival stages.
 
 ### Stakes
 
@@ -52,10 +52,10 @@ Outside the residency, episode arcs take contestants to local clubs, mentor sess
 
 ### Characters
 
-- **Contestants** — typically 12–16 emerging producers/DJs cast for craft, character, and scene credibility. Archetypes in `02_show_bible/contestant_archetypes.md`.
-- **Resident judges** — 2–3 scene-credible artists / A&R / promoters whose feedback is weighted in elimination.
-- **Mentor drops** — recurring guest appearances by established artists; not panel judges, but creative collaborators.
-- **The Audience** — both the live `Drop Night` crowd and the streaming audience act as a third character whose reaction matters.
+- **Contestants**: typically 12–16 emerging producers/DJs cast for craft, character, and scene credibility. Archetypes in `02_show_bible/contestant_archetypes.md`.
+- **Resident judges**: 2–3 scene-credible artists / A&R / promoters whose feedback is weighted in elimination.
+- **Mentor drops**: recurring guest appearances by established artists; not panel judges, but creative collaborators.
+- **The Audience**: both the live `Drop Night` crowd and the streaming audience act as a third character whose reaction matters.
 
 ### Conflict
 
@@ -63,7 +63,7 @@ Conflict is creative and competitive, not contrived. No villain edits. No fake r
 - Can the track be finished by Friday?
 - Will the crowd react?
 - Will the streams convert?
-- Whose voice as a producer is emerging — and whose is being lost?
+- Whose voice as a producer is emerging, and whose is being lost?
 
 ### Seasonal Payoff
 
@@ -83,7 +83,7 @@ By the finale:
 
 ### One-Paragraph Pitch
 
-MixHouse is a cinematic competition franchise about the producers and DJs who make the music that defines a generation. A residency of emerging electronic artists lives and creates together, finishing a new track each week and debuting it at `Drop Night` — a curated club event where the scene reacts in real time. Eliminations are decided by expert judges, live crowd response, and streaming performance, layered through one of the most ambitious music release pipelines ever built into a reality format. The season culminates in a `Final Set` at a global festival, a label deal for the winner, and a soundtrack that lives long after the credits roll.
+MixHouse is a cinematic competition franchise about the producers and DJs who make the music that defines a generation. A residency of emerging electronic artists lives and creates together, finishing a new track each week and debuting it at `Drop Night`: a curated club event where the scene reacts in real time. Eliminations are decided by expert judges, live crowd response, and streaming performance, layered through one of the most ambitious music release pipelines ever built into a reality format. The season culminates in a `Final Set` at a global festival, a label deal for the winner, and a soundtrack that lives long after the credits roll.
 
 ## Evidence / Sources
 
@@ -109,10 +109,10 @@ See full set in `01_master_context/objection_matrix.md`. Premise-specific summar
 
 ## Open Questions
 
-- Number of contestants — exact range to lock with production (`06_production_strategy/pilot_scope.md`).
+- Number of contestants, exact range to lock with production (`06_production_strategy/pilot_scope.md`).
 - Whether `Drop Night` is hosted weekly inside the residency or rotates between local club venues.
-- Season length — proposed 8 episodes; needs broadcaster input.
+- Season length, proposed 8 episodes; needs broadcaster input.
 
 ## Change Log
 
-- 2026-05-20 — Initial premise drafted.
+- 2026-05-20, Initial premise drafted.

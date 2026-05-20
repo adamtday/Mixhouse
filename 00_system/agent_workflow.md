@@ -29,15 +29,16 @@ Define the canonical operating protocol for Claude, Cursor, and GitHub coding ag
 
 ### Boot Sequence (every new agent session)
 
-1. Read `README.md`.
-2. Read `00_system/kb_rules.md`.
-3. Read `00_system/naming_conventions.md`.
-4. Read `00_system/source_reliability_rules.md`.
-5. Read `00_system/retrieval_tags.md`.
-6. Read `01_master_context/mixhouse_master_thesis.md`.
-7. Read `01_master_context/one_sentence_positioning.md`.
-8. Read `01_master_context/glossary.md`.
-9. Then read the folder most relevant to the task.
+1. Read `AGENTS.md` at the repository root (the agent quick-card).
+2. Read `README.md`.
+3. Read `00_system/kb_rules.md`.
+4. Read `00_system/naming_conventions.md`.
+5. Read `00_system/source_reliability_rules.md`.
+6. Read `00_system/retrieval_tags.md`.
+7. Read `01_master_context/mixhouse_master_thesis.md`.
+8. Read `01_master_context/one_sentence_positioning.md`.
+9. Read `01_master_context/glossary.md`.
+10. Then read the folder most relevant to the task.
 
 ### Task Classification
 
@@ -70,7 +71,7 @@ Only create a new file when:
 
 Procedure:
 1. Copy `00_system/document_template.md`.
-2. Fill frontmatter — including 4–10 valid `retrieval_tags`.
+2. Fill frontmatter, including valid `retrieval_tags` per the count guidance in `00_system/retrieval_tags.md`.
 3. Add at least one inbound link from an existing file (so the new file is discoverable).
 4. Add an entry to the relevant parent index (e.g. add to the README quick-start list if foundational).
 
@@ -104,18 +105,18 @@ When a task requires broad exploration (e.g. "summarise everything we know about
 ### Commit Discipline
 
 - One logical change per commit. Multiple files in one commit are fine if they form a single semantic update.
-- Commit messages: `<area>: <imperative-verb> <object>` — e.g. `show_bible: add elimination logic v1`.
+- Commit messages: `<area>: <imperative-verb> <object>`: e.g. `show_bible: add elimination logic v1`.
 - Never commit raw model thinking or transcript dumps; those go in `10_source_material/` as their own files.
 
 ## Evidence / Sources
 
-Not applicable — internal protocol.
+Not applicable. Internal protocol.
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
-| "Loading 9 files before any task is wasteful." | The boot files are short (~300 lines combined). The cost of *not* reading them is generic, off-brand output. |
+| "Loading 9 files before any task is wasteful." | The boot files are short and stable. The cost of *not* reading them is generic, off-brand output. |
 | "Why force outputs into `11_outputs/`?" | Separating sources from derivatives prevents the KB from poisoning itself when an output is wrong. |
 
 ## Website Implications
@@ -129,4 +130,5 @@ This document defines how the website itself is generated: page copy is an `11_o
 
 ## Change Log
 
-- 2026-05-20 — Initial workflow defined.
+- 2026-05-20, Initial workflow defined.
+- 2026-05-20, Added `AGENTS.md` quick-card as the first boot step. Removed the "~300 lines combined" claim, which would have aged poorly. Pointed tag-count guidance to `00_system/retrieval_tags.md`.

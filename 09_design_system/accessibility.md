@@ -17,7 +17,7 @@ related:
 
 ## Purpose
 
-Define the accessibility standards MixHouse meets — across visual, motion, keyboard, screen-reader, and content dimensions — so the site is inclusive by default, not retrofitted.
+Define the accessibility standards MixHouse meets, across visual, motion, keyboard, screen-reader, and content dimensions, so the site is inclusive by default, not retrofitted.
 
 ## Key Takeaways
 
@@ -39,7 +39,7 @@ Define the accessibility standards MixHouse meets — across visual, motion, key
 - Large text (≥ 24px) contrast ≥ 3:1.
 - Interactive elements contrast ≥ 3:1 against adjacent colours.
 - Focus indicators ≥ 3:1 against the focused element's background.
-- Colour is never the only signal (state, link, etc. — also use icon, weight, or underline).
+- Colour is never the only signal (state, link, etc., also use icon, weight, or underline).
 
 ### Typography
 
@@ -122,7 +122,7 @@ Define the accessibility standards MixHouse meets — across visual, motion, key
 
 | Objection | Response |
 | --- | --- |
-| "AA is enough — AAA is over-investment." | Mostly true; we adopt AAA only where the additional discipline aligns with the brand (contrast, readability). |
+| "AA is enough, AAA is over-investment." | Mostly true; we adopt AAA only where the additional discipline aligns with the brand (contrast, readability). |
 | "Accessibility slows down cinematic ambition." | False. Cinematic ambition that breaks accessibility breaks the brand's audience expansion. |
 
 ## Website Implications
@@ -138,4 +138,4 @@ Define the accessibility standards MixHouse meets — across visual, motion, key
 
 ## Change Log
 
-- 2026-05-20 — Initial accessibility spec drafted.
+- 2026-05-20, Initial accessibility spec drafted.

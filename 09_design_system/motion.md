@@ -16,13 +16,13 @@ related:
 
 ## Purpose
 
-Define how MixHouse moves — durations, easings, intent — so motion serves cinematic atmosphere rather than decorating it.
+Define how MixHouse moves, durations, easings, intent, so motion serves cinematic atmosphere rather than decorating it.
 
 ## Key Takeaways
 
 - Motion is slow, considered, and content-led.
 - All motion respects `prefers-reduced-motion`.
-- Easings favour custom curves over default `ease` — closer to film than UI.
+- Easings favour custom curves over default `ease`: closer to film than UI.
 - No bouncing, no parallax-for-parallax's-sake, no kinetic typography flourish.
 
 ## Core Content
@@ -98,7 +98,7 @@ For hero and editorial components:
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Cinematic easing curve references | Industry motion design references (target) | — | B (target) |
+| 1 | Cinematic easing curve references | Industry motion design references (target) | n/a | B (target) |
 | 2 | `prefers-reduced-motion` spec | MDN | 2026-05-20 | A |
 
 ## Objections Answered
@@ -115,9 +115,9 @@ For hero and editorial components:
 
 ## Open Questions
 
-- Cinematic easing values — final tuning with design partner.
-- Sound + motion editorial moments — owner: trailer / brand team.
+- Cinematic easing values, final tuning with design partner.
+- Sound + motion editorial moments, owner: trailer / brand team.
 
 ## Change Log
 
-- 2026-05-20 — Initial motion system scaffolded.
+- 2026-05-20, Initial motion system scaffolded.

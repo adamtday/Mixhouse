@@ -22,7 +22,7 @@ State exactly what the MixHouse public website is for, what it must achieve for 
 
 - The site is a brand-defining surface, not a brochure. It signals quality and ambition before content does.
 - It serves six audiences via progressive disclosure (see `08_website_strategy/progressive_disclosure_model.md`).
-- It captures direct audience (email, follows, pre-saves) — the asset that compounds.
+- It captures direct audience (email, follows, pre-saves), the asset that compounds.
 - Pre-pilot, it carries no commercial pricing or detailed financials. Investor/broadcaster materials are gated.
 
 ## Core Content
@@ -62,7 +62,7 @@ State exactly what the MixHouse public website is for, what it must achieve for 
 | **Season mode (S1 in-flight)** | Live season hub, episode schedule, contestant profiles, release links, live event tickets. |
 | **Off-season** | Catalogue, alumni, next-season tease, casting open. |
 
-### Success Criteria (Launch — provisional thresholds)
+### Success Criteria (Launch: provisional thresholds)
 
 - Email captures: target threshold per week.
 - Casting applications: target per week.
@@ -91,7 +91,7 @@ The public site is `confidentiality: public`. Investor and broadcaster materials
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Email capture benchmarks for music IP launches | MailerLite / Klaviyo benchmarks (target) | — | B (target) |
+| 1 | Email capture benchmarks for music IP launches | MailerLite / Klaviyo benchmarks (target) | n/a | B (target) |
 | 2 | Core Web Vitals thresholds | Google web.dev | 2026-05-20 | A |
 
 ## Objections Answered
@@ -109,9 +109,9 @@ The public site is `confidentiality: public`. Investor and broadcaster materials
 ## Open Questions
 
 - Lock concrete KPI thresholds (Q+1).
-- Site stack final choice (Next.js / Astro / custom — owner: tech lead).
+- Site stack final choice (Next.js / Astro / custom, owner: tech lead).
 - Domain strategy (mixhouse.com vs alternates).
 
 ## Change Log
 
-- 2026-05-20 — Initial objectives drafted.
+- 2026-05-20, Initial objectives drafted.

@@ -16,7 +16,7 @@ related:
 
 ## Purpose
 
-Define the channels through which audiences interact with MixHouse outside the linear/streamer cut — and the rules governing how that participation influences the show without breaking format integrity.
+Define the channels through which audiences interact with MixHouse outside the linear/streamer cut, and the rules governing how that participation influences the show without breaking format integrity.
 
 ## Key Takeaways
 
@@ -33,7 +33,7 @@ Define the channels through which audiences interact with MixHouse outside the l
 | --- | --- | --- |
 | **Streaming** | Listen, save, add to playlists across DSPs. | Feeds the streaming input of the `Audience Index`. |
 | **Short-form** | Watch, share, and remix in-show clips on TikTok/Reels. | Feeds the short-form virality input. |
-| **App / Site** | Follow contestants, build personal playlists, attend `Drop Night` virtual viewings, RSVP to alumni events. | Drives CRM, ticketing, and ongoing engagement — outside elimination math. |
+| **App / Site** | Follow contestants, build personal playlists, attend `Drop Night` virtual viewings, RSVP to alumni events. | Drives CRM, ticketing, and ongoing engagement, outside elimination math. |
 
 ### Why No Direct Vote
 
@@ -60,7 +60,7 @@ The MixHouse app/site (post-pilot) gives fans:
 - Curated weekly playlists of all released tracks.
 - Virtual `Drop Night` viewing for non-attendees.
 - Alumni tour ticket-priority for early adopters.
-- Lightweight ranking/polls that surface fan favourites — for visibility, not voting.
+- Lightweight ranking/polls that surface fan favourites, for visibility, not voting.
 
 This is the surface where the franchise compounds beyond the season. See `05_business_model/platform_extensions.md`.
 
@@ -80,14 +80,14 @@ Scene press (Resident Advisor, DJ Mag, Mixmag, etc.) is treated as fan-participa
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Eurovision split-vote brigading patterns | Public reporting (BBC, AP) | — | B (target) |
-| 2 | Short-form virality as a leading indicator of streaming uplift | MIDiA / Chartmetric data | — | B (target) |
+| 1 | Eurovision split-vote brigading patterns | Public reporting (BBC, AP) | n/a | B (target) |
+| 2 | Short-form virality as a leading indicator of streaming uplift | MIDiA / Chartmetric data | n/a | B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
-| "Fans want to vote." | Fans want their favourites to win. The streaming + short-form proxy lets them help in the way that actually compounds the music — which is the show's product. |
+| "Fans want to vote." | Fans want their favourites to win. The streaming + short-form proxy lets them help in the way that actually compounds the music, which is the show's product. |
 | "No vote means no engagement spike." | The release cadence + virtual `Drop Night` + alumni tour priority gives multiple engagement spikes per week. |
 
 ## Website Implications
@@ -98,10 +98,10 @@ Scene press (Resident Advisor, DJ Mag, Mixmag, etc.) is treated as fan-participa
 
 ## Open Questions
 
-- App vs website-first product strategy — owner: `08_website_strategy/site_objectives.md`.
+- App vs website-first product strategy, owner: `08_website_strategy/site_objectives.md`.
 - Whether virtual `Drop Night` is free or paid (or tiered).
 - DSP partner relationships and exclusivity windows.
 
 ## Change Log
 
-- 2026-05-20 — Initial fan-participation framework drafted.
+- 2026-05-20, Initial fan-participation framework drafted.

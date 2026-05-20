@@ -17,14 +17,14 @@ assumption: true
 
 ## Purpose
 
-Document how audiences — especially the 18–34 demo — discover, save, and convert into fans of new music in 2026, so MixHouse's release pipeline and fan-participation systems are designed against current behaviour, not 2015's.
+Document how audiences, especially the 18–34 demo, discover, save, and convert into fans of new music in 2026, so MixHouse's release pipeline and fan-participation systems are designed against current behaviour, not 2015's.
 
 ## Key Takeaways
 
 - Short-form video is now the dominant music discovery channel for under-30 audiences.
 - Streaming behaviour follows discovery with a measurable lag (24–72 hours).
 - "Save to playlist" is a stronger conversion signal than play counts in most DSP algorithms.
-- Live attendance is a leading indicator of long-term fandom — not the other way around.
+- Live attendance is a leading indicator of long-term fandom, not the other way around.
 - All behavioural claims below need primary sourcing.
 
 ## Core Content
@@ -52,13 +52,13 @@ MixHouse is designed to compress this funnel inside a single season. The `Drop N
 - **First-72-hour save rate** matters more than first-hour play count.
 - **Algorithmic playlist inclusion** depends on watch-through equivalents (full-play rate) and engagement velocity.
 - **Pre-saves** drive day-zero performance.
-- **Editorial playlist support** is unlocked by relationship, not algorithm — see DSP partner strategy in `05_business_model/music_rights_strategy.md`.
+- **Editorial playlist support** is unlocked by relationship, not algorithm, see DSP partner strategy in `05_business_model/music_rights_strategy.md`.
 
 ### Live as a Leading Indicator
 
 Counter-intuitive but important: in electronic music, going to a gig often precedes consistent streaming behaviour. A producer's live moment is what converts a curious listener into a regular streamer.
 
-This justifies the format's heavy investment in `Drop Night` and `Final Set` — they are not pageantry. They are the marketing engine of the discovery funnel.
+This justifies the format's heavy investment in `Drop Night` and `Final Set`: they are not pageantry. They are the marketing engine of the discovery funnel.
 
 ### Behavioural Differences vs Mainstream Pop
 
@@ -83,16 +83,16 @@ The format is built around the electronic side of this table.
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Short-form as primary discovery channel for under-30 | MIDiA / Luminate consumer surveys (target) | — | A/B (target) |
-| 2 | DSP save rate as a stronger signal than play count | DSP partner / Chartmetric research (target) | — | B (target) |
-| 3 | Live attendance preceding streaming in electronic | Pollstar / IFPI engagement reports (target) | — | A/B (target) |
+| 1 | Short-form as primary discovery channel for under-30 | MIDiA / Luminate consumer surveys (target) | n/a | A/B (target) |
+| 2 | DSP save rate as a stronger signal than play count | DSP partner / Chartmetric research (target) | n/a | B (target) |
+| 3 | Live attendance preceding streaming in electronic | Pollstar / IFPI engagement reports (target) | n/a | A/B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
 | "Short-form is a fad." | It is now a 5+ year structural channel and a billion-user behaviour. The format hedges by also driving direct DSP behaviour. |
-| "DSPs control the funnel." | We work with DSP partners as a strategic relationship, not as a dependency — see `05_business_model/music_rights_strategy.md`. |
+| "DSPs control the funnel." | We work with DSP partners as a strategic relationship, not as a dependency, see `05_business_model/music_rights_strategy.md`. |
 
 ## Website Implications
 
@@ -103,8 +103,8 @@ The format is built around the electronic side of this table.
 
 - Concrete DSP partner conversations and exclusivity windows.
 - Short-form ownership: do clips live on the production company's accounts, contestants' accounts, or both?
-- Geographic differences in the funnel — needs region-level data.
+- Geographic differences in the funnel, needs region-level data.
 
 ## Change Log
 
-- 2026-05-20 — Initial discovery model drafted.
+- 2026-05-20, Initial discovery model drafted.

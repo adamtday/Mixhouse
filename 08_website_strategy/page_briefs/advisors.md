@@ -15,7 +15,7 @@ related:
 
 ## Purpose
 
-Define the page that lists MixHouse's named advisors, judges, and mentors — the page that earns trust from talent, scene press, broadcasters, and investors at a glance.
+Define the page that lists MixHouse's named advisors, judges, and mentors, the page that earns trust from talent, scene press, broadcasters, and investors at a glance.
 
 ## Key Takeaways
 
@@ -32,7 +32,7 @@ L2 (Story).
 
 ### Page Outline
 
-1. **Hero — Why advisors.**
+1. **Hero, Why advisors.**
    - One-paragraph editorial: scene-credible governance is built in. Source: `07_brand_world/cultural_authenticity.md`.
 2. **The advisor board.**
    - AdvisorTile grid: portrait + name + scene affiliation + one-sentence role.
@@ -43,7 +43,7 @@ L2 (Story).
 5. **What advisors do.**
    - Defined scopes: judging, talent intros, A&R consult, public credit. Source: `06_production_strategy/production_model.md`.
 6. **Become an advisor.**
-   - Soft CTA — contact form. Source: `08_website_strategy/page_briefs/contact.md`.
+   - Soft CTA, contact form. Source: `08_website_strategy/page_briefs/contact.md`.
 
 ### Audience Priority
 
@@ -83,7 +83,7 @@ Before advisors are publicly confirmed, the page:
 - Shows placeholder language: "Names will appear here as advisors confirm publicly."
 - Includes a contact CTA for inquiries.
 
-Avoid "coming soon" or "stay tuned" — write the placeholder as confidently as the final state.
+Avoid "coming soon" or "stay tuned", write the placeholder as confidently as the final state.
 
 ### Data Structure
 
@@ -92,7 +92,7 @@ Each advisor record:
 ```yaml
 - name: "Advisor Name"
   scene_affiliation: "Resident at X | Founder of Y | Producer"
-  role: "Judging — house and tech house"
+  role: "Judging, house and tech house"
   bio_short: "One sentence."
   portrait: "/media/advisors/advisor-slug.jpg"
   links:
@@ -125,9 +125,9 @@ Each advisor record:
 
 ## Open Questions
 
-- First confirmed advisors — owner: founder.
+- First confirmed advisors, owner: founder.
 - Whether to show advisor scope (judging vs talent intros vs A&R) on the public page.
 
 ## Change Log
 
-- 2026-05-20 — Initial Advisors page brief drafted.
+- 2026-05-20, Initial Advisors page brief drafted.

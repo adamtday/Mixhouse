@@ -26,7 +26,7 @@ Lay out the information architecture of the MixHouse public website: pages, thei
 ## Key Takeaways
 
 - The pre-pilot site has seven primary pages, each with a dedicated page brief.
-- Navigation is intentionally narrow — depth lives inside pages, not in nav.
+- Navigation is intentionally narrow, depth lives inside pages, not in nav.
 - Investor / broadcaster / sponsor depth lives behind a single "Materials" gate.
 - Season mode adds dynamic surfaces (season hub, contestants, releases, tickets) without changing the top-level structure.
 
@@ -145,4 +145,4 @@ Pre-launch site is English-only. Future territory adaptations get sub-paths:
 
 ## Change Log
 
-- 2026-05-20 — Initial sitemap drafted.
+- 2026-05-20, Initial sitemap drafted.

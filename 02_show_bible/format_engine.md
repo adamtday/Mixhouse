@@ -25,7 +25,7 @@ Describe the recurring mechanic that makes MixHouse a *format*, not a *show*. Th
 - Every episode ends in a live event (`Drop Night`) generating real audience signal.
 - Eliminations are driven by a composite `Audience Index` (judges + crowd + streams + social), not a single panel vote.
 - The engine compounds across the season: tracks released early continue to accrue streams that influence later eliminations.
-- The same engine works in any territory — only the residency location, judges, and music scene change.
+- The same engine works in any territory, only the residency location, judges, and music scene change.
 
 ## Core Content
 
@@ -47,10 +47,10 @@ This loop is week 1 of the season. Subsequent weeks reuse the same skeleton with
 
 Each weekly elimination decision combines four signals:
 
-1. **Judge weighting** — qualitative scoring against the weekly brief.
-2. **`Drop Night` reaction** — quantitative crowd reaction (applause meter, dance-floor density, contestant-specific energy signal).
-3. **Streaming performance** — first-72-hour streams across DSPs since release.
-4. **Short-form virality** — TikTok/Reels velocity and qualifying engagement.
+1. **Judge weighting**: qualitative scoring against the weekly brief.
+2. **`Drop Night` reaction**: quantitative crowd reaction (applause meter, dance-floor density, contestant-specific energy signal).
+3. **Streaming performance**: first-72-hour streams across DSPs since release.
+4. **Short-form virality**: TikTok/Reels velocity and qualifying engagement.
 
 Detailed weighting in `02_show_bible/elimination_logic.md`.
 
@@ -63,7 +63,7 @@ The engine is intentionally simple so it travels:
 - Keep the loop, the crate concept, the `Drop Night` payoff, and the elimination logic.
 - Local music partners adapt the release pipeline.
 
-This is the same portability mechanic that made `Idol` and `The Voice` long-running franchises — but powered by music *creation* rather than audition.
+This is the same portability mechanic that made `Idol` and `The Voice` long-running franchises, but powered by music *creation* rather than audition.
 
 ### Format Engine vs Other Music Shows
 
@@ -80,9 +80,9 @@ The persistence column is the franchise asset. Every other column expires.
 
 The engine produces three filmable surfaces every week:
 
-1. **Residency life** — character development, conflict, friendship, creative blockage. Love Island grammar.
-2. **Studio process** — craft and creative decision-making. Drive to Survive grammar.
-3. **Performance** — `Drop Night` and venue activations. Cercle/Boiler Room grammar.
+1. **Residency life**: character development, conflict, friendship, creative blockage. Love Island grammar.
+2. **Studio process**: craft and creative decision-making. Drive to Survive grammar.
+3. **Performance**: `Drop Night` and venue activations. Cercle/Boiler Room grammar.
 
 A single episode interleaves all three. No previous DJ format has combined them.
 
@@ -93,13 +93,13 @@ A single episode interleaves all three. No previous DJ format has combined them.
 | "Watching people stare at laptops." | Studio scenes are scored against character + craft and intercut with residency life and performance. |
 | Predictable eliminations. | Composite `Audience Index` introduces real volatility week to week. |
 | Music that doesn't land. | Mentor system and `Crate` keep quality floor high; release pipeline ensures finished masters. |
-| Contestants peaking too early. | Streaming performance compounds — early hits keep contestants in even if a weak track follows. |
+| Contestants peaking too early. | Streaming performance compounds, early hits keep contestants in even if a weak track follows. |
 
 ## Evidence / Sources
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | `Idol`/`Voice` format portability precedent | Format-sale industry history | — | B (target) |
+| 1 | `Idol`/`Voice` format portability precedent | Format-sale industry history | n/a | B (target) |
 | 2 | Cercle livestream cinematography precedent | `04_competitive_landscape/cercle.md` | 2026-05-20 | B |
 | 3 | Boiler Room intimate-venue grammar | `04_competitive_landscape/boiler_room.md` | 2026-05-20 | B |
 
@@ -118,10 +118,10 @@ A single episode interleaves all three. No previous DJ format has combined them.
 
 ## Open Questions
 
-- Final weighting of the four `Audience Index` inputs — to be calibrated in pilot.
+- Final weighting of the four `Audience Index` inputs, to be calibrated in pilot.
 - Whether `Drop Night` rotates venues or is hosted in-residency for season 1.
 - Number of tracks produced per week (per contestant, per duo, or pooled).
 
 ## Change Log
 
-- 2026-05-20 — Initial format engine drafted.
+- 2026-05-20, Initial format engine drafted.

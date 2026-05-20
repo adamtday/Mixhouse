@@ -17,14 +17,14 @@ related:
 
 ## Purpose
 
-Define the scope, deliverables, and success criteria of the MixHouse pilot — the minimum production unit that proves the format works on camera, in market, and through the release pipeline.
+Define the scope, deliverables, and success criteria of the MixHouse pilot, the minimum production unit that proves the format works on camera, in market, and through the release pipeline.
 
 ## Key Takeaways
 
 - The pilot is a 2-week production block delivering a watchable episode (or 2-episode block), 2 `Drop Nights`, and 6–10 commercially released tracks.
 - Pilot deliverables must include sponsor-grade integration evidence and short-form distribution outputs.
 - Success criteria are measurable: completion rate, save rate, sponsor demand, advisor sign-off.
-- The pilot does not require a flagship venue or a tier-1 mentor — it requires proof of format coherence.
+- The pilot does not require a flagship venue or a tier-1 mentor, it requires proof of format coherence.
 
 ## Core Content
 
@@ -47,7 +47,7 @@ Define the scope, deliverables, and success criteria of the MixHouse pilot — t
 ### Production Block
 
 - **Duration:** 12–14 days on-location.
-- **Location:** smaller residency than a flagship — see `06_production_strategy/location_strategy.md` for options.
+- **Location:** smaller residency than a flagship, see `06_production_strategy/location_strategy.md` for options.
 - **Cinematic team:** scripted-grade DP, 3-camera baseline, drone, intimate handheld.
 - **Music team:** 2 mentor sessions; supervising A&R; 1–2 supervising engineers.
 - **Live team:** rigged-in-advance `Drop Night` venue with multi-cam and audience-reaction tooling.
@@ -74,7 +74,7 @@ These thresholds are calibrated in the pilot and become the S1 benchmarks.
 
 ### Pilot vs Broadcast Pilot
 
-This pilot is a *proof-of-format pilot* — used for investor, broadcaster, sponsor, and advisor demonstration. A broadcaster may subsequently request a separate "broadcast pilot" once committed; the proof-of-format pilot informs that block's scope.
+This pilot is a *proof-of-format pilot*, used for investor, broadcaster, sponsor, and advisor demonstration. A broadcaster may subsequently request a separate "broadcast pilot" once committed; the proof-of-format pilot informs that block's scope.
 
 ### Risks During Pilot
 
@@ -97,8 +97,8 @@ See `06_production_strategy/production_risks.md`. The pilot-specific risks:
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Prestige unscripted pilot cost benchmark | Variety / THR (target) | — | B (target) |
-| 2 | Audience completion-rate benchmarks for streamer pilots | Parrot Analytics / Nielsen (target) | — | B (target) |
+| 1 | Prestige unscripted pilot cost benchmark | Variety / THR (target) | n/a | B (target) |
+| 2 | Audience completion-rate benchmarks for streamer pilots | Parrot Analytics / Nielsen (target) | n/a | B (target) |
 
 ## Objections Answered
 
@@ -114,10 +114,10 @@ See `06_production_strategy/production_risks.md`. The pilot-specific risks:
 
 ## Open Questions
 
-- Pilot location lock — owner: `06_production_strategy/location_strategy.md`.
+- Pilot location lock, owner: `06_production_strategy/location_strategy.md`.
 - Pilot label partner.
 - Final pilot success thresholds (calibrated with broadcaster + investor).
 
 ## Change Log
 
-- 2026-05-20 — Initial pilot scope drafted.
+- 2026-05-20, Initial pilot scope drafted.

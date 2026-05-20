@@ -19,7 +19,7 @@ related:
 
 ## Purpose
 
-Plot the comparable landscape on common axes so MixHouse's unique position is visible at a glance — and so future research deepens, rather than re-litigates, the placement.
+Plot the comparable landscape on common axes so MixHouse's unique position is visible at a glance, and so future research deepens, rather than re-litigates, the placement.
 
 ## Key Takeaways
 
@@ -47,11 +47,11 @@ Legend: ✅ has it · ◑ partial · ❌ doesn't have it.
 
 ### Read of the Matrix
 
-- **Music creation per episode** — Only `Project Runway` is a peer on this in spirit. No music format matches.
-- **Character residency** — Reality dating owns this; no music show pairs it with creation.
-- **Cinematic prestige** — Sports docs and cinematic livestreams own this; no music *competition* format reaches it.
-- **Real release pipeline** — Truly unique to MixHouse at scale.
-- **Franchise economics** — Owned by `The Voice` and `Love Island` shape, but without the IP depth MixHouse plans.
+- **Music creation per episode**: Only `Project Runway` is a peer on this in spirit. No music format matches.
+- **Character residency**: Reality dating owns this; no music show pairs it with creation.
+- **Cinematic prestige**: Sports docs and cinematic livestreams own this; no music *competition* format reaches it.
+- **Real release pipeline**: Truly unique to MixHouse at scale.
+- **Franchise economics**: Owned by `The Voice` and `Love Island` shape, but without the IP depth MixHouse plans.
 
 ### Aesthetic Comparison Set
 
@@ -88,16 +88,16 @@ There is no row that ticks all five capability columns except MixHouse. The mark
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Format-sales economics of `The Voice` | Variety / IFPI reporting | — | B (target) |
-| 2 | `Rhythm + Flow` viewership | Netflix top-ten + Parrot | — | B (target) |
-| 3 | Cercle audience and venue scale | Cercle public reporting | — | B (target) |
+| 1 | Format-sales economics of `The Voice` | Variety / IFPI reporting | n/a | B (target) |
+| 2 | `Rhythm + Flow` viewership | Netflix top-ten + Parrot | n/a | B (target) |
+| 3 | Cercle audience and venue scale | Cercle public reporting | n/a | B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
 | "You're cherry-picking the columns." | The five columns are the unfair-advantage stack we believe makes this a long-running franchise. We name and defend each one elsewhere in the bible. |
-| "Some of these aren't real comps." | They're not — they're the closest *partial* peers. Acknowledging partial comps strengthens the no-direct-peer claim. |
+| "Some of these aren't real comps." | They're not, they're the closest *partial* peers. Acknowledging partial comps strengthens the no-direct-peer claim. |
 
 ## Website Implications
 
@@ -111,4 +111,4 @@ There is no row that ticks all five capability columns except MixHouse. The mark
 
 ## Change Log
 
-- 2026-05-20 — Initial matrix drafted.
+- 2026-05-20, Initial matrix drafted.

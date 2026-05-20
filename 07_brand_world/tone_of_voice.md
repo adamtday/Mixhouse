@@ -16,11 +16,11 @@ related:
 
 ## Purpose
 
-Define how MixHouse writes — across website, social, press, captions, and internal materials — so that every word feels like it came from the same person and one that the scene would trust.
+Define how MixHouse writes, across website, social, press, captions, and internal materials, so that every word feels like it came from the same person and one that the scene would trust.
 
 ## Key Takeaways
 
-- The voice is editorial, declarative, and quiet — never hype.
+- The voice is editorial, declarative, and quiet, never hype.
 - It treats the audience and the talent as adults.
 - It is specific over general, concrete over abstract, real over aspirational.
 - It avoids the banned-phrase list (see `00_system/research_prompt_template.md`).
@@ -32,11 +32,11 @@ Define how MixHouse writes — across website, social, press, captions, and inte
 | Attribute | What it sounds like |
 | --- | --- |
 | **Editorial** | Slower cadence, considered word choice; closer to long-form magazine copy than ad copy. |
-| **Specific** | Named places, named producers, real numbers — no generalisations. |
+| **Specific** | Named places, named producers, real numbers, no generalisations. |
 | **Quiet** | Low-volume confidence. No exclamation marks. |
-| **Authoritative** | Doesn't argue for itself — states the case and moves on. |
+| **Authoritative** | Doesn't argue for itself, states the case and moves on. |
 | **Insider, not gatekeeping** | Uses scene language when it serves clarity; explains it when it serves welcome. |
-| **Funny without trying** | Dry humour, observed humour. Never punchline humour. |
+| **Dry, not jokey** | Humour is a by-product of observation, not a goal. Investor- and broadcaster-facing surfaces lean serious; fan-facing surfaces may sit lighter, but never punchline. |
 
 ### Voice Anti-Attributes
 
@@ -47,15 +47,17 @@ Define how MixHouse writes — across website, social, press, captions, and inte
 - Not paternalistic ("we know you'll love…").
 - Not faux-intimate ("hey there friend…").
 
-### Sample Voice (good)
+### Sample Voice (good; illustrative, specific numbers are placeholders)
 
-> "Twelve producers. One residency. Eight weeks. Sixty tracks released. One headline."
+> "A residency of producers. A season of releases. One headline."
 >
 > "We pick the room before we pick the song. Every venue this season was chosen for what it sounds like at 2 a.m."
 >
-> "If the track isn't finished by Friday, it doesn't make the night. No second chances."
+> "If the track isn't finished, it doesn't make the night."
 
-### Sample Voice (bad — do not write like this)
+Note: numeric specifics in any sample sentence (cast size, weeks, tracks) are not approved values. Final numbers come from `02_show_bible/format_engine.md` once that file is `status: validated`.
+
+### Sample Voice (bad: do not write like this)
 
 > "Get ready for the most exciting music competition of the decade! 🎧 Meet the producers about to change everything 🚀"
 >
@@ -72,7 +74,7 @@ Define how MixHouse writes — across website, social, press, captions, and inte
 ### Punctuation and Style
 
 - Sentences earn their commas.
-- Em-dashes used sparingly for emphasis.
+- **No em dashes anywhere in the KB or in published copy.** Use periods, commas, colons, or parentheses instead. This is a binding editorial rule, enforced at review time and reinforced in `00_system/kb_rules.md` and `00_system/research_prompt_template.md`.
 - No exclamation marks.
 - No SHOUTING in caps.
 - No emojis in long-form prose. Emojis only in social where the context demands.
@@ -91,7 +93,7 @@ Define how MixHouse writes — across website, social, press, captions, and inte
 - Captions are sentence-cased, period-ended.
 - Titles use editorial title case.
 - Episode titles are short, two words preferred.
-- Track titles are the producer's choice — never overwritten.
+- Track titles are the producer's choice, never overwritten.
 
 ### Voice in Motion
 
@@ -104,7 +106,7 @@ When voice meets motion (trailers, social):
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Editorial voice benchmarks | Resident Advisor / Pitchfork / The New Yorker (target) | — | B (target) |
+| 1 | Editorial voice benchmarks | Resident Advisor / Pitchfork / The New Yorker (target) | n/a | B (target) |
 
 ## Objections Answered
 
@@ -116,13 +118,14 @@ When voice meets motion (trailers, social):
 ## Website Implications
 
 - Every page brief in `08_website_strategy/page_briefs/` writes to this voice.
-- Microcopy (buttons, alerts, tooltips) follows the same posture — specific, quiet, declarative.
+- Microcopy (buttons, alerts, tooltips) follows the same posture, specific, quiet, declarative.
 
 ## Open Questions
 
-- Voice in international territories — direct translation vs local-voice adaptation.
+- Voice in international territories, direct translation vs local-voice adaptation.
 - Voiceover talent for trailer / show open.
 
 ## Change Log
 
-- 2026-05-20 — Initial tone of voice drafted.
+- 2026-05-20, Initial tone of voice drafted.
+- 2026-05-20, Removed em-dash exception and replaced with binding "no em dashes" rule. Softened "Funny without trying" to "Dry, not jokey" so investor-facing surfaces stay serious. De-numericised sample voice lines until format file is validated.

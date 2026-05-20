@@ -20,7 +20,7 @@ related:
 
 ## Purpose
 
-Define the page that explains, at public-defensible depth, why MixHouse is a multi-line franchise rather than a single-season format — and routes serious inquiries into the Materials gate.
+Define the page that explains, at public-defensible depth, why MixHouse is a multi-line franchise rather than a single-season format, and routes serious inquiries into the Materials gate.
 
 ## Key Takeaways
 
@@ -37,7 +37,7 @@ L3 (Substance).
 
 ### Page Outline
 
-1. **Hero — The thesis in one paragraph.**
+1. **Hero, The thesis in one paragraph.**
    - Editorial. From `04_competitive_landscape/mixhouse_white_space.md` (the White Space Statement).
 2. **Why now.**
    - Three numbered conditions with one A/B-cited stat each. Source: `03_market_research/why_now.md`.
@@ -102,7 +102,7 @@ L3 (Substance).
 
 ### Components and Animation Notes
 
-- FlywheelDiagram is the page's hero interactive — invest in it.
+- FlywheelDiagram is the page's hero interactive, invest in it.
 - Competitive matrix is sortable / filterable in season-mode upgrade; static at launch.
 - Materials gate is a single, well-designed form.
 
@@ -124,7 +124,7 @@ L3 (Substance).
 
 | Objection | Response |
 | --- | --- |
-| "Investors won't sit through a long page." | Most won't. Serious ones will — and the Materials gate is one click away. |
+| "Investors won't sit through a long page." | Most won't. Serious ones will, and the Materials gate is one click away. |
 | "Public business pages dilute confidentiality." | They show only what's safe. Numbers behind the gate stay behind it. |
 
 ## Website Implications
@@ -139,4 +139,4 @@ L3 (Substance).
 
 ## Change Log
 
-- 2026-05-20 — Initial Business Model page brief drafted.
+- 2026-05-20, Initial Business Model page brief drafted.

@@ -16,12 +16,12 @@ related:
 
 ## Purpose
 
-Catalogue the most consequential operational, creative, and commercial risks across the franchise — and the mitigations in place or required. The risk register is reviewed quarterly and at every major milestone gate.
+Catalogue the most consequential operational, creative, and commercial risks across the franchise, and the mitigations in place or required. The risk register is reviewed quarterly and at every major milestone gate.
 
 ## Key Takeaways
 
 - Five categories of risk: creative, operational, commercial, rights, cultural.
-- The most severe risks are not production logistics — they are cultural authenticity and music rights.
+- The most severe risks are not production logistics, they are cultural authenticity and music rights.
 - Every risk has an owner, a mitigation, and a measurable monitoring signal.
 - Risk register is a living document; entries are dated and reviewed.
 
@@ -93,8 +93,8 @@ Catalogue the most consequential operational, creative, and commercial risks acr
 
 The two risks that, if they activate, jeopardise the franchise:
 
-1. **Scene rejection** — addressed by `07_brand_world/cultural_authenticity.md` and advisor governance.
-2. **Music rights blow-up** — addressed by `05_business_model/music_rights_strategy.md` and per-contestant transparent contracting.
+1. **Scene rejection**: addressed by `07_brand_world/cultural_authenticity.md` and advisor governance.
+2. **Music rights blow-up**: addressed by `05_business_model/music_rights_strategy.md` and per-contestant transparent contracting.
 
 These get disproportionate ongoing attention.
 
@@ -102,14 +102,14 @@ These get disproportionate ongoing attention.
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Industry incident reports re: reality TV talent treatment | Trade press / regulatory rulings (target) | — | A/B (target) |
+| 1 | Industry incident reports re: reality TV talent treatment | Trade press / regulatory rulings (target) | n/a | A/B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
 | "Risk registers are theatre." | They are when ignored. We tie each risk to an owner and a weekly KPI. |
-| "You can't pre-empt cultural rejection." | You can — by treating scene credibility as a hard constraint, not a marketing slogan. |
+| "You can't pre-empt cultural rejection." | You can, by treating scene credibility as a hard constraint, not a marketing slogan. |
 
 ## Website Implications
 
@@ -123,4 +123,4 @@ These get disproportionate ongoing attention.
 
 ## Change Log
 
-- 2026-05-20 — Initial risk register drafted across 5 categories.
+- 2026-05-20, Initial risk register drafted across 5 categories.

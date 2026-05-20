@@ -16,7 +16,7 @@ related:
 
 ## Purpose
 
-Operationalise how MixHouse turns each episode's in-show tracks into real, commercially released music — week after week, season after season, across multiple territories.
+Operationalise how MixHouse turns each episode's in-show tracks into real, commercially released music, week after week, season after season, across multiple territories.
 
 ## Key Takeaways
 
@@ -74,7 +74,7 @@ A track that fails any gate is held back. Contestant's `Drop Night` is filled wi
 
 Every release carries:
 - Producer credit(s).
-- Co-writer credit(s) — including mentors if applicable.
+- Co-writer credit(s), including mentors if applicable.
 - Label imprint.
 - ISRC / ISWC codes.
 - Release territory list (default: all available).
@@ -117,15 +117,15 @@ This is the structural moat MixHouse builds early.
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | DSP release timing best practice (Friday window) | Music Business Worldwide / DSP partner guidance (target) | — | B (target) |
-| 2 | Metadata-quality impact on long-tail royalties | Music Reports / IFPI (target) | — | A/B (target) |
+| 1 | DSP release timing best practice (Friday window) | Music Business Worldwide / DSP partner guidance (target) | n/a | B (target) |
+| 2 | Metadata-quality impact on long-tail royalties | Music Reports / IFPI (target) | n/a | A/B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
 | "Releasing real music inside a reality show is unprecedented." | That's the point. The unprecedented operational difficulty is also the competitive moat. |
-| "Quality will be uneven." | Quality floor is enforced by gates. Uneven is fine — we're not releasing pop hits, we're releasing scene-credible music with real character. |
+| "Quality will be uneven." | Quality floor is enforced by gates. Uneven is fine, we're not releasing pop hits, we're releasing scene-credible music with real character. |
 
 ## Website Implications
 
@@ -140,4 +140,4 @@ This is the structural moat MixHouse builds early.
 
 ## Change Log
 
-- 2026-05-20 — Initial pipeline drafted.
+- 2026-05-20, Initial pipeline drafted.

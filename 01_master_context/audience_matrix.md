@@ -16,7 +16,7 @@ related:
 
 ## Purpose
 
-Define every distinct audience MixHouse must address — viewer, fan, talent, advisor, investor, broadcaster, sponsor — and the single most important thing each one must understand, believe, and do. The matrix is the source for messaging, casting, sponsor targeting, and website progressive disclosure.
+Define every distinct audience MixHouse must address, viewer, fan, talent, advisor, investor, broadcaster, sponsor, and the single most important thing each one must understand, believe, and do. The matrix is the source for messaging, casting, sponsor targeting, and website progressive disclosure.
 
 ## Key Takeaways
 
@@ -32,11 +32,11 @@ Define every distinct audience MixHouse must address — viewer, fan, talent, ad
 | Audience | Sub-segment | Must believe | Must do |
 | --- | --- | --- | --- |
 | **Streamer / broadcaster buyer** | Streamer commissioning, broadcaster acquisitions | This is the next franchisable unscripted tentpole and we can deliver at prestige quality. | Greenlight a pilot or full season order. |
-| **Investor / financier** | Seed / series A, slate financing, format equity | The franchise compounds across music, live, and brand revenue — not just licence fees. | Term sheet on the format company or pilot. |
+| **Investor / financier** | Seed / series A, slate financing, format equity | The franchise compounds across music, live, and brand revenue, not just licence fees. | Term sheet on the format company or pilot. |
 | **Sponsor / brand partner** | Beverage, fashion, tech, gaming, telco | MixHouse delivers culturally-credible access to 18–34 electronic-music audiences at scale. | Sign integration or category LOI at pilot stage. |
 | **Advisor / industry validator** | Music industry, festival promoters, label execs | The show treats the scene with rigour and respect; we are operators, not tourists. | Lend name, intros, talent access. |
-| **Talent — DJ/producer** | Emerging, mid-tier, alumni | This is the most credible TV exposure they can get, with a real release and a real festival slot. | Submit, refer peers, agree to creative terms. |
-| **Audience — viewer / fan** | Core scene fans + crossover viewers | This is a real, beautiful, character-driven show about a culture they love. | Watch, share, attend, stream the releases. |
+| **Talent, DJ/producer** | Emerging, mid-tier, alumni | This is the most credible TV exposure they can get, with a real release and a real festival slot. | Submit, refer peers, agree to creative terms. |
+| **Audience, viewer / fan** | Core scene fans + crossover viewers | This is a real, beautiful, character-driven show about a culture they love. | Watch, share, attend, stream the releases. |
 
 ### Audience Details
 
@@ -57,7 +57,7 @@ Define every distinct audience MixHouse must address — viewer, fan, talent, ad
 #### Sponsor / Brand Partner
 
 - **Profile:** Marketing leads at beverage (RTD, energy, premium spirits), fashion (streetwear, performance), tech (audio, gaming, mobile), telco.
-- **Pains:** Authenticity tax — most music-adjacent activations are rejected by scene audiences.
+- **Pains:** Authenticity tax, most music-adjacent activations are rejected by scene audiences.
 - **What we provide:** Native integration inside a credible format; access to talent + audience; durable association with a franchise.
 - **Key proof points:** `05_business_model/sponsorship_inventory.md`.
 
@@ -68,18 +68,18 @@ Define every distinct audience MixHouse must address — viewer, fan, talent, ad
 - **What we provide:** Cultural rigour, real release pipeline, no contrived drama, named scene advisors.
 - **Key proof points:** `07_brand_world/cultural_authenticity.md`, advisor list, judging framework.
 
-#### Talent — DJ / Producer
+#### Talent: DJ / Producer
 
 - **Profile:** Emerging producers (1–3 years releasing), mid-tier touring DJs, scene-credible producers between deals.
 - **Pains:** Reality TV stigma; loss of credibility; bad music rights deals.
 - **What we provide:** Real released tracks, fair music rights, scene-credible judges, no contrived villain edits.
 - **Key proof points:** `02_show_bible/judging_framework.md`, `05_business_model/music_rights_strategy.md`.
 
-#### Audience — Viewer / Fan
+#### Audience: Viewer / Fan
 
 - **Profile:**
-  - **Core scene fans** — 18–34, already follow festivals, labels, club nights. High intent.
-  - **Crossover viewers** — 18–44, watch prestige unscripted (`Drive to Survive`, `Last Dance`). Will sample if the cinematography promises.
+  - **Core scene fans**: 18–34, already follow festivals, labels, club nights. High intent.
+  - **Crossover viewers**: 18–44, watch prestige unscripted (`Drive to Survive`, `Last Dance`). Will sample if the cinematography promises.
 - **Pains:** Cringe portrayals of dance music in mainstream TV; format-show predictability.
 - **What we provide:** Cinematic execution, character-driven storytelling, music they can actually stream and attend live.
 - **Key proof points:** Cinematic trailer, soundtrack release, festival announcement.
@@ -88,24 +88,24 @@ Define every distinct audience MixHouse must address — viewer, fan, talent, ad
 
 The website uses progressive disclosure to serve the right audience at the right depth. See `08_website_strategy/progressive_disclosure_model.md` and individual page briefs.
 
-- Surface (home + trailer + hero) — viewer / fan, with light investor reassurance.
-- Layer 2 (the show + the world) — viewer / fan + advisor + talent.
-- Layer 3 (business model + materials + advisors) — investor + broadcaster + sponsor.
-- Layer 4 (contact + private materials) — gated; specific to inbound conversations.
+- Surface (home + trailer + hero), viewer / fan, with light investor reassurance.
+- Layer 2 (the show + the world), viewer / fan + advisor + talent.
+- Layer 3 (business model + materials + advisors), investor + broadcaster + sponsor.
+- Layer 4 (contact + private materials), gated; specific to inbound conversations.
 
 ## Evidence / Sources
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Format fatigue in singing competitions | To populate from Parrot Analytics / Variety / trade press | — | B (target) |
-| 2 | Brand partners willing to pay an authenticity premium for music scenes | To populate from IAB / WARC reports | — | B (target) |
+| 1 | Format fatigue in singing competitions | To populate from Parrot Analytics / Variety / trade press | n/a | B (target) |
+| 2 | Brand partners willing to pay an authenticity premium for music scenes | To populate from IAB / WARC reports | n/a | B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
 | "Six audiences is too many to message clearly." | Each audience gets a dedicated page or section. The matrix prevents bleed; the architecture enforces it. |
-| "Sponsors will see they're an audience and feel commodified." | They won't see this file — it's internal. External copy is built per-audience. |
+| "Sponsors will see they're an audience and feel commodified." | They won't see this file, it's internal. External copy is built per-audience. |
 
 ## Website Implications
 
@@ -120,4 +120,4 @@ The website uses progressive disclosure to serve the right audience at the right
 
 ## Change Log
 
-- 2026-05-20 — Initial six-audience matrix drafted.
+- 2026-05-20, Initial six-audience matrix drafted.

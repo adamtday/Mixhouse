@@ -14,7 +14,7 @@ related:
 
 ## Purpose
 
-Hold every generated artifact derived from the analytical KB — website copy, design prompts, dev task lists, investor decks. These are derivative files; they are not canonical content.
+Hold every generated artifact derived from the analytical KB, website copy, design prompts, dev task lists, investor decks. These are derivative files; they are not canonical content.
 
 ## Key Takeaways
 
@@ -36,7 +36,7 @@ Hold every generated artifact derived from the analytical KB — website copy, d
 
 ### Naming Convention
 
-`{audience}_{artifact}_{YYYYMMDD}.md` — example: `investor_one_pager_20260520.md`.
+`{audience}_{artifact}_{YYYYMMDD}.md`: example: `investor_one_pager_20260520.md`.
 
 ### Required Frontmatter Additions for Outputs
 
@@ -64,7 +64,7 @@ generation_date: YYYY-MM-DD
 
 ## Evidence / Sources
 
-Not applicable — index file.
+Not applicable. Index file.
 
 ## Objections Answered
 
@@ -83,4 +83,4 @@ The website's final copy is the output of this folder, with `08_website_strategy
 
 ## Change Log
 
-- 2026-05-20 — Initial outputs folder index created.
+- 2026-05-20, Initial outputs folder index created.

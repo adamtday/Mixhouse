@@ -22,7 +22,7 @@ Evaluate candidate residency cities and venues for the pilot and Season 1, with 
 
 - The residency *is* a character. Location choice shapes brand more than any single design decision.
 - Six tier-1 city candidates; final choice depends on scene credibility, production tax incentives, summer-season alignment, and security of festival partner for `Final Set`.
-- The location strategy supports the franchise's territory adaptation model — each adaptation rotates location while keeping the format intact.
+- The location strategy supports the franchise's territory adaptation model, each adaptation rotates location while keeping the format intact.
 
 ## Core Content
 
@@ -81,14 +81,14 @@ When MixHouse franchises to a new territory, the local production partner propos
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Tax incentives by territory | Olsberg SPI / Film Commission databases (target) | — | A/B (target) |
+| 1 | Tax incentives by territory | Olsberg SPI / Film Commission databases (target) | n/a | A/B (target) |
 | 2 | Festival anchor candidates per city | `03_market_research/festival_live_experience_market.md` | 2026-05-20 | B |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
-| "Ibiza is overdone." | Done badly. We are doing it with cinematic ambition and scene credibility — it changes the meaning of the location. |
+| "Ibiza is overdone." | Done badly. We are doing it with cinematic ambition and scene credibility, it changes the meaning of the location. |
 | "Berlin is dark for TV." | Berlin's visual identity is a strength for the brand world, not a weakness. Lighting is a creative choice, not a default. |
 
 ## Website Implications
@@ -104,4 +104,4 @@ When MixHouse franchises to a new territory, the local production partner propos
 
 ## Change Log
 
-- 2026-05-20 — Initial location candidate evaluation drafted.
+- 2026-05-20, Initial location candidate evaluation drafted.

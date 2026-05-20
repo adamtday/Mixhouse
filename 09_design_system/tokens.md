@@ -17,7 +17,7 @@ related:
 
 ## Purpose
 
-Define the canonical design token vocabulary for MixHouse — the atomic primitives (colour, type, spacing, radius, motion) that downstream components and pages reuse.
+Define the canonical design token vocabulary for MixHouse, the atomic primitives (colour, type, spacing, radius, motion) that downstream components and pages reuse.
 
 ## Key Takeaways
 
@@ -70,7 +70,7 @@ Scale based on a 4px base unit (or 0.25rem):
 | `radius-xl` | 16px | media |
 | `radius-pill` | 999px | tags / pills |
 
-The brand bias is toward minimal radius — prestige over cute.
+The brand bias is toward minimal radius, prestige over cute.
 
 ### Shadow / Elevation
 
@@ -81,7 +81,7 @@ The brand bias is toward minimal radius — prestige over cute.
 | `shadow-md` | floating panels |
 | `shadow-lg` | overlays |
 
-Specific values defined in CSS exports. Bias is toward minimal shadow — depth via type and image, not bevel.
+Specific values defined in CSS exports. Bias is toward minimal shadow, depth via type and image, not bevel.
 
 ### Z-Index
 
@@ -145,9 +145,9 @@ Mobile-first defaults; breakpoints scale up only.
 ## Open Questions
 
 - Whether to ship a fluid type scale (clamp-based) or fixed-step scale at launch.
-- Dark-mode default — likely yes for prestige feel.
-- Season-specific accent token overrides — implementation pattern TBD.
+- Dark-mode default, likely yes for prestige feel.
+- Season-specific accent token overrides, implementation pattern TBD.
 
 ## Change Log
 
-- 2026-05-20 — Initial token scaffolding drafted.
+- 2026-05-20, Initial token scaffolding drafted.

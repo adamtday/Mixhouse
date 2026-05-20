@@ -22,7 +22,7 @@ Identify what Cercle proves about cinematic-live electronic-music content at sca
 ## Key Takeaways
 
 - Cercle is the global benchmark for cinematic-livestream electronic-music content.
-- Its model — single artist, signature location, single set, multi-camera cinematic capture — has redefined visual standards for live electronic content.
+- Its model, single artist, signature location, single set, multi-camera cinematic capture, has redefined visual standards for live electronic content.
 - It is not a franchise format and has no character residency or competition mechanic.
 - For MixHouse, Cercle is the visual language reference for `Drop Night` venue selection, capture grammar, and audience experience.
 
@@ -46,7 +46,7 @@ Identify what Cercle proves about cinematic-live electronic-music content at sca
 
 - Adds character residency and longitudinal storytelling.
 - Adds competition mechanic and elimination.
-- Adds release pipeline — Cercle showcases existing music, MixHouse creates and ships new music.
+- Adds release pipeline, Cercle showcases existing music, MixHouse creates and ships new music.
 - Adds franchise economics and territory adaptation.
 
 ### Why It Is Not a Format
@@ -68,20 +68,20 @@ Identify what Cercle proves about cinematic-live electronic-music content at sca
 ### Strategic Considerations
 
 - Should Cercle be a partner (for `Drop Night` capture) or remain an aspirational comp?
-- Some Cercle-tier venues may be exclusive to existing Cercle relationships — diligence required for finale planning.
+- Some Cercle-tier venues may be exclusive to existing Cercle relationships, diligence required for finale planning.
 
 ## Evidence / Sources
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Average livestream view counts | Cercle YouTube public data (target) | — | B (target) |
-| 2 | Brand-partner integrations history | Trade press / Cercle reporting (target) | — | B (target) |
+| 1 | Average livestream view counts | Cercle YouTube public data (target) | n/a | B (target) |
+| 2 | Brand-partner integrations history | Trade press / Cercle reporting (target) | n/a | B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
-| "MixHouse will just look like Cercle." | MixHouse has character residency, competition, and creation — Cercle has none of those. The visual reference is one of three (along with cinematic docu and intimate venue grammar). |
+| "MixHouse will just look like Cercle." | MixHouse has character residency, competition, and creation, Cercle has none of those. The visual reference is one of three (along with cinematic docu and intimate venue grammar). |
 
 ## Website Implications
 
@@ -95,4 +95,4 @@ Identify what Cercle proves about cinematic-live electronic-music content at sca
 
 ## Change Log
 
-- 2026-05-20 — Initial comp doc seeded.
+- 2026-05-20, Initial comp doc seeded.

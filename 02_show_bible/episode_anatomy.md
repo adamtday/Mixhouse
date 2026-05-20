@@ -16,7 +16,7 @@ related:
 
 ## Purpose
 
-Define a working template for a single MixHouse episode — its act structure, runtime budget, scene types, and cinematic beats — so that production, writing, edit, and music teams operate from the same blueprint.
+Define a working template for a single MixHouse episode, its act structure, runtime budget, scene types, and cinematic beats, so that production, writing, edit, and music teams operate from the same blueprint.
 
 ## Key Takeaways
 
@@ -32,25 +32,25 @@ Define a working template for a single MixHouse episode — its act structure, r
 
 | Act | Length | Beats |
 | --- | --- | --- |
-| **Act 1 — Reset & Brief** | ~8 min | Residency morning. Living dynamics. Judges deliver the weekly brief + `Crate Drop`. Contestants react. |
-| **Act 2 — Sessions** | ~14 min | Studio work, creative collaboration, conflict, breakthroughs. Intercut with residency downtime. |
-| **Act 3 — Mentor Drop & Mix Lock** | ~10 min | Guest mentor critique. Track decisions. End-of-Act-3 hard deadline: tracks locked. |
-| **Act 4 — Drop Night** | ~12 min | The live performance event. Cinematic, music-led. Real-time crowd reaction. |
-| **Act 5 — Index & Elimination** | ~6 min | `Audience Index` reveal, elimination filming, season tease. |
+| **Act 1, Reset & Brief** | ~8 min | Residency morning. Living dynamics. Judges deliver the weekly brief + `Crate Drop`. Contestants react. |
+| **Act 2, Sessions** | ~14 min | Studio work, creative collaboration, conflict, breakthroughs. Intercut with residency downtime. |
+| **Act 3, Mentor Drop & Mix Lock** | ~10 min | Guest mentor critique. Track decisions. End-of-Act-3 hard deadline: tracks locked. |
+| **Act 4, Drop Night** | ~12 min | The live performance event. Cinematic, music-led. Real-time crowd reaction. |
+| **Act 5, Index & Elimination** | ~6 min | `Audience Index` reveal, elimination filming, season tease. |
 
 ### Broadcast Variant (~42 min)
 
 - Tightens Act 2 and Act 5.
-- Preserves the integrity of Act 4 — `Drop Night` is the unmissable beat.
+- Preserves the integrity of Act 4, `Drop Night` is the unmissable beat.
 
 ### Scene Types
 
-- **House scenes** — residency interior; character-driven, often dialogue-led. Love Island lens.
-- **Studio scenes** — craft, process, decision-making. Drive to Survive lens.
-- **Mentor scenes** — guest artist + contestant 1:1. Documentary lens.
-- **Drop Night scenes** — performance, audience, atmosphere. Cinematic / live-broadcast lens.
-- **Diary cams / confessionals** — contestant introspection. Standard reality grammar.
-- **Index scenes** — judges, host, and reveal mechanic. Cold, designed, ceremonial.
+- **House scenes**: residency interior; character-driven, often dialogue-led. Love Island lens.
+- **Studio scenes**: craft, process, decision-making. Drive to Survive lens.
+- **Mentor scenes**: guest artist + contestant 1:1. Documentary lens.
+- **Drop Night scenes**: performance, audience, atmosphere. Cinematic / live-broadcast lens.
+- **Diary cams / confessionals**: contestant introspection. Standard reality grammar.
+- **Index scenes**: judges, host, and reveal mechanic. Cold, designed, ceremonial.
 
 ### Cinematic Signature
 
@@ -60,7 +60,7 @@ Every episode must include:
 - One single-take performance moment ≥ 60s in length.
 - One unscripted character-defining moment per main-cast contestant.
 
-These are non-negotiable cinematic anchors — they define the brand.
+These are non-negotiable cinematic anchors, they define the brand.
 
 ### Music Release Cadence
 
@@ -94,7 +94,7 @@ This is the casting and edit brief for ensuring the audience can follow every ch
 ### What an Episode Must Not Do
 
 - No villain edits.
-- No fake-stakes voiceover ("will they make it in time?!" — show, don't tell).
+- No fake-stakes voiceover ("will they make it in time?!", show, don't tell).
 - No music-bed-over-everything sound design.
 - No staged drama.
 
@@ -102,14 +102,14 @@ This is the casting and edit brief for ensuring the audience can follow every ch
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Five-act structure conventions for streamer reality | Format reference, e.g. *The Circle*, *Love Island* | — | B (target) |
+| 1 | Five-act structure conventions for streamer reality | Format reference, e.g. *The Circle*, *Love Island* | n/a | B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
 | "12 minutes for the live event is too much." | `Drop Night` is the brand; it gets the screen time. We compress Act 2 if needed. |
-| "Where do sponsor integrations go?" | Tied to scene types (studio gear, residency lifestyle, venue partner) — not interrupting beats. See `05_business_model/sponsorship_inventory.md`. |
+| "Where do sponsor integrations go?" | Tied to scene types (studio gear, residency lifestyle, venue partner), not interrupting beats. See `05_business_model/sponsorship_inventory.md`. |
 
 ## Website Implications
 
@@ -124,4 +124,4 @@ This is the casting and edit brief for ensuring the audience can follow every ch
 
 ## Change Log
 
-- 2026-05-20 — Initial episode anatomy drafted.
+- 2026-05-20, Initial episode anatomy drafted.

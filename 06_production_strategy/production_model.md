@@ -16,7 +16,7 @@ related:
 
 ## Purpose
 
-State how MixHouse is produced — who owns the format, who produces each season, where decisions live, and what scaffolding is reusable across seasons and territories.
+State how MixHouse is produced, who owns the format, who produces each season, where decisions live, and what scaffolding is reusable across seasons and territories.
 
 ## Key Takeaways
 
@@ -96,14 +96,14 @@ Each territory replicates a known pattern:
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Format company vs production company economics | Variety / THR / industry reporting (target) | — | B (target) |
-| 2 | Territory adaptation governance patterns (Voice, Idol, Love Island) | Talpa / ITV Studios case studies (target) | — | A/B (target) |
+| 1 | Format company vs production company economics | Variety / THR / industry reporting (target) | n/a | B (target) |
+| 2 | Territory adaptation governance patterns (Voice, Idol, Love Island) | Talpa / ITV Studios case studies (target) | n/a | A/B (target) |
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
-| "Splitting format and production adds overhead." | The opposite — it eliminates the overhead of trying to be a cinematic production company in every territory. |
+| "Splitting format and production adds overhead." | The opposite, it eliminates the overhead of trying to be a cinematic production company in every territory. |
 | "Music supervision in-house is expensive." | It's a margin-protective expense. Outsourcing music ends the franchise at lower value. |
 
 ## Website Implications
@@ -120,4 +120,4 @@ Each territory replicates a known pattern:
 
 ## Change Log
 
-- 2026-05-20 — Initial production model drafted.
+- 2026-05-20, Initial production model drafted.

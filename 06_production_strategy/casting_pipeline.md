@@ -17,7 +17,7 @@ related:
 
 ## Purpose
 
-Define the casting funnel that supplies MixHouse with scene-credible, character-rich producers and DJs — from initial outreach through final ensemble selection — and the operational metrics that govern its quality.
+Define the casting funnel that supplies MixHouse with scene-credible, character-rich producers and DJs, from initial outreach through final ensemble selection, and the operational metrics that govern its quality.
 
 ## Key Takeaways
 
@@ -36,27 +36,27 @@ Define the casting funnel that supplies MixHouse with scene-credible, character-
 | **Open call** | Highest-volume, mixed-quality. Public application via website with structured submission. | 1,000–5,000 applications. |
 | **Scout team** | Targeted outreach to specific producers we want in. | 50–150 named targets. |
 
-The funnel deliberately stacks scene partners on top — they unlock applicants who would not apply cold.
+The funnel deliberately stacks scene partners on top, they unlock applicants who would not apply cold.
 
 ### Stage Gates
 
 ```
-Stage 0 — Awareness        (campaign, scene partners reach out)
-Stage 1 — Application      (submission via site / referral)
-Stage 2 — Qualification    (does the applicant clear the three filters?)
-Stage 3 — Video round      (short video + recent track submission)
-Stage 4 — Studio session   (in-person production task; filmed)
-Stage 5 — Chemistry test   (with shortlisted ensemble candidates)
-Stage 6 — Cast offer       (contract + rights deal + onboarding)
+Stage 0, Awareness        (campaign, scene partners reach out)
+Stage 1, Application      (submission via site / referral)
+Stage 2, Qualification    (does the applicant clear the three filters?)
+Stage 3, Video round      (short video + recent track submission)
+Stage 4, Studio session   (in-person production task; filmed)
+Stage 5, Chemistry test   (with shortlisted ensemble candidates)
+Stage 6, Cast offer       (contract + rights deal + onboarding)
 ```
 
 ### The Three Filters
 
 Every applicant must clear:
 
-1. **Character** — magnetic on camera; voiced opinion; ability to carry a confessional.
-2. **Craft** — releasable production quality; can finish a track in a week.
-3. **Scene credibility** — released real music, played real gigs, or vouched for by named scene actors.
+1. **Character**: magnetic on camera; voiced opinion; ability to carry a confessional.
+2. **Craft**: releasable production quality; can finish a track in a week.
+3. **Scene credibility**: released real music, played real gigs, or vouched for by named scene actors.
 
 Any one of the three failing disqualifies. No "potential" exceptions.
 
@@ -111,7 +111,7 @@ The casting database is a compounding asset (see `05_business_model/franchise_fl
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Casting funnel benchmarks for prestige unscripted | Industry consultants / casting agency disclosures (target) | — | B (target) |
+| 1 | Casting funnel benchmarks for prestige unscripted | Industry consultants / casting agency disclosures (target) | n/a | B (target) |
 
 ## Objections Answered
 
@@ -122,7 +122,7 @@ The casting database is a compounding asset (see `05_business_model/franchise_fl
 
 ## Website Implications
 
-- Public site casting page is a key conversion surface — see `08_website_strategy/page_briefs/the_show.md`.
+- Public site casting page is a key conversion surface, see `08_website_strategy/page_briefs/the_show.md`.
 - Talent-facing copy emphasises the rights deal and the platform, not just the prize.
 
 ## Open Questions
@@ -133,4 +133,4 @@ The casting database is a compounding asset (see `05_business_model/franchise_fl
 
 ## Change Log
 
-- 2026-05-20 — Initial casting pipeline drafted.
+- 2026-05-20, Initial casting pipeline drafted.

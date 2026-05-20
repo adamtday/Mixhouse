@@ -14,12 +14,12 @@ related:
 
 ## Purpose
 
-Standardise how we tier external evidence so that every claim in the KB carries an explicit confidence signal — and so that investor-grade artifacts can be assembled from `A`-tier sources only when required.
+Standardise how we tier external evidence so that every claim in the KB carries an explicit confidence signal, and so that investor-grade artifacts can be assembled from `A`-tier sources only when required.
 
 ## Key Takeaways
 
 - Every cited claim is tagged with a tier: `A`, `B`, `C`, or `assumption`.
-- `A`-tier evidence is required for any number that appears in investor or broadcaster materials.
+- `A`-tier evidence is **preferred** for any number that appears in investor or broadcaster materials. `B`-tier is acceptable when no `A`-tier source exists, provided the limitation is noted alongside the citation.
 - Industry trade press is `B`-tier; LinkedIn posts and unverified Reddit threads are `C`-tier.
 - An unverified internal estimate is `assumption` and must appear in `Open Questions`.
 - When tiers conflict (e.g. Nielsen vs Parrot Analytics), record both and explain the chosen primary in the relevant doc.
@@ -50,7 +50,7 @@ Any number that appears in:
 - `08_website_strategy/page_briefs/business_model.md` rendered copy
 - `05_business_model/investor_case.md`
 
-must be backed by an `A` or `B` source. `C` and `assumption` numbers may appear in internal docs but must be explicitly relabeled or replaced before external use.
+must be backed by an `A` or `B` source. `A`-tier is preferred where reachable; `B`-tier is acceptable when no `A`-tier source exists and the limitation is noted alongside the figure. `C` and `assumption` numbers may appear in internal docs but must be explicitly relabeled or replaced before external use.
 
 ### Recording a Source
 
@@ -75,14 +75,14 @@ Do not cite:
 
 ## Evidence / Sources
 
-Not applicable — internal rules.
+Not applicable. Internal rules.
 
 ## Objections Answered
 
 | Objection | Response |
 | --- | --- |
 | "This is overkill for a pitch." | Investors and broadcasters will sanity-check our numbers. A single bad citation undermines the entire deck. |
-| "It slows research down." | Marginally — and saves days of re-verification work when the deck goes out. |
+| "It slows research down." | Marginally, and saves days of re-verification work when the deck goes out. |
 
 ## Website Implications
 
@@ -96,4 +96,5 @@ Not applicable — internal rules.
 
 ## Change Log
 
-- 2026-05-20 — Initial tier definitions written.
+- 2026-05-20, Initial tier definitions written.
+- 2026-05-20, Resolved A-tier vs A/B-tier inconsistency. Standardised language to "A-tier preferred, B-tier acceptable when no A-tier source exists" for investor and broadcaster materials.

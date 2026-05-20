@@ -16,13 +16,13 @@ assumption: true
 
 ## Purpose
 
-Show, at the line-item level, where each tranche of investment is deployed — so investors see exactly what their dollars build, and so internal owners can measure spend against milestone outcomes.
+Show, at the line-item level, where each tranche of investment is deployed, so investors see exactly what their dollars build, and so internal owners can measure spend against milestone outcomes.
 
 ## Key Takeaways
 
 - Funds map to four buckets: format development, pilot delivery, platform launch, S1 financing.
 - Each bucket has named line items and a milestone-gated tranche structure.
-- Music release pipeline and platform are ring-fenced — they are franchise assets, not sunk production costs.
+- Music release pipeline and platform are ring-fenced, they are franchise assets, not sunk production costs.
 - All amounts in this file are placeholders pending a fully modelled budget.
 
 ## Core Content
@@ -36,7 +36,7 @@ Show, at the line-item level, where each tranche of investment is deployed — s
 | **C. Platform Launch** | App, CRM, short-form pipeline. | Pilot performance data + S1 LOI. |
 | **D. S1 Financing** | Full season delivery + finale + tour + global PR. | S1 commitment from broadcaster. |
 
-### Bucket A — Format Development
+### Bucket A: Format Development
 
 | Line | Purpose |
 | --- | --- |
@@ -47,7 +47,7 @@ Show, at the line-item level, where each tranche of investment is deployed — s
 | Legal (format, rights, entity) | IP registration, talent rights templates, label deal templates. |
 | BD + outbound | Broadcaster, sponsor, investor outreach travel and materials. |
 
-### Bucket B — Pilot Delivery
+### Bucket B: Pilot Delivery
 
 | Line | Purpose |
 | --- | --- |
@@ -59,7 +59,7 @@ Show, at the line-item level, where each tranche of investment is deployed — s
 | Post-production | Edit, colour, sound design, mastering. |
 | Insurance + contingencies | Production insurance, weather/illness contingency. |
 
-### Bucket C — Platform Launch
+### Bucket C: Platform Launch
 
 | Line | Purpose |
 | --- | --- |
@@ -69,7 +69,7 @@ Show, at the line-item level, where each tranche of investment is deployed — s
 | Short-form pipeline | Editor, captioner, scheduling, distribution. |
 | Data + analytics | First-party analytics stack. |
 
-### Bucket D — S1 Financing
+### Bucket D: S1 Financing
 
 | Line | Purpose |
 | --- | --- |
@@ -84,7 +84,7 @@ Show, at the line-item level, where each tranche of investment is deployed — s
 
 ### Ring-Fenced Investments
 
-These items are *not* part of per-season production cost recovery — they are franchise assets:
+These items are *not* part of per-season production cost recovery, they are franchise assets:
 
 - KB + format bible.
 - Music release pipeline infrastructure.
@@ -108,8 +108,8 @@ A reserve fund (typically 10–15% of any tranche) covers contingency on product
 
 | # | Claim | Source | Date accessed | Reliability |
 | - | --- | --- | --- | --- |
-| 1 | Prestige unscripted pilot cost ranges | Variety / THR (target) | — | B (target) |
-| 2 | Music pipeline operating cost benchmarks | Music Business Worldwide (target) | — | B (target) |
+| 1 | Prestige unscripted pilot cost ranges | Variety / THR (target) | n/a | B (target) |
+| 2 | Music pipeline operating cost benchmarks | Music Business Worldwide (target) | n/a | B (target) |
 
 ## Objections Answered
 
@@ -131,4 +131,4 @@ A reserve fund (typically 10–15% of any tranche) covers contingency on product
 
 ## Change Log
 
-- 2026-05-20 — Initial bucket structure drafted; placeholders for figures.
+- 2026-05-20, Initial bucket structure drafted; placeholders for figures.
