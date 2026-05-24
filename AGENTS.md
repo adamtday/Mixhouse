@@ -32,6 +32,7 @@ Then read the folder most relevant to the task.
 8. **No duplicate docs.** If a concept already has a home, extend that file. Filenames are explicit and self-describing.
 9. **Update the Change Log** on every file you edit, with date and a short note.
 10. **Cross-link.** Use relative paths whenever you reference a concept that already has a file.
+11. **Founder thesis is confidential founder input, not public copy.** `01_master_context/founder_thesis.md` is owned by Sam Salony and carries `confidentiality: confidential`. Do not paraphrase it into marketing language, public-site copy, or external decks without an explicit translation pass Sam has reviewed. When in doubt, link to it, do not quote it.
 
 ## Commit and PR discipline
 
@@ -64,3 +65,4 @@ Ask the user. Don't silently invent. Don't expand scope.
 ## Change Log
 
 - 2026-05-20, Initial AGENTS.md quick-card created.
+- 2026-05-24, Added binding rule 11: founder thesis is confidential founder input, not public copy.
