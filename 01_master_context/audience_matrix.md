@@ -12,6 +12,7 @@ related:
   - 03_market_research/music_discovery_behavior.md
   - 05_business_model/sponsorship_inventory.md
   - 08_website_strategy/progressive_disclosure_model.md
+assumption: true
 ---
 
 # Audience Matrix
@@ -216,3 +217,4 @@ This sequencing is the source for the BD plan in `06_production_strategy/product
 
 - 2026-05-20, Initial six-audience matrix drafted.
 - 2026-05-24, Phase 1 canonical population: expanded to nine audiences (Investors, Streamers, Broadcasters, Advisors, Sponsors, Talent, Fans, Press, Strategic Partners). Added per-audience structure for what-they-want / what-they-fear / objections / required-proof / emotional-trigger / where-we-serve-them. Added the Site Architecture Implications mapping that ties every page brief to its primary and secondary audience. Added the Audience Sequencing section that gives BD and funding-tranche files an explicit dependency order. Updated frontmatter related-links and retrieval tags accordingly.
+- 2026-05-24, Credibility pass: added `assumption: true` to frontmatter. Audience definitions and segmentation here are strategic working assumptions; they will be validated against actual outreach signal in Phase 2.

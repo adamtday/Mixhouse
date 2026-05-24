@@ -15,6 +15,7 @@ related:
   - 04_competitive_landscape/mixhouse_white_space.md
   - 05_business_model/franchise_flywheel.md
   - 06_production_strategy/music_release_pipeline.md
+assumption: true
 ---
 
 # Format Engine
@@ -26,7 +27,7 @@ Explain the recurring mechanic that makes MixHouse a *format*, not a *show*. The
 ## Key Takeaways
 
 - Every cycle the format produces three filmable surfaces (residency life, studio process, live performance) and one releasable artefact (the music). Conflict and engagement are structural consequences, not contrived.
-- The four-input composite elimination signal (judges, crowd, streams, short-form) makes each week unpredictable to viewers and unmanipulable by any single party.
+- The four-input composite elimination signal (judges, crowd, streams, short-form) is designed to keep each week unpredictable to viewers and resistant to manipulation by any single party.
 - The release pipeline turns each episode into a permanent asset. The catalogue is the franchise; the ratings are the trigger.
 - The engine is intentionally simple so it travels. Local territory adaptations swap the residency, the judges, the local label partner, and keep the loop intact.
 - Specific weekly cadence and weighting numbers in this document are working proposals to be calibrated in pilot. The mechanism is binding; the calibration is not.
@@ -76,7 +77,7 @@ Conflict is what the format produces; it is not what the format imposes. The ant
 | **Streaming visibility** | First-72-hour streaming numbers are public. A contestant's track being out-streamed by a peer is a quiet, structural conflict that doesn't require a confrontation to be visible. |
 | **Mentor disagreement with the maker** | Mentor critique often pulls in a different direction than the producer's own instinct. The negotiation between "the mentor said cut the break" and "the producer wants to keep it" is a real creative tension. |
 
-None of this requires a producer to construct conflict. The format produces it, and the camera captures it. This is why the anti-villain-edit rule is sustainable; the format does not need contrived drama because real drama is structurally guaranteed.
+None of this requires a producer to construct conflict. The format produces it, and the camera captures it. This is why the anti-villain-edit rule is sustainable; the format does not need contrived drama because real drama is built into the loop. Whether the loop delivers on this in practice is a pilot question, not a guarantee.
 
 ### Why The Tracks Matter (Mechanically)
 
@@ -156,7 +157,7 @@ Each cycle's elimination decision combines four signals. Detailed mathematics, w
 3. **First-72-hour streaming.** Normalised across DSPs per release window.
 4. **Short-form virality.** Watch-through, sound-use, and qualifying engagement velocity, filtered for anti-brigading.
 
-The composite design is deliberate: no single input can dominate. Manipulation requires coordinated action across all four channels, which is operationally infeasible.
+The composite design is deliberate: no single input is intended to dominate, and the weighting is calibrated to keep all four channels material. Manipulation would require coordinated action across all four channels, which raises the operational bar substantially compared to single-input formats.
 
 ### Format Portability (Why It Franchises)
 
@@ -179,7 +180,7 @@ This is the same portability that turned `Idol` and `The Voice` into multi-decad
 | `The Piano` | A live piano performance | A short-form viral moment. |
 | **MixHouse** | A finished, releasable track + a live performance moment + a composite-index signal | A growing royalty-bearing catalogue, an alumni tour, a credible label / festival relationship, and a casting funnel for next season. |
 
-The persistence column is the franchise asset. Every other format's persistence column expires; ours compounds.
+The persistence column is the franchise asset. In adjacent music formats, the persistence column is typically a single artist outcome that fades with the season; MixHouse is designed so the persistence column compounds across cycles and territories.
 
 ### The Cinematic Layer
 
@@ -243,3 +244,4 @@ A single episode interleaves all three. No previous DJ format has combined them.
 
 - 2026-05-20, Initial format engine drafted.
 - 2026-05-24, Phase 1 canonical population: rewrote the file so the mechanism is explained as a chain of cause-and-effect, not a list of features. New sections explain why the engine mechanically creates engagement, why conflict emerges without being manufactured, why the tracks matter, why audiences return between episodes, why clips spread socially, why contestants care, and why stakes escalate across a season. This is the file that takes the show from sounding hypothetical to sounding inevitable. Day-mapping and specific cycle numbers labelled as working proposals; mechanism is binding.
+- 2026-05-24, Credibility pass: added `assumption: true` to frontmatter. Softened "unmanipulable by any single party" to "resistant to manipulation by any single party." Softened "real drama is structurally guaranteed" to "built into the loop" plus an explicit pilot caveat. Softened "operationally infeasible" manipulation language to "raises the operational bar substantially." Softened "every other format's persistence column expires; ours compounds" to a comparison framed against adjacent music formats rather than a universal claim.

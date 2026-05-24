@@ -47,7 +47,7 @@ Every major popular-music genre has a recurring prestige format on TV or streami
 
 Electronic music has nothing comparable. The closest attempts (`Spin Off`, `Master of the Mix`, `The Cube`) were game-show or audition-only formats that didn't carry character residency, didn't release real music, and didn't earn scene credibility. Documentaries about individual artists exist (Avicii, Daft Punk, deadmau5) but none of those is a franchise.
 
-The hole isn't subtle. It's the largest underserved genre slot in unscripted TV by participating audience size. It has stayed open because the format the gap demands is harder to build than the formats incumbents already own. See `04_competitive_landscape/mixhouse_white_space.md`.
+The hole isn't subtle. It is a major underserved genre slot in unscripted TV by participating audience size, with the exact scale ranking pending sourced sizing in `03_market_research/electronic_music_market.md`. It has stayed open because the format the gap demands is harder to build than the formats incumbents already own. See `04_competitive_landscape/mixhouse_white_space.md`.
 
 ### Why Now
 
@@ -135,10 +135,10 @@ To honour the rule in `00_system/kb_rules.md`, the claims in this file classify 
 
 | Claim | Type | Notes |
 | --- | --- | --- |
-| Electronic has no recurring prestige format equivalent to `Idol` / `Rhythm + Flow` / `The Piano` | Established fact (B-tier evidence collation pending in `04_competitive_landscape/`) | Directly verifiable from broadcaster catalogues. |
-| Festival sellouts and producer-as-celebrity cohort exist | Established fact (A/B-tier evidence collation pending in `03_market_research/`) | Trade press and ticketing data trivially confirm. |
-| Singing-competition ratings are in decline | Established fact (Parrot / Nielsen citation pending in `03_market_research/reality_tv_landscape.md`) | Multi-year trend, well documented in trade press. |
-| Streamers are commissioning prestige unscripted at scripted-grade CPHs | Established fact (citation pending) | Variety / Bloomberg / THR have reported repeatedly. |
+| Electronic has no recurring prestige format equivalent to `Idol` / `Rhythm + Flow` / `The Piano` | Evidence-backed claim pending source collation in `04_competitive_landscape/` | Expected to be directly verifiable from broadcaster catalogues. |
+| Festival sellouts and producer-as-celebrity cohort exist | Evidence-backed claim pending source collation in `03_market_research/` | Expected to be confirmable from trade press and ticketing data. |
+| Singing-competition ratings are in decline | Evidence-backed claim pending Parrot / Nielsen citation in `03_market_research/reality_tv_landscape.md` | Multi-year trend reported across trade press; specific figures still to be cited. |
+| Streamers are commissioning prestige unscripted at scripted-grade CPHs | Evidence-backed claim pending source collation (Variety / Bloomberg / THR) | Reported repeatedly in trade press; specific CPH benchmarks still to be cited. |
 | The combination of cinematic + residency + creation + release-pipeline is uniquely defensible | Strategic hypothesis | The structural claim is the bet. It is defensible by inspection but not yet by market proof. |
 | MixHouse can produce a releasable track per contestant per cycle at scene-credible quality | Proposed mechanic | To be tested in pilot. Detailed in `02_show_bible/format_engine.md`. |
 | The franchise reaches catalogue + live + format-sales steady state in years 3-4 | Proposed business mechanic | Working assumption; specific timing is illustrative until financial model lands. |
@@ -192,3 +192,4 @@ Comprehensive objection handling lives in `01_master_context/objection_matrix.md
 - 2026-05-20, Initial thesis drafted at repository creation. All Evidence rows are currently targets, not citations; flagged `assumption: true` in frontmatter.
 - 2026-05-20, Reframed Key Takeaways and core sections from declarative claims to explicit strategic hypotheses and proposed mechanics. Moved specific numeric thresholds out of the thesis into their owner files.
 - 2026-05-24, Phase 1 canonical population: rewrote the file to deliver the inevitable argument. Added "What MixHouse Is," "Why Electronic Music (Not Pop, Not Rap, Not Country)," "Why This Format (Not the Adjacent Ones)," and a "Claim Classification" table that classifies every load-bearing claim as fact / hypothesis / proposed mechanic in one place rather than scattering meta-discipline through the prose. Tightened "Why Now" with named producers, named festivals, named comparable streamer shows. Tightened "Why Sophisticated People Should Care" to three concrete reasons. Added Cultural authenticity to the "What Must Be True" table.
+- 2026-05-24, Credibility pass: downgraded "Established fact" labels to "Evidence-backed claim pending source collation" for claims whose Evidence rows are still targets (rows 1, 2, 4, 5). Softened "largest underserved genre slot" to "a major underserved genre slot" pending sourced ranking.

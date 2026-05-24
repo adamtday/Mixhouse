@@ -17,6 +17,7 @@ related:
   - 02_show_bible/show_premise.md
   - 02_show_bible/format_engine.md
   - 05_business_model/franchise_flywheel.md
+assumption: true
 ---
 
 # MixHouse White Space
@@ -63,7 +64,7 @@ Examples: `Drive to Survive` (Netflix, Box to Box), `The Last Dance` (ESPN / Net
 
 **What this category gets right.**
 - Cinematic identity at scripted-grade CPHs. Embedded crews, scripted-grade DPs, multi-camera sport / event capture. Streamers commission these at prestige tier.
-- Character-led storytelling that expands audiences beyond the existing fanbase. `Drive to Survive` doubled US F1 viewership; `Welcome to Wrexham` made a fourth-tier English football club globally recognisable.
+- Character-led storytelling that expands audiences beyond the existing fanbase. `Drive to Survive` is widely credited in trade press with materially expanding US F1 viewership over its run; `Welcome to Wrexham` raised the global profile of a fourth-tier English football club. Specific multiples pending sourced figures in `04_competitive_landscape/drive_to_survive.md`.
 - Real-world stakes. The events are real; the performances are real; the consequences are real.
 - Streamer subscriber-attribution credit. These formats are credited with retention and acquisition, which is why budgets stay high.
 
@@ -224,3 +225,4 @@ This frame is reusable in any first-meeting context. See `01_master_context/one_
 
 - 2026-05-20, Initial white-space statement drafted.
 - 2026-05-24, Phase 1 canonical population: rewrote the file as the primary investor-persuasion artefact in the KB. Expanded the three-categories analysis with explicit "what each gets right" and "what each structurally cannot combine" tables. Added the four-legs framing with a collapse table showing what MixHouse becomes if any leg is removed. Added "Why The Gap Has Stayed Open" mapping incumbent types to the reason each has not built MixHouse. Added "What Makes The Position Defensible" enumerating four specific moats. Added "Where Competitors Could Come From" with per-threat mitigation. Added honest "What Would Invalidate The Position" list. Added the one-sentence investor frame at the end of Core Content.
+- 2026-05-24, Credibility pass: added `assumption: true` to frontmatter. Softened the "`Drive to Survive` doubled US F1 viewership" claim to a trade-press-credited expansion pending sourced figures in the per-comp file.

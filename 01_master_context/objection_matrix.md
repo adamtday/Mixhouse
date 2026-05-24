@@ -21,6 +21,7 @@ related:
   - 08_website_strategy/page_briefs/the_show.md
   - 08_website_strategy/page_briefs/the_world.md
   - 08_website_strategy/page_briefs/advisors.md
+assumption: true
 ---
 
 # Objection Matrix
@@ -200,3 +201,4 @@ A page brief that does not pre-empt at least one objection from this matrix is u
 
 - 2026-05-20, Initial matrix drafted across six audiences.
 - 2026-05-24, Phase 1 canonical population: expanded to all nine audiences from `01_master_context/audience_matrix.md` (added Press and Strategic Partner sections, split Streamer from Broadcaster). Added per-row four-attribute structure: canonical response, proof needed, where resolved on the site, supporting assets. Added the ten Universal Objections (U1–U10) the site itself must pre-empt, including new explicit handling for "too expensive" (U3), "hard to cast" (U4), "too culturally insider" (U7), "documentary vs competition confusion" (U10), "too dependent on talent" (U9), and "no mainstream audience" (U6). Added Valid Concessions table with site routing. Added explicit Website Implications section that audits each page brief against this matrix.
+- 2026-05-24, Credibility pass: added `assumption: true` to frontmatter. Canonical responses are working positions calibrated against the strategic frame; specific market data backing each will mature alongside Phase 2 evidence collation.
