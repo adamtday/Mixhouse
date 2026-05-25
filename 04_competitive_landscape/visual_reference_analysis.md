@@ -3,8 +3,8 @@ doc_type: competitive
 status: draft
 confidentiality: investor
 owners: [adamtday]
-last_reviewed: 2026-05-24
-retrieval_tags: [visual_reference, cinematic, prestige_unscripted, scene_credibility, brand_world]
+last_reviewed: 2026-05-25
+retrieval_tags: [visual_reference, cinematic, prestige_unscripted, scene_credibility, brand_world, ingestion_sprint]
 related:
   - 04_competitive_landscape/cinematography_language.md
   - 04_competitive_landscape/prestige_unscripted_breakdown.md
@@ -13,10 +13,18 @@ related:
   - 04_competitive_landscape/boiler_room.md
   - 04_competitive_landscape/drive_to_survive.md
   - 04_competitive_landscape/love_island.md
+  - 04_competitive_landscape/reference_taxonomy.md
+  - 04_competitive_landscape/reference_analysis_template.md
+  - 04_competitive_landscape/references/apple_marketing_pages.md
+  - 04_competitive_landscape/references/resident_advisor.md
+  - 04_competitive_landscape/references/cercle_platform.md
+  - 04_competitive_landscape/references/formula1_editorial.md
   - 07_brand_world/visual_positioning.md
+  - 07_brand_world/visual_principles.md
   - 07_brand_world/moodboard_references.md
   - 07_brand_world/cultural_authenticity.md
   - 02_show_bible/format_engine.md
+  - 10_source_material/reference_capture_workflow.md
 assumption: true
 ---
 
@@ -174,6 +182,57 @@ The reference set is not menu-style optional. Three principles govern adoption:
 2. **Refusal is as important as adoption.** Every reference also informs what MixHouse does **not** do. Refusal makes the brand world coherent.
 3. **The mentor / judge cast carries reference legitimacy.** A reference's grammar works only if the people on screen carry the cultural authority the grammar implies. Cinematography cannot fake cultural authority; the casting funnel does that work.
 
+### Phase 2.5 Ingestion Sprint Additions
+
+The Phase 2.5 reference-ingestion sprint (2026-05-25) added eighteen captured references plus two founder-capture-pending stubs across the five reference classes, plus four deep cluster analyses. The cluster analyses extract cross-page mechanisms that recur across reference families and route them to specific MixHouse surfaces. The per-reference companion files in `10_source_material/references/visual_references/` carry raw observations and per-reference adoption-and-refusal discipline.
+
+#### Cluster analyses
+
+| Cluster | Class | Surfaces covered | File |
+| --- | --- | --- | --- |
+| Apple Marketing Pages | crossover_aesthetic | Vision Pro, AirPods Max, MacBook Pro, Apple TV+ | `04_competitive_landscape/references/apple_marketing_pages.md` |
+| Resident Advisor | scene_credible_electronic | Homepage, Magazine, Reviews, Podcast | `04_competitive_landscape/references/resident_advisor.md` |
+| Cercle Platform | scene_credible_electronic | Homepage, Odyssey (pending capture) | `04_competitive_landscape/references/cercle_platform.md` |
+| Formula 1 Editorial Ecosystem | prestige_unscripted | F1 homepage, F1 drivers, Box to Box Films | `04_competitive_landscape/references/formula1_editorial.md` |
+
+#### Per-reference companion files added
+
+| Reference | Class | Companion file |
+| --- | --- | --- |
+| Apple Vision Pro page | crossover_aesthetic | `10_source_material/references/visual_references/crossover_aesthetic/20260525_apple_vision_pro_marketing_page.md` |
+| Apple AirPods Max page | crossover_aesthetic | `10_source_material/references/visual_references/crossover_aesthetic/20260525_apple_airpods_max_marketing_page.md` |
+| Apple MacBook Pro page | crossover_aesthetic | `10_source_material/references/visual_references/crossover_aesthetic/20260525_apple_macbook_pro_marketing_page.md` |
+| Apple TV+ page | crossover_aesthetic | `10_source_material/references/visual_references/crossover_aesthetic/20260525_apple_tv_plus_marketing_page.md` |
+| Netflix Tudum homepage | crossover_aesthetic | `10_source_material/references/visual_references/crossover_aesthetic/20260525_netflix_tudum_homepage.md` |
+| Teenage Engineering homepage | crossover_aesthetic | `10_source_material/references/visual_references/crossover_aesthetic/20260525_teenage_engineering_homepage.md` |
+| Teenage Engineering EP-133 page | crossover_aesthetic | `10_source_material/references/visual_references/crossover_aesthetic/20260525_teenage_engineering_ep133.md` |
+| Cirque du Soleil homepage | crossover_aesthetic | `10_source_material/references/visual_references/crossover_aesthetic/20260525_cirque_du_soleil_homepage.md` |
+| Cirque du Soleil O show page | crossover_aesthetic | `10_source_material/references/visual_references/crossover_aesthetic/20260525_cirque_du_soleil_o.md` |
+| Resident Advisor homepage | scene_credible_electronic | `10_source_material/references/visual_references/scene_credible_electronic/20260525_resident_advisor_homepage.md` |
+| RA Magazine | scene_credible_electronic | `10_source_material/references/visual_references/scene_credible_electronic/20260525_ra_magazine.md` |
+| RA Reviews | scene_credible_electronic | `10_source_material/references/visual_references/scene_credible_electronic/20260525_ra_reviews.md` |
+| RA Podcast | scene_credible_electronic | `10_source_material/references/visual_references/scene_credible_electronic/20260525_ra_podcast.md` |
+| Cercle homepage | scene_credible_electronic | `10_source_material/references/visual_references/scene_credible_electronic/20260525_cercle_homepage.md` |
+| Boiler Room homepage | scene_credible_electronic | `10_source_material/references/visual_references/scene_credible_electronic/20260525_boiler_room_homepage.md` |
+| Cercle Odyssey (pending capture) | scene_credible_electronic | `10_source_material/references/visual_references/scene_credible_electronic/20260525_cercle_odyssey_pending_capture.md` |
+| Pitchfork (pending capture) | scene_credible_electronic | `10_source_material/references/visual_references/scene_credible_electronic/20260525_pitchfork_pending_capture.md` |
+| Formula 1 homepage | prestige_unscripted | `10_source_material/references/visual_references/prestige_unscripted/20260525_formula1_homepage.md` |
+| Formula 1 drivers page | prestige_unscripted | `10_source_material/references/visual_references/prestige_unscripted/20260525_formula1_drivers_page.md` |
+| Box to Box Films homepage | prestige_unscripted | `10_source_material/references/visual_references/prestige_unscripted/20260525_box_to_box_films_homepage.md` |
+
+#### Recurring cross-cluster mechanisms
+
+Reading the four cluster analyses together surfaces mechanisms that recur across reference families and warrant codification:
+
+1. **Result-as-hero / cycle-as-hero pacing.** F1 sets the home page by the latest race; MixHouse equivalent is cycle-result-as-hero during active cycles, brand-world-default between cycles.
+2. **Verbatim-cast-quote editorial voice.** F1 lets driver quotes carry the editorial; RA lets reviewer bylines carry the music criticism; MixHouse equivalent is producer-mentor-judge-quote-as-headline discipline.
+3. **Single-image-per-card brand register.** Cercle, Apple, and the RA reviews-card pattern all converge on single-defining-image-per-card discipline; carries directly to MixHouse navigation card systems.
+4. **Restraint at the brand-world layer; motion lives in the experiences.** Cercle, RA, Apple, and Box to Box all hold motion-light brand-world surfaces; the motion lives in the work itself.
+5. **Partnership-as-credibility framing.** Apple TV+ and F1 both lean on named partnerships at the brand-world surface; the discipline transfers; the visual treatment (logo wall vs editorial mention) must be MixHouse-restrained.
+6. **Work-as-credential discipline.** Box to Box, Cercle's livestream catalogue, and RA's archive all demonstrate that the work itself is the credibility signal; copy explains it minimally.
+
+These mechanisms are the working observations from the sprint and inform the audience-trust audit dimensions in `07_brand_world/visual_principles.md`.
+
 ### Audience-Trust Implications
 
 What modern audiences trust as authentic vs manufactured:
@@ -235,3 +294,4 @@ Source registry with access status: `03_market_research/research_source_registry
 ## Change Log
 
 - 2026-05-24, Initial visual reference analysis created as part of Phase 2 evidence layer. Organises references into five classes (prestige unscripted, scene-credible electronic cinematic capture, residency-life cinematic grammar, music-doc cinematic grammar, crossover aesthetic). Each reference analysed for visual motif, why it works, audience psychology, and MixHouse adoption-or-refusal discipline. Includes audience-trust audit table and adoption discipline principles.
+- 2026-05-25, Phase 2.5 ingestion-sprint additions. Added eighteen captured references plus two founder-capture-pending stubs across the existing five reference classes. Added four cluster analyses in `04_competitive_landscape/references/` (Apple marketing pages, Resident Advisor, Cercle platform, F1 editorial ecosystem). Added Phase 2.5 Ingestion Sprint Additions section enumerating new references and cross-cluster mechanisms. Cross-linked `04_competitive_landscape/reference_taxonomy.md`, `04_competitive_landscape/reference_analysis_template.md`, `07_brand_world/visual_principles.md`, and `10_source_material/reference_capture_workflow.md` in the related-files frontmatter.
