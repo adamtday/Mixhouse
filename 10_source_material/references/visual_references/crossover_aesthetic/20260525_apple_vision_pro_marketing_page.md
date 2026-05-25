@@ -69,6 +69,18 @@ The page operates on three reinforcing decisions:
 
 Informs the interaction-pacing commitments in `07_brand_world/visual_principles.md` (specifically the cinematic-pacing principle and the anti-overstimulated-UI refusal). Anchors the worked example in `04_competitive_landscape/reference_analysis_template.md`. Supports the editorial-restraint discipline in `07_brand_world/visual_positioning.md`.
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_apple_vision_pro_marketing_page_p1.png`: hero with the "era of spatial computing is here" headline
+- `20260525_apple_vision_pro_marketing_page_p2.png`: mid-page section transition (Entertainment or Productivity block)
+- `20260525_apple_vision_pro_marketing_page_p3.png`: drawer expansion or visionOS feature reveal
+- `20260525_apple_vision_pro_marketing_page_p4.png`: technology / spatial computing depth section
+- `20260525_apple_vision_pro_marketing_page_p5.png`: footer information density (counter-reference)
+
+Status: pending founder capture (priority P1). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries at `20260525_apple_vision_pro_marketing_page_p1.png` through `_p4.png` are pending founder manual capture from a native browser environment. This companion `.md` was authored from direct observation of the live page via WebFetch on 2026-05-25; the analysis content does not depend on the screenshot binaries to be valid, but the curated reference asset is incomplete until binaries are captured.

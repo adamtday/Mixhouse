@@ -68,6 +68,16 @@ The podcast hub demonstrates archive-as-asset thinking:
 
 Supports `07_brand_world/cultural_authenticity.md` scene-recognition test for music distribution. Informs `07_brand_world/visual_principles.md` premium-confidence principle (the archive depth carries credibility without claim). Relevant to future season-arc archive design when MixHouse cycle catalogue grows.
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_ra_podcast_p1.png`: featured weekly episode hero
+- `20260525_ra_podcast_p2.png`: archive grid for current year
+- `20260525_ra_podcast_p3.png`: year navigation (Previous / Next) showing archive depth
+
+Status: pending founder capture (priority P2). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25.

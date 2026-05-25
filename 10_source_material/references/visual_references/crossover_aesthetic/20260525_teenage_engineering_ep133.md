@@ -73,6 +73,18 @@ This page reveals TE operating in a different register from the homepage:
 
 Supports `07_brand_world/visual_principles.md` premium-confidence and editorial-hierarchy principles. Provides a worked example of how a product-brand can carry cultural-reference weight without becoming pastiche. Cross-links to the artist-identity-systems category in `04_competitive_landscape/reference_taxonomy.md`.
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_teenage_engineering_ep133_p1.png`: hero with Muhammad Ali imagery and price CTA
+- `20260525_teenage_engineering_ep133_p2.png`: feature breakdown extending the boxing metaphor
+- `20260525_teenage_engineering_ep133_p3.png`: "no. 1 champion" or "go the distance" headline section
+- `20260525_teenage_engineering_ep133_p4.png`: technical specifications section
+- `20260525_teenage_engineering_ep133_p5.png`: footer
+
+Status: pending founder capture (priority P3; recommended). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25.

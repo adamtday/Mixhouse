@@ -72,6 +72,16 @@ Box to Box's web presence is itself a deliberate position. The mechanism:
 
 Anchors the executive-persuasion taxonomy category in `04_competitive_landscape/reference_taxonomy.md` (production-credential restraint). Informs `04_competitive_landscape/drive_to_survive.md` (Box to Box is the producer behind DTS). Cross-links to `06_production_strategy/production_model.md` for production-company precedent. Supports the premium-confidence and anti-corporate-SaaS principles in `07_brand_world/visual_principles.md`.
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_box_to_box_films_homepage_p1.png`: sparse navigation header
+- `20260525_box_to_box_films_homepage_p2.png`: production list with five recent titles
+- `20260525_box_to_box_films_homepage_p3.png`: footer with contact email
+
+Status: pending founder capture (priority P2). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25.

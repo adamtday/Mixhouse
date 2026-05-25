@@ -64,6 +64,16 @@ The reviews section demonstrates RA's critical voice:
 
 Supports the music-authenticity refusal discipline in `07_brand_world/visual_principles.md` (electronic music is signalled through atmosphere and scene-credible writing, not through decoration). Anchors `07_brand_world/cultural_authenticity.md` scene-recognition test for music criticism specifically.
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_ra_reviews_p1.png`: RA Recommends tab with byline-visible cards
+- `20260525_ra_reviews_p2.png`: Albums tab content
+- `20260525_ra_reviews_p3.png`: Singles tab showing scene-specific genre tagging
+
+Status: pending founder capture (priority P2). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25.

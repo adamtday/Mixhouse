@@ -71,6 +71,17 @@ Teenage Engineering's brand world is one of the strongest pattern-references for
 
 Anchors `07_brand_world/visual_principles.md` anti-corporate-SaaS refusal (TE demonstrates how to operate a product-brand without SaaS conventions). Supports `07_brand_world/visual_positioning.md` editorial-type discipline. Provides a worked example of music-adjacent brand-world authenticity that scene insiders verify.
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_teenage_engineering_homepage_p1.png`: hero with restrained product display
+- `20260525_teenage_engineering_homepage_p2.png`: navigation revealing collections
+- `20260525_teenage_engineering_homepage_p3.png`: playful-and-technical voice pairing in context
+- `20260525_teenage_engineering_homepage_p4.png`: footer with Stockholm address and Japanese text
+
+Status: pending founder capture (priority P2). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25.

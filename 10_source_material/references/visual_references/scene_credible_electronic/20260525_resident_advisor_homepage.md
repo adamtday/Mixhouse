@@ -75,6 +75,18 @@ RA's homepage is a scene-credibility masterclass:
 
 Anchors `07_brand_world/cultural_authenticity.md` scene-recognition test. Informs `07_brand_world/visual_principles.md` authenticity principle. Anchors the scene-credible-electronic reference class in `04_competitive_landscape/visual_reference_analysis.md`. Supports the assumed-knowledge editorial discipline that should propagate across all MixHouse music-facing surfaces.
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_resident_advisor_homepage_p1.png`: Latest News hero
+- `20260525_resident_advisor_homepage_p2.png`: city-specific event listings showing regional selector
+- `20260525_resident_advisor_homepage_p3.png`: magazine card grid with feature series
+- `20260525_resident_advisor_homepage_p4.png`: footer with B-Corp badge and social platforms (counter-reference patterns)
+- `20260525_resident_advisor_homepage_p5.png`: secondary navigation (Festivals, RA Podcast, Reviews, Mix of the Day, Playlists)
+
+Status: pending founder capture (priority P1). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25.

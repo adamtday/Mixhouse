@@ -66,6 +66,16 @@ Cirque's home page demonstrates a brand-world-first commercial approach:
 
 Informs `07_brand_world/visual_principles.md` premium-confidence principle (brand-world precedes commercial inventory). Cross-links to `03_market_research/festival_live_experience_market.md` for live-entertainment franchise positioning. Provides a useful contrast reference for MixHouse: how a global live-entertainment brand operates without aspirational-marketing-voice (Cirque does it; the user-facing register reveals the limits of that approach).
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_cirque_du_soleil_homepage_p1.png`: hero with character illustration and mission statement
+- `20260525_cirque_du_soleil_homepage_p2.png`: navigation showing corporate-and-entertainment separation
+- `20260525_cirque_du_soleil_homepage_p3.png`: footer with affiliated brands (Blue Man Group, VStar Entertainment)
+
+Status: pending founder capture (priority P3; recommended). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25.

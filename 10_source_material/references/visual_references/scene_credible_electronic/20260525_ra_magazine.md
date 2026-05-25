@@ -66,6 +66,16 @@ The magazine section reveals RA's editorial discipline at depth:
 
 Informs `07_brand_world/visual_principles.md` editorial-hierarchy principle. Anchors the assumed-knowledge editorial discipline that should propagate across MixHouse music-facing surfaces. Cross-links to `04_competitive_landscape/visual_reference_analysis.md` scene-credible-electronic reference class.
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_ra_magazine_p1.png`: top of magazine hub showing density-led layout
+- `20260525_ra_magazine_p2.png`: Latest Features section
+- `20260525_ra_magazine_p3.png`: Feature Series cards with headline craft examples
+
+Status: pending founder capture (priority P2). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25.

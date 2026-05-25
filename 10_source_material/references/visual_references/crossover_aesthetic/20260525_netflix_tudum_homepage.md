@@ -64,6 +64,17 @@ Tudum's mechanism is the most relevant single reference for MixHouse companion e
 
 Informs `08_website_strategy/page_briefs/audience.md` (when detailed) for companion editorial surfaces. Supports the fan-participation principle category in `04_competitive_landscape/reference_taxonomy.md`. Relevant to `03_market_research/reality_tv_landscape.md` streamer-commissioning understanding.
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_netflix_tudum_homepage_p1.png`: hero imagery with Tudum wordmark
+- `20260525_netflix_tudum_homepage_p2.png`: content cards / topic cluster section
+- `20260525_netflix_tudum_homepage_p3.png`: on-set photography in editorial context
+- `20260525_netflix_tudum_homepage_p4.png`: footer Netflix integration
+
+Status: pending founder capture (priority P4; optional). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25. Note: WebFetch returned partial structured observation; specific photography details and copy register samples warrant direct founder review of the page when capturing.

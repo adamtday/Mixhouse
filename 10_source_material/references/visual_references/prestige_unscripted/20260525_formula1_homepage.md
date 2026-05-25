@@ -84,6 +84,18 @@ F1.com is the most strategically relevant reference for MixHouse's "show plus sp
 
 Anchors the prestige-unscripted reference class in `04_competitive_landscape/visual_reference_analysis.md` (F1 is the parent sport for Drive to Survive). Informs `04_competitive_landscape/drive_to_survive.md` (existing competitor analysis). Cross-links to `04_competitive_landscape/prestige_unscripted_breakdown.md` for category-evolution context. Supports the result-as-hero and verbatim-quote-headline disciplines in `07_brand_world/visual_principles.md`.
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_formula1_homepage_p1.png`: result-as-hero (latest race result)
+- `20260525_formula1_homepage_p2.png`: schedule carousel (previous / next race)
+- `20260525_formula1_homepage_p3.png`: standings table with visual hierarchy
+- `20260525_formula1_homepage_p4.png`: video gallery section
+- `20260525_formula1_homepage_p5.png`: footer with partner logos (counter-reference)
+
+Status: pending founder capture (priority P1; capture during or shortly after a race weekend if possible to preserve result-as-hero state). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25.
