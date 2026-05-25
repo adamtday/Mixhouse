@@ -3,11 +3,12 @@ doc_type: source
 status: stable
 confidentiality: internal
 owners: [adamtday]
-last_reviewed: 2026-05-20
-retrieval_tags: [raw_notes, transcript, reference, screenshot, source_index]
+last_reviewed: 2026-05-24
+retrieval_tags: [raw_notes, transcript, reference, screenshot, quote, stat, article, source_index]
 related:
   - 00_system/naming_conventions.md
   - 00_system/source_reliability_rules.md
+  - 03_market_research/research_source_registry.md
 ---
 
 # Source Material
@@ -27,13 +28,18 @@ Hold the raw, undigested inputs that fuel the analytical and creative work elsew
 
 ### Subfolders
 
-| Subfolder | Contents |
-| --- | --- |
-| `raw_notes/` | Plain-text observations, workshop notes, brainstorm dumps. |
-| `transcripts/` | Full transcripts from calls, interviews, advisor conversations. |
-| `pitch_decks/` | Versioned pitch deck exports (PDF / Keynote / PPT). |
-| `references/` | External references (PDFs of reports, screenshots of articles, photographs). |
-| `screenshots/` | Frame grabs and competitor-product screenshots. |
+| Subfolder | Contents | Folder README |
+| --- | --- | --- |
+| `raw_notes/` | Plain-text observations, workshop notes, brainstorm dumps. Anonymous and off-record material lives here. | (none yet) |
+| `transcripts/` | Full transcripts from calls, interviews, advisor conversations, meetings, panels, podcast recordings. Parent home for all interview and recorded-exchange content. | `transcripts/README.md` |
+| `pitch_decks/` | Versioned pitch deck exports (PDF / Keynote / PPT). | (none yet) |
+| `references/` | External reference documents: primary-source reports (IFPI, MIDiA, Pollstar), format documents, visual references (cinematography, brand, fashion, design), legal templates. Parent home for visual references. | `references/README.md` |
+| `screenshots/` | Raw frame captures of websites, show pages, UIs, moodboard sources, social-media posts. Promote into `references/visual_references/` after editorial review. | `screenshots/README.md` |
+| `quotes/` | Attributable quotes from named contributors, advisors, partners, press, panel discussions. Excerpted from `transcripts/` or captured from press / public talks. | `quotes/README.md` |
+| `stats/` | Quantitative source artefacts (CSVs, dashboard screenshots, PDF table extracts) that underwrite numerical claims. | `stats/README.md` |
+| `articles/` | Archival copies of press articles, trade-publication coverage, scene editorial, substack journalism. | `articles/README.md` |
+
+Per-folder READMEs detail what belongs there, naming conventions, frontmatter schema, source-quality expectations, ingestion rules, archival rules, and how files connect back into canonical analytical docs.
 
 ### Naming Convention
 
@@ -91,3 +97,4 @@ Indirect, references here feed `Evidence / Sources` rows on every analytical fil
 ## Change Log
 
 - 2026-05-20, Initial source-material folder index created.
+- 2026-05-24, Phase 2 source-material directory hygiene. Added three new subfolders (`quotes/`, `stats/`, `articles/`) with per-folder READMEs. Added per-folder READMEs to `transcripts/`, `references/`, `screenshots/` reusing existing folders rather than creating parallel `interview_transcripts/` or `visual_references/` directories. Cross-link to `03_market_research/research_source_registry.md` added.
