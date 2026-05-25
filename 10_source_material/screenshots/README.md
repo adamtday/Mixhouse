@@ -3,11 +3,14 @@ doc_type: source
 status: stable
 confidentiality: internal
 owners: [adamtday]
-last_reviewed: 2026-05-24
-retrieval_tags: [screenshots, visual_references, source_index, raw_inputs]
+last_reviewed: 2026-05-25
+retrieval_tags: [screenshots, visual_references, source_index, raw_inputs, capture_workflow, taxonomy_tagging]
 related:
   - 10_source_material/README.md
   - 10_source_material/references/README.md
+  - 10_source_material/reference_capture_workflow.md
+  - 04_competitive_landscape/reference_taxonomy.md
+  - 04_competitive_landscape/reference_analysis_template.md
   - 00_system/naming_conventions.md
   - 00_system/source_reliability_rules.md
 ---
@@ -75,6 +78,84 @@ attribution:
 ---
 ```
 
+## Capture Standards
+
+Resolution and completeness are non-negotiable:
+
+- **Resolution at native or higher.** Capture at native screen resolution; do not downsample. Hi-DPI displays produce the highest-fidelity captures and should be preferred when available.
+- **Format selection.** PNG for hard-edged UI, type specimens, and editorial spreads where pixel-level fidelity matters; JPG only when file-size constraint outweighs fidelity (rare); WEBP when both fidelity and compression matter and the downstream consumer supports it.
+- **No browser chrome.** Capture the page content only; crop out browser address bar, tabs, and OS chrome unless the chrome itself is the subject of the capture (rare).
+- **Sequence captures for interactions.** Multi-frame sequences when capturing an interaction, scroll behaviour, or transition. Three frames minimum (beginning, middle, end); five to seven for complex interactions.
+- **Video reference handling.** For frames pulled from video sources, capture at native video resolution. For reference clips themselves, store the clip in restricted-access storage and keep only the still frames in the KB with citation pointing to the clip location.
+- **Type specimen captures.** Capture type both at the size it appears in context and at a detail crop showing letterform construction.
+
+## Tagging Conventions
+
+Every screenshot that carries editorial significance is tagged against `04_competitive_landscape/reference_taxonomy.md` in its companion `.md` frontmatter. Tagging is the discipline that lets retrieval queries find the right slice of the reference set.
+
+Tagging schema (in companion `.md`):
+
+```yaml
+taxonomy:
+  primary_category: {category_slug}
+  secondary_categories: [{category_slug}, {category_slug}]
+  reference_class: {prestige_unscripted | scene_credible_electronic | residency_life | music_doc | crossover_aesthetic}
+```
+
+Tagging discipline:
+
+- Primary category is exactly one. The dominant retrieval use determines the primary.
+- Secondary categories are conservative; two to four is typical.
+- `reference_class` applies only to cinematic references (the five-class scheme in `04_competitive_landscape/visual_reference_analysis.md`).
+- `retrieval_tags` frontmatter list includes the source short name plus topic tags; primary and secondary taxonomy slugs are mirrored into `retrieval_tags` for compatibility with the wider tag vocabulary in `00_system/retrieval_tags.md`.
+
+## Annotation Guidance
+
+Companion `.md` body content (below frontmatter) carries annotation when the screenshot will inform analysis. Annotation discipline:
+
+- **Lead with observation, not impression.** Describe the mechanism (lens choice, light, blocking, hierarchy, timing) before any aesthetic judgement.
+- **Connect to canonical work.** State which canonical file the screenshot informs and what specific decision it supports or argues against.
+- **Identify the refusal.** Name what should NOT translate from the captured material to MixHouse. This is the highest-value annotation field.
+- **Keep it short and load-bearing.** Three to six paragraphs for a meaningful annotation; longer is rarely better.
+- **No em dashes.** Repository-wide rule applies in companion files.
+
+Worked annotation examples live in `10_source_material/reference_capture_workflow.md`.
+
+## Anti-Noise Rules
+
+Refuse the following capture patterns:
+
+- **Bulk-capturing entire websites or albums.** Capture only the frames that inform a specific decision. If the decision is not yet known, do not capture.
+- **Decontextualised image saves.** If the source attribution cannot be reconstructed at point of capture, do not capture. The source identity must survive into the filename.
+- **Aggregator screenshots.** Captures from Pinterest, We Heart It, or similar aggregators obscure the original creator and lose attribution. Capture the original source instead.
+- **Duplicate captures.** Before capturing, search existing screenshots for the same source-and-context. Promote existing captures via the workflow in `reference_capture_workflow.md` rather than recapture.
+- **AI-generated reference imagery presented as captured.** Do not capture AI-generated material into the reference set. If AI-generated material must be referenced, it carries explicit attribution to the generative system.
+- **Trend-chasing captures without retrieval intent.** A capture that does not connect to a canonical file becomes inbox sprawl. The intent question ("which canonical file will this inform?") is asked at point of capture, not later.
+- **Single-frame captures of multi-frame interactions.** A scroll grammar or transition is not a single frame; capturing it as one degrades the asset.
+
+## Folder Taxonomy
+
+Top-level structure of `10_source_material/screenshots/`:
+
+```
+10_source_material/screenshots/
+  {YYYYMMDD_source_topic.{ext}}              # binary captures
+  {YYYYMMDD_source_topic.md}                 # companion annotations
+```
+
+Sub-folders are used sparingly. When the screenshot set within a single source reaches ten or more captures, create a source-named sub-folder:
+
+```
+10_source_material/screenshots/
+  cercle_catalogue/
+    20260518_cercle_pyramids_drone_master_p1.png
+    20260518_cercle_pyramids_drone_master_p1.md
+    20260601_cercle_versailles_opera_house_p1.png
+    20260601_cercle_versailles_opera_house_p1.md
+```
+
+Screenshots that have been promoted to curated references move into `10_source_material/references/visual_references/{reference_class}/` per the promotion workflow in `reference_capture_workflow.md`. The raw screenshot stays in `screenshots/` as evidence; the curated reference is the analysed artefact.
+
 ## Source-Quality Expectations
 
 Screenshots are reference material, not factual evidence. They inform editorial and design decisions but typically do not appear in Evidence tables of analytical files. When they do appear (e.g., a screenshot of a Netflix subscriber-attribution callout in earnings commentary), they are cited at the tier of the underlying source:
@@ -87,9 +168,10 @@ Screenshots are reference material, not factual evidence. They inform editorial 
 
 1. Date-captured in the filename is mandatory.
 2. Source identifier in the filename is mandatory.
-3. For screenshots that will be analysed editorially, create a companion `.md` with frontmatter and `related:` links.
+3. For screenshots that will be analysed editorially, create a companion `.md` with frontmatter, taxonomy tags, and `related:` links.
 4. Respect copyright constraints. Screenshots for internal-reference use are typically protected under fair use; downstream use (decks, public-facing copy) requires per-image clearance.
 5. Avoid bulk-capturing entire websites; capture the specific frame or page that informs a decision.
+6. Follow the full five-stage workflow in `10_source_material/reference_capture_workflow.md` for any screenshot intended to inform analysis. Screenshots captured without taxonomy classification and canonical linkage are downgraded to `status: deprecated` after 30 days.
 
 ## Archival Rules
 
@@ -112,3 +194,4 @@ Screenshots referenced from `04_competitive_landscape/visual_reference_analysis.
 ## Change Log
 
 - 2026-05-24, Initial screenshots folder README created as part of Phase 2 source-material directory hygiene.
+- 2026-05-25, Phase 2.5 reference-ingestion expansion. Added Capture Standards, Tagging Conventions, Annotation Guidance, Anti-Noise Rules, and Folder Taxonomy sections. Added cross-links to `04_competitive_landscape/reference_taxonomy.md`, `04_competitive_landscape/reference_analysis_template.md`, and `10_source_material/reference_capture_workflow.md`.

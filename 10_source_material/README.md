@@ -3,12 +3,15 @@ doc_type: source
 status: stable
 confidentiality: internal
 owners: [adamtday]
-last_reviewed: 2026-05-24
-retrieval_tags: [raw_notes, transcript, reference, screenshot, quote, stat, article, source_index]
+last_reviewed: 2026-05-25
+retrieval_tags: [raw_notes, transcript, reference, screenshot, quote, stat, article, source_index, capture_workflow]
 related:
   - 00_system/naming_conventions.md
   - 00_system/source_reliability_rules.md
   - 03_market_research/research_source_registry.md
+  - 10_source_material/reference_capture_workflow.md
+  - 04_competitive_landscape/reference_taxonomy.md
+  - 04_competitive_landscape/reference_analysis_template.md
 ---
 
 # Source Material
@@ -40,6 +43,10 @@ Hold the raw, undigested inputs that fuel the analytical and creative work elsew
 | `articles/` | Archival copies of press articles, trade-publication coverage, scene editorial, substack journalism. | `articles/README.md` |
 
 Per-folder READMEs detail what belongs there, naming conventions, frontmatter schema, source-quality expectations, ingestion rules, archival rules, and how files connect back into canonical analytical docs.
+
+### Top-Level Workflow
+
+`reference_capture_workflow.md` codifies the end-to-end five-stage workflow (capture, attribute, classify, link, review) that every reference passes through before it informs canonical analysis. Any agent ingesting visual, cinematic, editorial, or interaction reference material into this folder must follow that workflow. Taxonomy classification is defined in `04_competitive_landscape/reference_taxonomy.md`; per-reference analysis is defined in `04_competitive_landscape/reference_analysis_template.md`.
 
 ### Naming Convention
 
@@ -98,3 +105,4 @@ Indirect, references here feed `Evidence / Sources` rows on every analytical fil
 
 - 2026-05-20, Initial source-material folder index created.
 - 2026-05-24, Phase 2 source-material directory hygiene. Added three new subfolders (`quotes/`, `stats/`, `articles/`) with per-folder READMEs. Added per-folder READMEs to `transcripts/`, `references/`, `screenshots/` reusing existing folders rather than creating parallel `interview_transcripts/` or `visual_references/` directories. Cross-link to `03_market_research/research_source_registry.md` added.
+- 2026-05-25, Phase 2.5 reference-ingestion expansion. Added `reference_capture_workflow.md` top-level workflow file. Added Top-Level Workflow section pointing to the five-stage workflow plus taxonomy and analysis-template anchors in `04_competitive_landscape/`.
