@@ -57,6 +57,19 @@ Primary category `editorial_systems` reflects Pitchfork's role as a publication-
 
 Once captured, this reference will inform `07_brand_world/visual_principles.md` editorial-hierarchy and authenticity principles, plus `07_brand_world/cultural_authenticity.md` scene-recognition test for music criticism. Cross-links to RA homepage analysis for comparative editorial-publication architecture.
 
+## Screenshot Links
+
+Expected binary filenames in this folder once founder capture completes (frames in reading order):
+
+- `20260525_pitchfork_pending_capture_p1.png`: homepage hero / lead article
+- `20260525_pitchfork_pending_capture_p2.png`: review-score system in context (iconic 0-to-10 score visible)
+- `20260525_pitchfork_pending_capture_p3.png`: Best New Music or feature series
+- `20260525_pitchfork_pending_capture_p4.png`: footer with Condé Nast integration
+- `20260525_pitchfork_pending_capture_p5.png`: a specific review page (optional but useful for type-and-byline analysis)
+- `20260525_pitchfork_pending_capture_p6.png`: a long-form feature article showing layout system
+
+Status: BLOCKED at CDN layer; founder manual capture required (priority P0). After capture, this stub should be renamed (companion `.md` and binaries) to drop the `_pending_capture` suffix, and the analysis content should be written to replace this stub. Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Capture Workflow Notes
 
 This entry tests the workflow's behaviour for sources blocked at the CDN layer (vs Cercle Odyssey, which appeared to be a network-level connection issue). The discipline is the same: do not fabricate analysis. The stub is logged so retrieval can find it; the deep analysis stays open until the founder can capture from a browser environment.

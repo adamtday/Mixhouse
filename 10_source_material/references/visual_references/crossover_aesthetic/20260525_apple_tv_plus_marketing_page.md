@@ -62,6 +62,17 @@ This page makes a notable choice: it does not tile shows. The mechanism:
 
 Informs `07_brand_world/visual_principles.md` premium-confidence and editorial-hierarchy principles. Supports the prestige-streamer positioning in `04_competitive_landscape/prestige_unscripted_breakdown.md`. Provides a working pattern for partnership-as-credibility relevant to `08_website_strategy/page_briefs/business_model.md` once page briefs are detailed.
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_apple_tv_plus_marketing_page_p1.png`: hero with partnership imagery and tagline
+- `20260525_apple_tv_plus_marketing_page_p2.png`: subscription block with two CTAs
+- `20260525_apple_tv_plus_marketing_page_p3.png`: partnership logos (F1, MLS, MLB) in context
+- `20260525_apple_tv_plus_marketing_page_p4.png`: footer
+
+Status: pending founder capture (priority P1). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25.

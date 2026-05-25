@@ -75,6 +75,16 @@ The Drivers page is the strongest single reference for MixHouse cast-presentatio
 
 Anchors the artist-identity-systems taxonomy category in `04_competitive_landscape/reference_taxonomy.md` for cast-presentation patterns. Informs `07_brand_world/cultural_authenticity.md` cast-as-first-class-entity discipline. Cross-links to F1 homepage analysis for cohort-roster pattern continuity.
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_formula1_drivers_page_p1.png`: 20-driver grid hero
+- `20260525_formula1_drivers_page_p2.png`: detail of driver-card treatment (team colour, national flag)
+- `20260525_formula1_drivers_page_p3.png`: news section in context
+
+Status: pending founder capture (priority P2). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25.

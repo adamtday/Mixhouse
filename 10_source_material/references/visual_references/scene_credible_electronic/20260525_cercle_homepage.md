@@ -75,6 +75,17 @@ This is a significant update to the Cercle reference. The mechanism:
 
 Anchors `07_brand_world/cultural_authenticity.md` scene-recognition test for the most credible single brand in electronic-music cinematic capture. Informs `04_competitive_landscape/cercle.md` (existing competitor deep-dive) and `04_competitive_landscape/cinematography_language.md` (Cercle cinematic-livestream grammar). Updates the Cercle reference in `04_competitive_landscape/visual_reference_analysis.md` scene-credible-electronic reference class.
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_cercle_homepage_p1.png`: hero with performer-at-screen image
+- `20260525_cercle_homepage_p2.png`: six-card navigation grid (ODYSSEY, Festival, MOMENT, RECORDS, SHOP, Newsletter)
+- `20260525_cercle_homepage_p3.png`: brand-positioning sentence in context
+- `20260525_cercle_homepage_p4.png`: footer with eight social-platform icons
+
+Status: pending founder capture (priority P1). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25.

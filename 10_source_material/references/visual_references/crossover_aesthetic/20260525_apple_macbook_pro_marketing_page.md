@@ -65,6 +65,18 @@ This is the densest of the three Apple product pages observed. The mechanism:
 
 Informs `07_brand_world/visual_principles.md` editorial-hierarchy and emotional-contrast principles (how to hold two registers on the same page). Supports the depth-on-demand pattern relevant to `08_website_strategy/page_briefs/` once page briefs detail their depth layers.
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_apple_macbook_pro_marketing_page_p1.png`: hero with M5 V-shape product visualisation
+- `20260525_apple_macbook_pro_marketing_page_p2.png`: feature section running narrative and adjacent spec content separately
+- `20260525_apple_macbook_pro_marketing_page_p3.png`: M5 / M4 / M1 comparison table
+- `20260525_apple_macbook_pro_marketing_page_p4.png`: lifestyle photography section
+- `20260525_apple_macbook_pro_marketing_page_p5.png`: footer
+
+Status: pending founder capture (priority P2). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25.

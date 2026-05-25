@@ -64,6 +64,18 @@ Compared to Vision Pro, this page leans harder on product-photography rhythm and
 
 Informs `07_brand_world/visual_principles.md` premium-confidence and editorial-hierarchy principles. Supports the editorial-type-discipline element of `07_brand_world/visual_positioning.md`. Provides a working pattern for tabbed depth-on-demand that may inform `08_website_strategy/page_briefs/business_model.md` once that page brief is detailed.
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_apple_airpods_max_marketing_page_p1.png`: hero with colorway carousel
+- `20260525_apple_airpods_max_marketing_page_p2.png`: "Take a closer look" interactive color selector
+- `20260525_apple_airpods_max_marketing_page_p3.png`: tabbed audio-specification section
+- `20260525_apple_airpods_max_marketing_page_p4.png`: two-word-headline section example
+- `20260525_apple_airpods_max_marketing_page_p5.png`: footer
+
+Status: pending founder capture (priority P2). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25.

@@ -56,6 +56,19 @@ Primary category `audio_reactive` is the best guess at the dominant category fro
 
 Once captured, this reference will inform `07_brand_world/visual_principles.md` audio-reactive and immersive-transitions principles, plus the audio-reactive-systems taxonomy category in `04_competitive_landscape/reference_taxonomy.md`. Cross-links to the Cercle parent reference and to `04_competitive_landscape/cercle.md` competitor analysis.
 
+## Screenshot Links
+
+Expected binary filenames in this folder once founder capture completes (frames in reading order):
+
+- `20260525_cercle_odyssey_pending_capture_p1.png`: hero with immersive-experience pitch
+- `20260525_cercle_odyssey_pending_capture_p2.png`: navigation and property positioning
+- `20260525_cercle_odyssey_pending_capture_p3.png`: location-and-date presentation
+- `20260525_cercle_odyssey_pending_capture_p4.png`: audio-reactive or motion elements in context
+- `20260525_cercle_odyssey_pending_capture_p5.png`: positioning copy and differentiation from main Cercle catalogue
+- `20260525_cercle_odyssey_pending_capture_p6.png`: footer
+
+Status: BLOCKED at fetch; founder manual capture required (priority P0). After capture, this stub should be renamed (companion `.md` and binaries) to drop the `_pending_capture` suffix, and the analysis content should be written to replace this stub. Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Capture Workflow Notes
 
 This entry tests the workflow's behaviour for inaccessible sources. The discipline: do not fabricate analysis. Capture-pending is its own status. The reference is logged so retrieval can find it; the analysis stays open until the founder can capture from a browser environment that does not trigger the source's CDN bot detection.

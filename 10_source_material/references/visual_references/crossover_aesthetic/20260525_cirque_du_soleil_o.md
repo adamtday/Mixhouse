@@ -69,6 +69,16 @@ The "O" show page reveals Cirque's per-show treatment:
 
 Cross-links to `07_brand_world/visual_principles.md` premium-confidence principle (specific scale numbers as credibility signal). Supports the executive-persuasion taxonomy category in `04_competitive_landscape/reference_taxonomy.md` (third-party quote architecture).
 
+## Screenshot Links
+
+Expected binary filenames in this folder (frames captured in reading order):
+
+- `20260525_cirque_du_soleil_o_p1.png`: hero quote ("They respect every little detail...")
+- `20260525_cirque_du_soleil_o_p2.png`: FAQ section showing specific scale numbers (1.5 million gallons, 75 artists, etc.)
+- `20260525_cirque_du_soleil_o_p3.png`: footer
+
+Status: pending founder capture (priority P3; recommended). Capture brief in `10_source_material/screenshots/manual_capture_checklist.md` and `10_source_material/screenshots/capture_packet_for_adam.md`.
+
 ## Screenshot Capture Status
 
 Screenshot binaries pending founder manual capture. Companion `.md` authored from direct observation via WebFetch on 2026-05-25.
